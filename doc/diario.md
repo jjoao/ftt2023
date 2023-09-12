@@ -1,0 +1,4 @@
+# Terminologia e tecnologia da informação
+
+# Ferramentas de tradução e de terminologia
+
