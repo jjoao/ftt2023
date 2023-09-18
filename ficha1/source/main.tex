@@ -112,7 +112,7 @@ O objetivo deste exercício é um pequeno exercício de tradução.
 \subsection*{Exercício 3 - Tradução usando find\&replace}
 O objetivo deste exercício é tentar otimizar o exercício anterior, utilizando find\&replace.
 \begin{enumerate}
-    \item Escolher e abrir num editor de texto o documento original anterior
+    \item Escolher e abrir num editor de texto o documento original do exercício anterior
     \item Procurar ocorrências de palavras repetidas na tradução (\textbf{Exemplo:} aparece muitas vezes `gato' que se traduz sempre para `cat')
     \item Após identificar todas as repetições, utiliza-se um find\&replace para substituir. Para isso usa-se o comando CTRL+H, ou Find > Replace
     \begin{figure}[h!]
@@ -125,5 +125,30 @@ O objetivo deste exercício é tentar otimizar o exercício anterior, utilizando
     \item Terminar a tradução do ficheiro    
 \end{enumerate}
 
+\newpage
+
+\subsection*{Exercício 4 - Tradução usando uma ferramenta automática}
+O objetivo deste exercício é otimizar ainda mais o exercício anterior, utilizando uma ferramenta de find\&replace que pode ser descarregada \href{https://jjoao.github.io/ftt2023/util/script.py}{aqui}.
+\begin{enumerate}
+    \item Escolher e abrir num editor de texto o documento original do exercício anterior
+    \item Procurar ocorrências de palavras repetidas na tradução (\textbf{Exemplo:} aparece muitas vezes `gato' que se traduz sempre para `cat') e guardar da seguinte maneira: 
+    \begin{verbatim}
+s/gato/cat/;
+    \end{verbatim}
+    \textit{\textbf{nota:} apenas é válida uma tradução por linha}
+    \item Após a criação do ficheiro de traduções executa-se o programa, indicando o nome do ficheiro original e o de traduções. Posteriormente é criado um ficheiro de \textit{output}.
+    \item Terminar a tradução do ficheiro
+\end{enumerate}
+
+
+\subsection*{Desafio}
+No texto anterior, percebendo quais os dois sujeitos com mais ocorrências, trocá-los de posição utilizando um dos métodos do exercício 3 ou 4, por exemplo:
+\begin{verbatim}
+    O cão mordeu o gato.
+\end{verbatim}
+Passa a ser:
+\begin{verbatim}
+    O gato mordeu o cão.
+\end{verbatim}
 
 \end{document}
