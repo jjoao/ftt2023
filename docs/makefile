@@ -1,7 +1,7 @@
-all: index.html notas.pdf
+all: index.html sebenta.pdf
 
 index.html: diario.md
-		pandoc diario.md -s -o index.html
+	pandoc diario.md -s -o index.html
 
-notas.pdf: notas.md
-	pandoc -V geometry:a4paper,margin=2cm -V numbersections --toc -t pdf 'notas.md'  -o notas.pdf
+sebenta.pdf: sebenta.md
+	pandoc -V geometry:a4paper,margin=2cm -V numbersections --toc -t pdf 'sebenta.md'  -o sebenta.pdf

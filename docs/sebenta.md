@@ -1,5 +1,5 @@
 ---
-title: Sebenta de TTI - FTTT
+title: Sebenta de TTI - FTT
 author:
  - Tiago Barata
  - J.J. Almeida
@@ -9,6 +9,11 @@ date: 2023
 # Cultura geral
 
 - Mastering your text editor
+  - Exemplo Sublime
+  - configuração
+    - encodings
+    - distraction free
+    - ...
   - Expressões Regulares
 
 ## See Also
