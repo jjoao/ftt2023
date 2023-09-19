@@ -1,0 +1,299 @@
+Education > Degree in Psychology > Degree in Psychology > Study Plan
+
+Study Plan
+
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Academic Competencies 	Psi 	3
+S1 	Genetics and Behavior 	GEN 	3
+S1 	History of Psychology 	Psi 	6
+S1 	Introduction to Neuroscience 	Psi 	6
+S1 	Psychology of Learning 	Psi 	6
+S1 	Psychology of Memory 	Psi 	6
+S2 	Developmental Psychology of Childhood and Adolescence 	Psi 	6
+S2 	Emotions Psychology 	Psi 	6
+S2 	Psychology of Motivation 	Psi 	6
+S2 	Quantitative Methods of Research in Psychology 	Psi 	6
+S2 	Opção UMinho 		6
+	Bioethics 	ECS 	6
+	Business Creation 	G 	6
+	Collaboration for a Sustainable Development in the Digitalization Era 	EGI 	6
+	Crime, Deviance and Control 	SOC 	6
+	Data Mining for Data Science 	TSI 	6
+	Education and Interpersonal Development in the University Context 	CEd 	6
+	Environment and Energy 	ENG 	6
+	Fundamentals and Practices of First Aid 	ENF 	6
+	Galician Language and Culture 	LLC 	6
+	Gestão de Ativos 	EC 	6
+	Governance and Public Private Partnerships 	CA 	6
+	Green Buildings 	ENG 	6
+	International Courts 	D 	6
+	Introduction to Augmented Reality, Optical Systems and Applications 	Fis 	6
+	Introduction to the German Language and Culture 	ELG 	6
+	Introduction to the Spanish Language and Culture 	ELG 	6
+	Leadership and Entrepreneurship 	EIS 	6
+	Learning from Networks 	ESi 	6
+	Mathematics Behind Things 	M 	6
+	Occupational Safety and Health 	EH 	6
+	Organization and Data Analysis 	EIS 	6
+	Photographic Literacy from Physics to Message 	Fis 	6
+	Political Issues in the History of the Present Time 	H 	6
+	Preparing Generation Z Beyond Technologies 	ENG 	6
+	Principles of Economics 	E 	6
+	Psychology of Aging and Communication 	Psi 	6
+	Reading and Writing for Academic Production and Knowledge 	LEP 	6
+	Scientific Research Methodologies 	IDP 	6
+	Social Skills and Employability 	Psi 	6
+	Sport and Health 	EF 	6
+Year 2 	60
+S1 	Psychology of Adult Development and Aging 	Psi 	6
+S1 	Psychology of Perception 	Psi 	6
+S1 	Qualitative Research Methods in Psychology 	Psi 	6
+S1 	Skilled Interpersonal Communication 	Psi 	6
+S1 	Statistics Applied to Psychology I 	EST 	6
+S2 	Foundations of Psychological Assessment 	Psi 	6
+S2 	Psychology of Executive Functioning 	Psi 	6
+S2 	Psychology of Language 	Psi 	6
+S2 	Social Cognition 	Psi 	6
+S2 	Statistics Applied to Psychology II 	EST 	6
+Year 3 	60
+S1 	Ethics and Deontology 	Psi 	3
+S1 	Personality Psychology 	Psi 	6
+S1 	Psychological Intervention Models: Interventions Focused on Individual Persons I 	Psi 	6
+S1 	Psychology of Intelligence 	Psi 	6
+S1 	Psychopathology 	Psi 	6
+S1 	Scientific Writing in Psychology 	Psi 	3
+S2 	Models of Psychological Intervention in Social Contexts 	Psi 	6
+S2 	Psychological Intervention Models: Interventions Focused on Individual Persons II 	Psi 	6
+S2 	Workshops of Research in Psychology 	Psi 	6
+S2 	Opção 1 		3
+	Clinical Psychology 	Psi 	3
+	Contexts of Application on Human Cognition 	Psi 	3
+	Educational Psychology 	Psi 	3
+	Health Psychology 	Psi 	3
+	Neuropsychology 	Psi 	3
+	Psychology of Justice 	Psi 	3
+	Sport Psychology 	Psi 	3
+	Work and Organizational Psychology 	Psi 	3
+S2 	Opção 2 		3
+	Clinical Psychology 	Psi 	3
+	Contexts of Application on Human Cognition 	Psi 	3
+	Educational Psychology 	Psi 	3
+	Health Psychology 	Psi 	3
+	Neuropsychology 	Psi 	3
+	Psychology of Justice 	Psi 	3
+	Sport Psychology 	Psi 	3
+	Work and Organizational Psychology 	Psi 	3
+S2 	Opção 3 		3
+	Clinical Psychology 	Psi 	3
+	Contexts of Application on Human Cognition 	Psi 	3
+	Educational Psychology 	Psi 	3
+	Health Psychology 	Psi 	3
+	Neuropsychology 	Psi 	3
+	Psychology of Justice 	Psi 	3
+	Sport Psychology 	Psi 	3
+	Work and Organizational Psychology 	Psi 	3
+S2 	Opção 4 		3
+	Clinical Psychology 	Psi 	3
+	Contexts of Application on Human Cognition 	Psi 	3
+	Educational Psychology 	Psi 	3
+	Health Psychology 	Psi 	3
+	Neuropsychology 	Psi 	3
+	Psychology of Justice 	Psi 	3
+	Sport Psychology 	Psi 	3
+	Work and Organizational Psychology 	Psi 	3
+
+=====
+
+Education > Master Degrees > Master in Human Cognition > Study plan 
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Attentional and Perceptual Processes 	PB 	6
+S1 	Human Memory: Foundations and Applications 	PB 	6
+S1 	Judgment and Decision Making 	PB 	6
+S1 	Psycholinguistics 	PB 	6
+S1 	Research in Human Cognition 	PB 	6
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Comparative Cognition 	PB 	6
+S2 	Evolutionary Psychology 	PB 	6
+S2 	Research Project in Human Cognition 	PB 	6
+S2 	Opção 		6
+	Groups, Teams and Leadership in Organizational Context 	PTO 	6
+	Learning Difficulties 	PSI-EDU 	6
+	Marketing and Sustainability 	G 	6
+	Neuroscience of Adult Psychopathological Processes 	PC 	6
+	Occupational Health Psychology 	PTO 	6
+	Science in the Public Space 	Cie 	7.5
+Year 2 	60
+A 	Dissertation 	PB 	30
+A 	Research Praticum in Human Cognition 	PB 	30
+
+=====
+
+Master Degrees > Master in Adult Clinical Psychology and Psychotherapy > Study plan
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Case Formulation 	PC 	6
+S1 	Models of Change in Psychotherapy 	PC 	6
+S1 	Neuroscience of Adult Psychopathological Processes 	PC 	6
+S1 	Relationship Processes and Helping Skills 	PC 	6
+S1 	Transdiagnostic Processes in Psychopathology 	PC 	6
+S2 	Adult Clinical Assessment and Intervention I 	PC 	6
+S2 	Adult Clinical Assessment and Intervention II 	PC 	6
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Psychopharmacology 	PC 	6
+S2 	Research Project in Adult Clinical Psychology and Psychotherapy 	PC 	6
+Year 2 	60
+A 	Dissertation 	PC 	30
+A 	Internship in Adult Clinical Psychology and Psychotherapy 	PC 	30
+
+
+=====
+
+Education > Master Degrees > Master on Clinical Psychology in Childhood and Adolescence > Study plan
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Clinical Attendance Skills in Childhood and Adolescence 	PC 	6
+S1 	Developmental Psychopathology and Positive Development 	PD 	6
+S1 	Neuroscience of Cognitive and Socio-Emotional Development 	PC 	6
+S1 	Psychological Intervention in Infancy and Childhood 	PC 	6
+S1 	Psychopathology and Psychological Assessment in Infancy and Childhood 	PC 	6
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Psychological Intervention in Adolescence 	PC 	6
+S2 	Psychopathology and Psychological Assessment in Adolescence 	PC 	6
+S2 	Research Project in Clinical Psychology in Childhood and Adolescence 	PC 	6
+S2 	Opção
+Qualquer unidade curricular do 2º ciclo 		6
+	Attachment Development and Parenting 	PSI-EDU 	6
+	Child Maltreatment and Development 	PSI-EDU 	6
+	Learning Difficulties 	PSI-EDU 	6
+Year 2 	60
+A 	Dissertation 	PC 	30
+A 	Internship in Clinical Psychology in Childhood and Adolescence 	PC 	30
+
+=====
+
+Education > Master Degrees > Master in Educational Psychology > Study plan
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Child Maltreatment, Education and Development 	PSI-EDU 	6
+S1 	Education and Parenting 	PSI-EDU 	6
+S1 	Educational Psychological Counseling 	PSI-EDU 	6
+S1 	Instruction, Learning and Technology 	PSI-EDU 	6
+S1 	Opção 		6
+	General Notions of Criminal Law, Family and Children Law 	CJP; CJPri 	6
+	Psycholinguistics 	PB 	6
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Career Development and Counseling 	PSI-EDU 	6
+S2 	Diversity and Equity in Education 	PSI-EDU 	6
+S2 	Learning Difficulties 	PSI-EDU 	6
+S2 	Research Project in Educational Psychology 	PSI-EDU 	6
+Year 2 	60
+A 	Dissertation 	PSI-EDU 	30
+A 	Internship in Educational Psychology 	PSI-EDU 	30
+
+======
+
+Education > Master Degrees > Master in Psychology of Justice > Study plan
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Assessment and Intervention with Young Offenders 	PJ 	6
+S1 	Case Formulation in Psychology of Justice 	PJ 	6
+S1 	General Notions of Criminal Law, Family and Children Law 	CJP; CJPri 	6
+S1 	Theories and Systems of Justice 	PJ 	6
+S1 	Victimology and Forensic Practice 	PJ 	6
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Assessment and Intervention with Adult Offenders 	PJ 	6
+S2 	Psychological Intervention with Victims 	PJ 	6
+S2 	Research Project in Psychology of Justice 	PJ 	6
+S2 	Opção 		6
+	Attachment Development and Parenting 	PSI-EDU 	6
+	Child Maltreatment, Education and Development 	PSI-EDU 	6
+	Deviance and Crime 	SOC; CJP 	7.5
+	Diversity and Equity in Education 	PSI-EDU 	6
+	Educational Mediation Contexts and Practices 	MedEdu 	6
+	General Theory Of Proof 	CJG 	6
+	Groups, Teams and Leadership in Organizational Context 	PTO 	6
+	Intervention and Promotion of Family Contexts 	PSI-EDU 	7.5
+	Neuroscience of Adult Psychopathological Processes 	PC 	6
+	Prevention, Security and Policing 	CJP 	7.5
+	Professional and of Employability Competencies 	PTO 	6
+	Psychological Intervention in Adolescence 	PC 	6
+	Psychological Intervention in Infancy and Childhood 	PC 	6
+	Psychopharmacology 	PC 	6
+	Sanction, Judiciary and Police Law of the European Union 	DP 	7.5
+	Sexual Crimes 	CJP 	7.5
+Year 2 	60
+A 	Dissertation 	PJ 	30
+A 	Internship in Psychology of Justice 	PJ 	30
+
+=====
+
+Education > Master Degrees > Master in Work and Organizational Psychology > Study plan
+
+Study plan
+2022/2023
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Organizational Psychology 	PTO 	6
+S1 	Policies and Practices in Human Resource Management 	G 	6
+S1 	Research Themes in Work and Organizational Psychology 	PTO 	6
+S1 	Work Psychology 	PTO 	6
+S1 	Opção 		6
+	Brands and Organizations 	CCom 	7.5
+	Corporate Strategy 	G 	6
+	Judgment and Decision Making 	PB 	6
+	Labour Law Themes 	D 	6
+	Models of Change in Psychotherapy 	PC 	6
+	Occupational Safety and Health 	EIS 	6
+	Organization, Leadership and Training Management 	FTRH 	6
+	Organizations and Work: Current Issues 	SOC 	7.5
+S2 	Advanced Statistics Applied to Psychology 	EST 	6
+S2 	Groups, Teams and Leadership in Organizational Context 	PTO 	6
+S2 	Occupational Health Psychology 	PTO 	6
+S2 	Professional and of Employability Competencies 	PTO 	6
+S2 	Psychology Applied People Management 	PTO 	6
+Year 2 	60
+A 	Internship 	PTO 	40
+A 	Project in Work and Organizational Psychology 	PTO 	20
+
+=====
+
+Education > Master Degrees > Master in Educational Psychology Themes > Study plan
+
+Study plan
+2021/2022
+When applicable, the elective curricular units available as well as the registration conditions and the number of vacancies will be indicated annually.
+Regime 	Curricular Unit 	Scientific Area 	ECTS
+Year 1 	60
+S1 	Child Maltreatment, Development and Learning 	PSI-EDU 	10
+S1 	Learning Disabilities 	PSI-EDU 	10
+S1 	Stress and Well-being Promotion in Educational Contexts 	PSI-EDU 	10
+S2 	Career Education 	PSI-EDU 	10
+S2 	Excellence and High Performance in Achievement Contexts 	PSI-EDU 	10
+S2 	Motivation and Learning 	PSI-EDU 	10
+Year 2 	30
+S1 	Project 	PSI-EDU 	30
