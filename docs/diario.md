@@ -2,8 +2,8 @@
 title: Terminologia e tecnologia da informação
 subtitle: Ferramentas de tradução e de terminologia
 author:
-- J.J. Almeida
-- Tiago Barata
+- J.J. Almeida <jj@di.uminho.pt>
+- Tiago Barata <tiagobarata98@gmail.com>
 ---
 
 Ver também [notas](sebenta.md) [pdf](sebenta.pdf)
