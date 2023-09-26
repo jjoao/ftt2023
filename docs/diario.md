@@ -40,8 +40,12 @@ Legendas...
 -  PT: - ?
 
 
-# - 2023-09-19 ...
+# - 2023-09-19
 
 - ver [ficha1](Ficha1.pdf)
 - [materiais textuais](materiaistextuais)
 - [notas acerca do Sublime Text Editor](sublime)
+
+# - 2023-09-26
+- [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+- Desafio : Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
