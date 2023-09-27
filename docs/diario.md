@@ -48,4 +48,12 @@ Legendas...
 
 # - 2023-09-26
 - [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
-- Desafio : Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
+- **Desafio :**  Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
+  1. Procurar as palavras com mais ocorrências no ficheiro, por exemplo:
+      - and
+      - Psychology
+      - of
+      - the
+      - ...
+  2. Criar um ficheiro de traduções como o do Exercício 4 da [Ficha1](Ficha1.pdf)
+  3. Carregar os dois ficheiros para o [Google Colab](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) e testar o seu funcionamento
