@@ -1,0 +1,162 @@
+\documentclass[10pt,a4paper,notitlepage]{article}
+%Mise en page
+\usepackage[left=2cm, right=2cm, lines=45, top=0.8in, bottom=0.7in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{fancybox}
+\usepackage{pdfpages} 
+\usepackage{listings}
+\renewcommand{\headrulewidth}{1.5pt}
+\renewcommand{\footrulewidth}{1.5pt}
+\pagestyle{fancy}
+\newcommand\Loadedframemethod{TikZ}
+\usepackage[framemethod=\Loadedframemethod]{mdframed}
+\usepackage{tikz}
+\usetikzlibrary{calc,through,backgrounds}
+\usetikzlibrary{matrix,positioning}
+%Desssins geometriques
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{datavisualization}
+\usetikzlibrary{automata} % LATEX and plain TEX
+\usetikzlibrary{shapes.multipart}
+\usetikzlibrary{decorations.pathmorphing} 
+\usepackage{pgfplots}
+\usepackage{physics}
+\usepackage{titletoc}
+\usepackage{mathpazo} 
+\usepackage{algpseudocode}
+\usepackage{algorithmicx} 
+\usepackage{bohr} 
+\usepackage{xlop} 
+\usepackage{bbding} 
+\usepackage{hyperref}
+%\usepackage{minibox} 
+%Ecriture arabe
+\usepackage{mathdesign}
+\usepackage{bbding} 
+\usepackage{romande} 
+\lhead{
+\textbf{UNIVERSIDADE DO MINHO}
+}
+\rhead{\textbf{TTI}
+}
+\chead{\textbf{Trabalho Prático}}
+
+\lfoot{J. J. Almeida | Tiago Barata}
+\cfoot{}
+\rfoot{\textbf{$\mathsf{2023-2024}$}}
+%\rfoot{\textit{Pr. $\mathcal{A}$.Kaal}}
+%=====================Algo setup
+\algblock{If}{EndIf}
+\algcblock[If]{If}{ElsIf}{EndIf}
+\algcblock{If}{Else}{EndIf}
+\algrenewtext{If}{\textbf{si}}
+\algrenewtext{Else}{\textbf{sinon}}
+\algrenewtext{EndIf}{\textbf{finsi}}
+\algrenewtext{Then}{\textbf{alors}}
+\algrenewtext{While}{\textbf{tant que}}
+\algrenewtext{EndWhile}{\textbf{fin tant que}}
+\algrenewtext{Repeat}{\textbf{r\'ep\'eter}}
+\algrenewtext{Until}{\textbf{jusqu'\`a}}
+\algcblockdefx[Strange]{If}{Eeee}{Oooo}
+[1]{\textbf{Eeee} "#1"}
+{\textbf{Wuuuups\dots}}
+
+\algrenewcommand\algorithmicwhile{\textbf{TantQue}}
+\algrenewcommand\algorithmicdo{\textbf{Faire}}
+\algrenewcommand\algorithmicend{\textbf{Fin}}
+\algrenewcommand\algorithmicrequire{\textbf{Variables}}
+\algrenewcommand\algorithmicensure{\textbf{Constante}}% replace ensure by constante
+\algblock[block]{Begin}{End}
+\newcommand\algo[1]{\textbf{algorithme} #1;}
+\newcommand\vars{\textbf{variables } }
+\newcommand\consts{\textbf{constantes}}
+\algrenewtext{Begin}{\textbf{debut}}
+\algrenewtext{End}{\textbf{fin}}
+%================================
+%================================
+
+\setlength{\parskip}{1cm}
+\setlength{\parindent}{1cm}
+\setlength{\parskip}{0mm}
+\setlength{\parindent}{10mm}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    }
+
+\usepackage{xspace} % deteta se a seguir a palavra tem uma palavra ou um sinal de pontuaçao se tiver uma palavra da espaço, se for um sinal de pontuaçao nao da espaço
+
+\usepackage{placeins}
+
+\usepackage{fancyvrb}
+\fvset{fontsize=\scriptsize}
+
+%===========================================================
+\begin{document}
+
+\begin{center}
+\section*{Terminologias com NATerm}
+\end{center}
+
+\subsection*{NATerm}
+Para este trabalho vamos usar a ferramenta NATerm, que estamos a usar nas aulas. O NATerm é usado para criar terminologias. Aceita ficheiros com sintaxe própria e gera vários tipos de ficheiros, como \textit{PDF}, \textit{HTML} ou \textit{XDXF}. 
+\\
+O NATerm pode ser usada como instalação local, mas vamos usar a sua \href{https://natura.di.uminho.pt/jjbin/naterm}{versão online}.
+
+\subsection*{Usar o NATerm}
+O funcionamento do NATerm foi explorado nas aulas. Segue um exemplo de base da sintaxe do NATerm.
+
+\subsubsection*{Cabeçalhos}
+\begin{Verbatim}
+    %title Exemplo NATerm
+    %author JJoao; TBarata
+    %date 2023-09-27
+    %lang EN PT
+    %inv hpr hpn
+    %rellang EN
+\end{Verbatim}
+
+\subsubsection*{Entrada}
+\begin{Verbatim}
+    PT : gato
+    +var : ptpt
+    +G : m
+    EN : cat
+    EN : pussy-cat
+    +G : m
+    def : domestic feline
+    !obs : são fofos
+    !img : gato.jpg
+\end{Verbatim}
+$Nota_1:$ Os atributos de cada entrada são todos opcionais. Use o mais conveniente.
+\\
+$Nota_2:$ Entre cada entrada, é necessário deixar uma linha em branco.
+\\
+$Nota_3:$ As imagens devem ser colocadas numa pasta \texttt{MEDIA.zip} e carregada juntamente com a terminologia.
+
+\subsection*{Enunciado}
+Criar uma terminologia NATerm sobre um dos seguintes temas:
+\begin{itemize}
+    \item Jardinagem
+    \item Bombeiros
+    \item Bicicleta
+    \item Pastelaria
+    \item Atletismo (saltos)
+\end{itemize}
+O objetivo desta terminologia é ser o mais detalhada possível. Por exemplo, se a terminologia fosse sobre o corpo humano, podíamos colocar todos os ossos, todos os músculos, movimentos, etc... Os termos têm de estar escritos em \textbf{pelo menos 2 línguas, onde o português é obrigatório.}
+Antes de criar a terminologia imagine que esta será criada para:
+\begin{description}
+    \item[Cenário 1] Estou a criar uma terminologia para um aluno de Erasmus que tem muito interesse e conhecimentos sobre o tema selecionado
+    \item[Cenário 2] Estou a criar uma terminologia para uma pessoa que está a começar a aprender sobre o tema selecionado 
+\end{description}
+
+\subsection*{Entrega}
+O trabalho deve ser feito em grupos com no \textbf{máximo 3 elementos}, que devem entregar o ficheiro com a extensão \texttt{.naterm} até \textbf{29 de outubro}. Posteriormente indicar-se-á o local de submissão.
+
+\end{document}

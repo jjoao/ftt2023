@@ -6,9 +6,25 @@ author:
 - Tiago Barata <tiagobarata98@gmail.com>
 ---
 
-Ver também [notas](sebenta.md) [pdf](sebenta.pdf)
+# Utilidades
+## Fichas
+- [ficha1](Ficha1.pdf)
+## Trabalhos Práticos
+- [TP1](tp1.pdf) - _Entrega até 29 de outubro_
+## Materiais
+- [caoEGato.txt](materiaistextuais/file1.txt)
+- [planoDeCurso.txt](materiaistextuais/plano-de-curso.txt)
+## Ferramentas
+- [Aplicação WEB substituição](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) - Google Colab
+- [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+## Outros
+- [Notas](sebenta.md)
+- [Sebenta](sebenta.pdf)
+- [notas acerca do Sublime Text Editor](sublime)
 
-# - 2023-09-12 ...
+---
+
+# - 2023-09-12
 
 ## Tradução texto técnico (com terminologia...)
 
@@ -40,9 +56,26 @@ Legendas...
 -  EN: - He is a pain in the ass!
 -  PT: - ?
 
+---
 
-# - 2023-09-19 ...
+# - 2023-09-19
 
 - ver [ficha1](Ficha1.pdf)
 - [materiais textuais](materiaistextuais)
 - [notas acerca do Sublime Text Editor](sublime)
+
+---
+
+# - 2023-09-26
+- [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+- **Desafio :**  Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
+  1. Procurar as palavras com mais ocorrências no ficheiro, por exemplo:
+      - and
+      - Psychology
+      - of
+      - the
+      - ...
+  2. Criar um ficheiro de traduções como o do Exercício 4 da [Ficha1](Ficha1.pdf)
+  3. Carregar os dois ficheiros para o [Google Colab](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) e testar o seu funcionamento
+
+---
