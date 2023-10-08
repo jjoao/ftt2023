@@ -28,7 +28,8 @@ Desafios e Exemplos Curiosos I : O que queremos preservar?
 
 - Agora vemos como num espelho mas depois vemos face a face (S.Paulo, Sec I)
   - Como seria um espelho no Séc I ?
-- camponeses ... croissants ... (Guerra e Paz, Tolstoy)
+- camponeses russos a tomar um pequeno almoço com croissants ... (Guerra e Paz, Tolstoy)
+  - Russo -- (ru→fr) -- Francês -- (fr→pt) -- Português
   - acumulação de adaptação de tradutores (PERIGO)
 - Branca de Neve e os 7 anões
   - mirror mirror on the wall, who's the fairest of them all?

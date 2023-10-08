@@ -16,6 +16,17 @@ date: 2023
     - ...
   - Expressões Regulares
 
+# Terminologia
+
+## NATerm
+
+- 
+
+## goldendict e o formato XDXF
+
+XDXF = XML Dictionary eXchange Format
+
+
 ## See Also
 
 - https://regex101.com
@@ -29,13 +40,4 @@ date: 2023
 ## SmartCat
 
 ## OmegaT
-
-
-# Terminologia
-
-## NATerm
-
-## goldendict e o formato XDXF
-
-XDXF = XML Dictionary eXchange Format
 
