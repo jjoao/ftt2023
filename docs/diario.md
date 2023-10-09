@@ -67,7 +67,7 @@ Legendas...
 -  EN: - He is a pain in the ass!
 -  PT: - ?
 
----
+----
 
 ## - 2023-09-19
 
@@ -75,7 +75,7 @@ Legendas...
 - [materiais textuais](materiaistextuais)
 - [notas acerca do Sublime Text Editor](sublime)
 
----
+----
 
 ## - 2023-09-26
 
