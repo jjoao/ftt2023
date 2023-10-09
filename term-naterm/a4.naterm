@@ -1,0 +1,21 @@
+%lang EN PT
+%rellang EN
+%inv hpn hpr
+%inv hpr hpn
+%inline var
+
+EN: train
++ex: If you miss the train I'm on, ...
+PT: comboio
++var: pt
++ex: O comboio chegou à tabela
+PT: trem
++var: br
+!img: train.jpg
+hpn: TGV
+hpr: transports
+
+EN: guitar
+PT: viola
+hpr: musical instrument
+!snd: guitar.mp3

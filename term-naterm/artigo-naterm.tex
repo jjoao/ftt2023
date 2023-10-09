@@ -1,0 +1,330 @@
+%\documentclass[english,a4paper,12pt]{article}
+%\RequirePackage[a4paper,top=2.5cm,left=2.5cm,right=2.5cm,bottom=2.5cm,nohead,nofoot]{geometry}
+%\def\thepage{}
+
+\documentclass{ceurart}
+
+\usepackage{listings}
+\lstset{breaklines=true}    %% auto break lines
+
+\usepackage{babel}
+%\usepackage{ucs}
+\usepackage[mathletters]{ucs}
+\usepackage[utf8x]{inputenc}
+
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\fvset{fontsize=\scriptsize}
+\usepackage{url}
+%\usepackage{t1enc}
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+
+\begin{document}
+
+\copyrightyear{2022}
+\copyrightclause{Copyright for this paper by its authors.
+  Use permitted under Creative Commons License Attribution 4.0
+  International (CC BY 4.0).}
+
+\conference{MDTT 2023}
+
+\title{NAT-term -- an authoring tool for terminologies}
+
+\author{ ... Removed to anonymize }
+
+%\author{J. João Almeida}[email=jj@di.uminho.pt]
+%\author{Alberto Simões}
+%\author{Alvaro Iriarte}
+
+\begin{abstract}
+It is well known that terminologies are a crucial resource for many areas 
+such as NLP, knowledge representation and translation.
+
+In this article we discuss NAT-term -- a language to author terminologies,
+and a set of tools to validate, transform and produce a variety of outputs.
+Initially built for didactic intentions, this tool has also been used in other contexts. 
+\end{abstract}
+\begin{keywords}
+Terminologies           \sep
+Dictionaries            \sep
+Natural Language Processing
+\end{keywords}
+
+\maketitle 
+
+\section{Introduction}
+In translation studies, 
+terminology tasks (understand the concepts, definition, creation and use) is simultaneously 
+(1) a crucial step, (2) something that takes some time to master, (3) often taken 
+not so seriously as it should.
+
+
+According to our experience, after learning the main concepts, 
+students need to be involved in terminology projects. 
+
+In very compact way, we met projects reporting the use of several tools and
+formats. Following we mention some of them:
+. Multiterm (terminologies, Trados, multiterm-xml);
+. glossaries of CAT tools like SmartCAT \cite{smartcatgloss};
+. Text Encoding Iniciative (TEI), namely TEI dictionaries \cite{TEI,TEIDIC};
+. TBX (term base exchange format) \cite{tbx};
+. XDXF (dictionary exchange format) \cite{xdxf};
+. stardict, stardict-editor \cite{stardict}, using several formats;
+. goldendict \cite{goldendict} - a dictionary lookup program;
+. LaTeX + specific dictionary style -- example: (lua)naterm.sty;
+. several other non free tools (that we had some difficulties to study and
+   even more, to share with the students);
+. some academic tools (in many cases that we could not yet obtain);
+#
+
+We experiment with our students several approaches.
+\:
+  . We start with terminology created on Word (but the
+  often good-looking results have very poor structure and use).
+  . We moved on to SmartCAT's glossaries\cite{smartcatgloss} (Web based tool),
+   where it is possible to define fields (standard or user-specific) -- but it was
+  difficult to obtain some advantages or output results, and the entries insertion process is painful.
+  . We tried MultiTerm\cite{multiterm} (some concepts are clear and elegant, but lots of problems
+    with the tool (installation, Java incompatibilities, impossibility of using
+it outside Windows)\footnote{We had not yet the opportunity of working with the most recent
+       versions of Multiterm.}
+  #
+
+
+In the end, we decide to build a specific terminology tool -- NAT-term -- 
+to be used in teaching sceneries, to create, discuss terminologies, dictionaries and glossaries.
+
+
+According to the indented scope and focus, we often end up hiding some NAT-term features and notation.
+
+\section{Design goals and features}
+
+NAT-term was build with the following features:
+. Concept-based entries
+. Textual input (it is possible to create a nat-term terminology with just a text editor)
+. A set of tools to translate the terminology to a variety of output formats:
+  . (1) PDF dictionary;
+  . (2) xdxf \cite{xdxf} (XML format for dictionaries) -- to be used with 
+       goldendict\cite{goldendict} (or similar) tools;
+  . (3) (multi-file) HTML site;
+  . (4) other formats planned \cite{tbx}.
+  #
+. Transformation (nat-term terminology → output formats ) available through a command line
+   script (for programmers) and through a very simple web interface (to be used with
+   no installation effort and dependencies)
+% . Reusing open source tools (ex. LaTeX to produce good quality PDF output)
+. Rich micro structure type of attributes:
+   (1) concept attributes;
+   (2) conceptual relations -- it is possible to define relation properties (ex: InverseOf) 
+        to get inference and linking;
+   (3) attributes for terms;
+   (4) term / concept attribute values -- multimedia attributes, text, numbers, etc.
+. syntax for macro-structure definition (multi-level domain trees; maximum level: 3)
+. advanced features to (optional):
+    (1) create entries based on tables;
+    (2) external terminologies;
+    (3) directives to control output style: \texttt{ignore} (hide a field),
+        \texttt{rename} (change the output name of a field),
+        \texttt{inline} (compact / reduce size).
+#
+
+\section{NAT-term by example} 
+
+\subsection{NATerm format}
+
+Consider the following simple example, with just 2 entries (concepts):
+
+\begin{Verbatim}
+%title Dictionary EN - PT                       # area of directives
+%author JJoão                                   #   metadata
+%lang EN PT ES                                  #     languages     
+%inv hpr hyp                                    #   relation properties
+
+PT: gato                                        # Portugues term
++G: m                                           #   term atribute (gender)
+EN: cat                                         # English term
+hpr: animal                                     # conceptual ralation
+
+PT: cão
++G: m
+EN: dog
+ES: perro
+def: ....                                       # concetual textual atribute
+!img: dog.jpg                                   # multimedia atribute
+hpr: animal
+\end{Verbatim}
+
+
+In order to create a NATerm terminology, it is only necessary a
+text editor:
+   . Textual format;
+   . follows a similar approach to \emph{markdown} or \emph{wikis};
+   . \verb!%... ! - directives, metadata;
+   . entries (concepts) are separated by empty-lines.
+   #
+
+
+In order to build different output formats, we can use:
+. Command line (needs installation of naterm, and optionally LaTex, GoldenDict)
+  \\ \texttt{naterm -html f.naterm}
+  \\ ... creates "f.html"
+. or simple web interface (no installation needed)
+  \\ ... uploads "f.naterm" and downloads "t.pdf", "f.xdxf", etc
+#
+
+\subsection{Micro structure (fields, attributes)}
+
+One very important concept is the structure of each entry (concept) --
+a very simple atribute tree:
+  .  Concept oriented
+  .  2 level field:
+     .  Language term ( EN: cat ):
+        .  sub-fields of term ( +Gender: masculine )
+     #
+     .  Concept relations ( HPR: animal )
+     .  data properties ( def: is the second month of the year):
+        .  sub-fields (+src: Wikipedia)
+        .  attribute values -- text, number, multimedia,
+     #
+     . Images (!img: ....)
+     . Sound (!snd: ....)
+  #
+  .  relations and properties (ex: InverseOf)
+#
+
+\subsection{Directives and Metadata}
+:
+. Metadata:
+   . title, author, date
+   #
+. Introduction, Appendices, (\verb|%pre  %pos|)
+. Visual configure (\verb|%inline, %ignore, %rename|)
+. Language (\verb|%lang  %rellang|)
+. Relation properties (\verb|%inv|)
+. several terms obtained by inference (transportes, TGV, ...)
+#
+
+\subsection{Macro-structure Domain trees}
+
+Naterm provides notation for Domain Tree (navigation, ...) 
+-- see Fig.\ref{fig1}, making it possible navigate both top-down and
+bottom-up:
+.   top-down:
+   . TOP    \emph{subdom} animal
+   . animal \emph{subdom} mammal
+   . mammal \emph{subdom} feline
+   . feline \emph{voc} \{lion, cat, ...\}
+   #
+. bottom-up:
+   . \{lion, cat, ...\} \emph{dom} feline
+   . feline \emph{supdom} mammal
+   . mammal \emph{supdom} animal
+   . animal \emph{supdom} TOP
+   #
+#
+InverseOf:
+   . subdom ←→ supdom
+   . dom ←→ voc
+#
+
+Domains may have 3 different levels "==", "===" and "====".
+
+\begin{figure}
+%\setlength{\extrarowheight}{50pt}
+%\hspace*{-40mm}\begin{minipage}[t]{0.18\textwidth}
+%\begin{Verbatim}
+%%tit Polish : English
+%%author Sylwia Foryńska
+%%lang EN PL PT
+%%rellang EN
+%%inv dom voc
+%%inline G
+%
+%==  animals
+%
+%===  birds
+%====  bird of prey
+%
+%EN: eagle
+%
+%===  mammals
+%====  canines
+%====  felines
+%
+%EN: lion
+%
+%===  amphibians
+%===  reptiles
+%===  insects
+%
+%EN: ant
+%
+%===  crustaceans
+%===  mollusca
+%===  fish
+%\end{Verbatim}
+%\end{minipage}
+\noindent\includegraphics[width=0.28\textwidth]{img31.png}
+\includegraphics[width=0.70\textwidth]{img3.png}
+\caption{\label{fig1}Naterm domain tree elements(left), and an excerpt of the generated
+PDF (right). }
+\end{figure}
+
+\subsection{Tables based entry definition (CSV and similar)}
+
+Consider the following example:
+\begin{Verbatim}
+PT: $1
+EN: $2
+hpn: $3
+*tab{
+árvore :: tree :: bananeira | palmeira | carvalho
+fruto :: fruit :: maça | banana | uvas
+bebida :: drink :: vinho | água | chá | café
+flor :: flower :: rosa | girassol | lírio
+}
+\end{Verbatim}
+Notes:
+. For each line in a csv-table :
+    . split by '::'
+    . define a new concept-entry
+    . field 1 --- \verb|$1|
+    #
+. tables:
+    . external: \verb' * tab(food.csv)'
+    . inline: \verb' * tab{ line1 ....}'
+    #
+#
+Tables are often good to describe repetitive homogeneous structures.
+
+\section{Conclusions}
+
+We would like to emphasize the importance of
+ (1) Building real projects helps with terminology concepts comprehension.
+ (2) NAT-term authoring syntax (or subsets of it) helps clarifying ideas (ex:
+      inverseOf completions achieves good results but fails miserably if the concepts 
+      are not well organized).
+ (3) Good-looking output encourages the students.
+ (4) textual syntax approach.
+
+\subsubsection*{Future work}
+\:
+. Improve HTML output:
+   . options for:
+       . multi page, multi lingual, ... site
+       #
+   #
+. webservice
+. better error messages, and documentation
+#
+
+
+%\begin{lstlisting}
+\bibliography{naterm}
+%\end{lstlisting}
+
+
+\end{document}
+

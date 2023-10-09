@@ -1,0 +1,608 @@
+%tit Polish English portuguese
+%author Sylwia Foryńska
+%date 2019
+
+%pre {This is a small terminology of animals Polish, English, Portuguese
+to play with the basic concepts of macro-structure, relations and properties
+}
+
+%lang ENG PL PT
+%rellang ENG
+
+%inv dom voc
+%inline G
+
+==  animals
+
+PL: zwierzęta
+ENG:animals
+PT: animais
+
+===  mammals
+
+PL: ssaki
+ENG: mammals
+PT: mamíferos
+
+PL: antylopa
++G: f
+ENG: antelope
++G: n
+PT: antílope
+!img: antelope.jpg
+
+PL: borsuk
++G: m
+ENG: badger
++G: n 
+PT: texugo
+!img: badger.jpg
+
+PL: nietoperz
++G: m
+ENG: bat
++G: n
+!img: nietoperz.jpg
+
+PL: bóbr
++G: m
+ENG: beaver
++G: n
+!img: bóbr.jpg
+
+PL: wielbłąd
++G: n
+ENG: camel 
++G: n
+!img: wielbłąd.jpg
+
+PL: jeleń
++G: m
+ENG: deer
++G: n 
+!img: jeleń.jpg
+
+PL: słoń
++G: m
+ENG: elephant 
++G: n
+!img: słoń.jpg
+
+PL: żyrafa
++G: f
+ENG: giraffe
++G: n
+!img: Giraffe_standing.jpg
+
+PL: koza
++G: n
+ENG: goat
++G: n 
+!img: koza.jpg
+
+PL: chomik
++G: m
+ENG: hamster
++G: n
+!img: chomik-syryjski-wymagania-gatunku-opieka-dlugosc-zycia-2449176.jpg
+
+PL: koń
++G: m 
+ENG: horse 
++G: n
+!img: koń.jpg
+
+
+PL: kangur
++G: m
+ENG: kangaroo
++G: n
+!img: Macropus_giganteus_Juvenile.jpg
+
+PL: lama
++G: f
+ENG: llama
++G: n
+!img: lama1.jpg
+
+PL: mysz
++G: f
+ENG: mouse
++G: n
+!img: mysz.jpg
+
+PL: świnia
++G: f
+ENG: pig
++G: n
+!img: Sow_with_piglet.jpg
+
+PL: królik
++G: m
+ENG: rabbit
++G: n
+!img: królik-domowy-768x513.jpg
+
+PL: szop pracz
++G: m
+ENG: raccoon 
++G: n
+!img: szop.jpg
+
+PL: szczur
++G: m
+ENG: rat
++G: n 
+!img: szczur.jpg
+
+PL: owca
++G: f
+ENG: sheep
++G: n
+!img: owca.jpg
+
+PL: skunks
++G: m
+ENG: skunk
++G: n
+!img: skunks.jpg
+
+PL: wiewiórka
++G: f
+ENG: squirrel
++G: n
+!img: wiewiórka.jpg
+
+PL: zebra
++G: f
+ENG: zebra
++G: n
+PT: zebra
+!img: zebra.jpg
+
+====  canines
+
+PL: psowate
+ENG: canines
+
+PL: pies
++G: m
+ENG: dog
++G: n
+!img: pies.jpg
+
+PL: kojot
++G: m
+ENG: coyote
++G: n
+!img: kojot.jpg
+
+PL: lis
++G: m
+ENG: fox
++G: n
+!img: lis.jpg
+
+PL: wilk
++G: m
+ENG: wolf
++G: n
+!img: wilk.jpg
+
+====  felines
+
+PL: kotowate
+ENG: felines
+
+PL: kot
++G: m
+ENG: cat
++G: n
+
+PL: lew
++G: m
+ENG: lion
++G: n
+!img: lew.jpg
+
+PL: tygrys
++G: m
+ENG: tiger
++G: n
+!img: tygrys.jpg
+
+PL: lampart
++G: m
+ENG: leopard
++G: n
+!img: Leopard_on_a_horizontal_tree_trunk.jpg
+
+
+===  insects
+
+PL:owady
+ENG: insects
+PT: insectos
+
+PL: mrówka
++G: f
+ENG: ant
++G: n
+PT: formiga
+!img: ant.jpg
+
+PL: pluskwa
++G: f
+ENG: bedbug
++G: n
+!img: pluskwa-2-1.jpg
+
+PL: pszczoła
++G: f
+ENG: bee
++G: n
+!img: pszczoła.jpg
+
+PL: motyl
++G: m
+ENG: butterfly
++G: n
+!img: potrafia-piszczec-9-zaskakujacych-cech-motyli.jpg
+
+PL: biedronka
++G: f
+ENG: ladybug
++G: n
+!img: biedronka_01.jpg
+
+PL: komar
++G: m
+ENG: mosquito
++G: n
+!img: komar.jpg
+
+PL: pająk
++G: m
+ENG: spider
++G: n
+!img: 00076P9MIKBXQXIO-C123-F4.jpg
+
+===  amphibians
+
+PL: płazy
+ENG: amphibians
+PT: anfíbios
+
+
+PL: salamandra
++G: f
+ENG: salamander
++G: n
+PT: salamandra
+!img: salamandra_regeneracao00.jpg
+
+PL: żaba
++G: f
+ENG: frog
++G: n
+!img: Teichfrosch.jpg
+
+PL: kijanka
++G: f
+ENG: tadpole
++G: n
+!img: kijanka.jpg
+
+===  reptiles
+
+PL: gady
+ENG: reptiles
+
+PL: żółw
++G: m
+ENG: turtle
++G: n
+PT: tartaruga
+!img: z20855694IER,Zolw-to-przyjaciel-na-lata--W-Polsce-w-srodowisku-.jpg
+
+PL: jaszczurka
++G: f
+ENG: lizard
++G: n
+!img: jaszczurka.jpg
+
+PL: krokodyl
++G: m
+ENG: crocodile
++G: n
+!img: 1200px-Bazoule_sacred_crocodiles_MS_6709cropped.jpg
+
+PL: legwan
++G: m
+ENG: iguana
++G: n
+!img: legwan.jpg
+
+===  birds
+
+PL: ptaki
+ENG: birds
+PT: aves
+
+PL: kaczka
++G: f
+ENG: duck
++G: n
+PT: pato
+!img: 2015_Kaczka_krzyżowka_w_wodzie_(samiec).jpg
+
+PL: gęś
++G: f
+ENG: goose
++G: n
+!img: ges-art.jpg
+
+PL: łabędź
++G: m
+ENG: swan
++G: n
+PT: cisne
+!img: Cavalierelatino_-_Swan_in_the_lake_with_reflection_(by).jpg
+
+PL: papuga
++G: f
+ENG: parrot
++G: n
+PT: papagaio
+!img: papuga.jpg
+
+==== bird of prey
+
+PL: sowa
++G: f
+ENG: owl
++G: n
+!img: sowa.jpg
+
+ENG: eagle
++G: n
+PT: águia
++G: f
+!img: sowa.jpg
+
+===  crustaceans
+
+PL: skorupiaki
+ENG: crustaceans
+
+PL: krab pustelnik
++G: m
+ENG: hermit crab
++G: n
+!img: krab pustelnik.jpg
+
+PL: kryl
++G: m
+ENG: krill 
++G: n
+!img: kryl.jpg
+
+PL: homar
++G: m
+ENG: lobster
++G: n
+!img: homar.jpg
+
+PL: krewetka
++G: f
+ENG: shrimp 
++G: n
+!img: krewtka.jpg
+
+PL: stonoga
++G: f
+ENG: woodlouse
++G: n
+!img: stonoga.jpg
+
+===  mollusca
+
+PL: mięczaki
+ENG: mollusca
+
+PL: małż
++G: m
+ENG: clam
++G: n
+!img: malz-zielony-400-8382706.jpg
+
+PL: mątwa
++G: f
+ENG: cuttlefish
++G: n
+!img: matwa-zwyczajna.jpg
+
+PL: ośmiornica
++G: f
+ENG: octopus 
++G: n
+!img: ośmiornica.jpg
+
+PL: ostryga
++G: f
+ENG: oyster 
++G: n
+!img: cynkoweostrygi-e1484155880248.jpg
+
+PL: przegrzebek
++G: m
+ENG: scallop
++G: n
+!img: przegrzebek.img
+
+PL: ślimak
++G: m
+ENG: snail
++G: n
+!img: sluz-ze-slimaka-wlasciwosci-w-kosmetyce-dermaestetic.jpg
+
+PL: kałamarnica
++G: f
+ENG: squid
++G: n
+!img: kalamarnica.jpg
+
+PL: meduza
++G: f
+ENG: jellyfish 
++G: n
+!img: meduza.jpg
+
+PL: pijawka
++G: f
+ENG: leech
++G: n
+!img: pijawka.jpg
+
+PL: polip
++G: m
+ENG: polyp
++G: n
+!img: polip.jpg
+
+PL: skorpion
++G: m
+ENG: scorpion 
++G: n
+!img: skorpion-ktory-moze-wyladowac-na-patelni-fot-krzysztof-swiercz.jpg
+
+PL: tasiemiec
++G: m
+ENG: tapeworm 
++G: n
+!img: tasiemiec.jpg
+
+===  fish
+
+PL: ryby
+ENG: fish
+
+PL: glonojad
++G: m
+ENG: algae-eater
++G: n
+!img: zbrojnik-glonojad-ryba-akwariowa-zbrojniki-glonojady-ryby-akwariowe1.jpg
+
+PL: leszcz
++G: m
+ENG: bream
++G: n
+!img: leszcz.jpg
+
+PL: karp
++G: m
+ENG: carp 
++G: n
+!img: karp.jpg
+
+PL: sum
++G: m
+ENG: catfish
++G: n 
+!img: sum.jpg
+
+PL: błazenek
++G: m
+ENG: clownfish 
++G: n 
+!img: blazenek.jpg
+
+PL: dorsz
++G: m
+ENG: cod 
++G: n
+!img: dorsz.jpg
+
+PL: węgorz
++G: m
+ENG: eel 
++G: n
+!img: wegorzf.jpg
+
+PL: flądra
++G: f
+ENG: flounder
++G: n
+!img: fladra-tusza-kg.jpg
+
+PL: złota rybka
++G: f
+ENG: goldfish 
++G: n
+!img: zlota-rybka-welonka-dlugowieczna-dlugo-zyjaca.jpg
+
+PL: śledź
++G: m
+ENG: herring  
++G: n
+!img: sledz-2.jpg
+
+PL: makrela
++G: f
+ENG: mackerel 
++G: n
+!img: makrela.jpg
+
+PL: okoń
++G: m
+ENG: perch 
++G: n
+!img: okon.jpg
+
+PL: szczupak
++G: m
+ENG: pike 
++G: n
+!img: szczupak.jpg
+
+PL: pstrąg tęczowy
++G: m
+ENG: rainbow trout 
++G: n
+!img: pstrag teczowy.jpg
+
+PL: ikra
++G: f
+ENG: roe 
++G: n
+!img: ikra-daypic-nikon-smallworld-competition-jaime-gc3b3mez-gutic3a9rrez.jpg
+
+PL: łosoś
++G: m
+ENG: salmon 
++G: n
+!img: łosos.jpg
+
+PL: rekin
++G: m
+ENG: shark 
++G: n
+!img: rekin.jpg
+
+PL: rozgwiazda
++G: f
+ENG: starfish 
++G: n
+!img: rozgwiazda.jpg
+
+PL: miecznik
++G: m
+ENG: swordfish 
++G: n
+!img: miecznik.jpg
+
+PL: tuńczyk
++G: m
+ENG: tuna
++G: n
+!img: tunczyk.jpg

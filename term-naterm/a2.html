@@ -1,0 +1,130 @@
+<html>
+<head>
+  <title>Dictionary</title>
+  <style>
+section {
+   background-color: #ffffff;
+   margin: 10px;
+   border: solid 1px #999999;
+   padding: 5px;
+   clear:both;
+}
+
+b[lang] { 
+   color: red; 
+}
+
+img {
+   object-fit: contain;
+}
+/* img.r {
+  float: right;
+}
+img.r::after {
+  content: "";
+  clear: both;
+  display: table;
+} */
+
+a { color: #000099; text-decoration: none; }
+
+a:hover { color: #0000ff; text-decoration: underline;  }
+
+ul { list-style-type: none; }
+
+li.lingua strong { color: #009900;}
+
+li.lingua a { font-style: italic;
+   /* text-transform: lowercase; */
+}
+
+li.lingua {
+   margin-bottom: 2px;
+}
+
+
+li.rel strong { color: #999900; }
+
+li.text strong { color: #009999; }
+
+li.text { padding-top: 10px; padding-bottom: 10px; }
+
+  </style>
+  <!--link href="style.css" rel="stylesheet" type="text/css"/-->
+  <meta charset="UTF-8"/>
+</head>
+<body>
+
+<h1>Dictionary</h1>
+<h3>No author provided <small></small></h3>
+
+
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name"/>
+
+
+<section id='autmóvel'>
+<strong>autmóvel </strong> 
+<ul> <li>	<b lang='EN'>EN</b>: <a href='#car'>car</a> 
+ </li><li>	<b lang='PT'>PT</b>: <a href='#carro'>carro</a> 
+ </li></ul>
+
+</section>
+
+
+<section id='carro'>
+<strong>carro </strong> 
+<ul> <li>	<b lang='EN'>EN</b>: <a href='#car'>car</a> 
+ </li><li>	<b lang='PT'>PT</b>: <a href='#autmóvel'>autmóvel</a> 
+ </li></ul>
+
+</section>
+
+
+<section id='comboio'>
+<strong>comboio </strong> 
+<ul> <li>	<b lang='EN'>EN</b>: <a href='#train'>train</a> 
+ </li><li>	<b lang='PT'>PT</b>: <a href='#trem'>trem</a> 
+ </li></ul>
+
+</section>
+
+
+<section id='trem'>
+<strong>trem </strong> 
+<ul> <li>	<b lang='EN'>EN</b>: <a href='#train'>train</a> 
+ </li><li>	<b lang='PT'>PT</b>: <a href='#comboio'>comboio</a> 
+ </li></ul>
+
+</section>
+
+
+
+<script>
+function myFunction() {
+  var input, filter, sections, term, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  sections = document.getElementsByTagName("section");
+  for (i = 0; i < sections.length; i++) {
+    term = sections[i].getElementsByTagName("strong")[0];
+    if (term) {
+      txtValue = term.textContent || term.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        sections[i].style.display = "";
+      } else {
+        sections[i].style.display = "none";
+      }
+    }       
+  }
+}
+
+function ensurevisid(a) {
+  sec = document.getElementById(a);
+  if(sec){ sec.style.display=""; }
+}
+
+</script>
+
+</body>
+</html>

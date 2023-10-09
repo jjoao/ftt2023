@@ -1,0 +1,509 @@
+%\documentclass[12pt,serif]{beamer}
+\documentclass{beamer}
+\geometry{paperwidth=170.67mm,paperheight=96mm}
+
+\newcommand{\FILE}[2][]{\begin{block}{#1}\VerbatimInput{#2}\end{block}}
+\usepackage[english]{babel}
+\usepackage{natslides}
+\usepackage{pdfpages}
+
+\title{NATerm - authoring tool for terminologies}
+\author[JJoão]{J.João Almeida \and Alberto Simões \and Alvaro Iriarte}
+\institute{Dep. de Informática, Univ. do Minho \and IPCA \and ELACH, Univ. do Minho}
+\date{December 2021}
+\begin{document}
+
+\maketitle
+
+=. Menu
+
+\tableofcontents
+
+= Introduction
+=.== Terminology
+
+\claim{
+:
+. Crucial problem in translation
+. Not taken as seriously as it should
+#
+}
+
+Different goals:
+   . \emph{glossaries} -- simple list of (term lang-source , term lang-target)
+   . \emph{terminologies} -- ( multilingual ) complex ontology of ( Technical ) concepts and terms:
+       . information fields about the concepts, definition, about each term
+       . scope notes
+   #
+#
+
+=.
+
+\begin{block}{Chalange: Takes time and practice to master terminologies}
+:
+   . \emph{concept}-oriented vs. \emph{word}-oriented
+   . conceptual relations
+   . attributes, terms, information fields, ...
+   . relation properties, inference
+   . micro-structure
+   . macro-structure
+#
+\end{block}
+
+NATerm = Natura Ascii-based Terminology toolkit
+
+\claim[to...]{
+:
+. (imediatly) build your own terminologies
+. discuss and play with core central concepts
+. discuss the best way to express your models
+#
+}
+ 
+=.== Tools, Formats
+
+:
+. Multiterm (terminologies, Trados, multiterm-xml) 
+. glossaries of SmartCAT 
+. TEI dictionaries
+. TBX
+. XDXF
+. stardict, stardict-editor
+. goldendict
+. \fixme{... help me to add some more}
+. LaTeX + (lua)naterm.sty
+. projects excel-based (ex: http://yourterm.eu )
+#
+
+\claim[Difficulties]{
+:
+. hundreds of mouse clicks to create an entry
+. difficult do cooperate, versions
+. installation
+. ...some times Low-level
+#
+}
+
+=.== NATerm features
+
+\begin{columns}
+\column{.5\textwidth}
+\begin{block}{}
+\begin{Verbatim}
+%title Dictionary EN - PT
+%author JJoão
+%lang EN PT ES
+%inv hpr hyp
+
+PT: gato
++G: m
+EN: cat 
+hpr: animal
+
+PT: cão
++G: m
+EN: dog
+ES: perro
+def: ....
+!img: dog.jpg
+hpr: animal
+\end{Verbatim}
+\end{block}
+
+\column{.5\textwidth}
+:
+. Textual input (just a text editor):
+   . similar approach to \emph{markdown} or \emph{wikis}
+   . \verb!%... ! - directives, metadata
+   . entries separated by empty-lines
+   #
+
+. Command line
+  \\ \texttt{naterm -html f.naterm}
+  \\ ... creates "f.html"
+. Web interface (no installation; rudimentary)
+  \\ ... uploads "f.naterm" and "MEDIA.zip"
+  \\ ... downloads "t.pdf", "f.xdxf", etc
+#
+\end{columns}
+
+=. ... NATerm features... 2
+
+\begin{block}{Variety of output formats }\:
+  . HTML (search, links)
+  . PDF dictionary
+  . XDXF (XML format for dictionaries) -- goldendict, ...
+  . Stardict  -- goldendict, startdict, ...
+  . ... other formats planned 
+#
+\end{block}
+
+=. ... NATerm features... 3
+
+\begin{block}{Micro structure (fields, attributes)}\:
+  .  Concept oriented
+  .  2 level field:
+     .  Language term ( EN: cat ):
+        .  sub-fields of term ( +Gender: masculine )
+     #
+     .  Concept relations ( HPR: animal )
+     .  data propertie ( def: is the second month of the year):
+        .  sub-fields (+src: wikipedia)
+        .  attribute values -- text, number, multimedia,
+     #
+  #
+  .  relations and properties (ex: InverseOf)
+#
+\end{block}
+
+:
+. Macro-structure (domain trees )
+. Advanced... -- Entries from CSV (tables)
+#
+
+=.=  NATerm -- Step by step 
+
+\begin{columns}
+\column{.5\textwidth}
+\FILE[a1.naterm monolingual glossary]{a1.naterm} \href{./a1.html}{naterm -html a1.naterm}
+             \\    \href{./a1-1.html}{naterm -lang=EN -html a1.naterm}
+\FILE[a2.naterm (EN -- PT) dictionary]{a2.naterm} \href{./a2.html}{naterm -html a2.naterm}
+
+\column{.5\textwidth}
+:
+. a1:
+   . language (EN)
+   . textual information fiels (def)
+   . 1 entry 
+   #
+. a2:
+   . language (EN, PT)
+   . 2 entries (concept)
+   #
+. Command line
+  \\ \texttt{naterm -html f.naterm}
+  \\ \texttt{naterm -lang=EN -html f.naterm}
+. \fixme[Next] add metadata
+#
+\end{columns}
+
+=.== Directives
+ 
+\begin{columns}
+\column{.5\textwidth}
+\FILE[a3.naterm monolingual glossary]{a3.naterm} \href{./a3.html}{naterm -html a3.naterm}
+
+\column{.5\textwidth}
+:
+. Metadados:
+   . title, author, date
+   #
+. Introduction, Appendices, (\verb|%pre  %pos|)
+. Visual config (\verb|%inline, %ignore, %rename|)
+. Language (\verb|%lang  %rellang|)
+. Relation properties (\verb|%inv|)
+. \fixme[Next] more on Micro structure
+#
+
+\end{columns}
+
+=.== Micro Structure
+ 
+\begin{columns}
+\column{.5\textwidth}
+\FILE[a4.naterm  \href{./a4.html}{ [→] }]{a4.naterm} 
+
+\column{.5\textwidth}
+:
+. Images (!img: ....)
+. Sound (!snd: ....)
+. subfields (+ex: ....)
+. several terms otained by inference (transportes, TGV, ...)
+. \fixme[Next] more on Macro structure
+#
+
+\end{columns}
+
+=.= Macro-structure Domain trees
+ 
+\begin{columns}
+\column{.5\textwidth}
+\FILE[a5.naterm Animals \href{./a5.pdf}{P[→]} \href{./a5.html}{H[→]}  \href{./a5.naterm}{N[→]}  ]{a5-0.naterm} 
+
+\column{.5\textwidth}
+Domain tree (navigation, ...):
+. top-down:
+   . TOP    \emph{subdom} animal
+   . animal \emph{subdom} mammal
+   . mammal \emph{subdom} feline
+   . feline \emph{voc} \{lion, cat, ...\} 
+   #
+. bottom-up:
+   . \{lion, cat, ...\} \emph{dom} feline
+   . feline \emph{supdom} mammal 
+   . mammal \emph{supdom} animal 
+   . animal \emph{supdom} TOP
+   #
+#
+InverseOf:
+   . subdom ←→ supdom
+   . dom ←→ voc
+#
+\end{columns}
+
+=.== Using CSV for entry definition
+ 
+\begin{columns}
+\column{.5\textwidth}
+\FILE[a6.naterm Animals \href{./a6.pdf}{P[→]} \href{./a6.html}{H[→]} ]{a6.naterm} 
+
+\column{.5\textwidth}
+:
+. For each line in a csv-table :
+    . split by '::'
+    . define a new concept-entry
+    . field 1 --- \verb|$1|
+    #
+. tables:
+    . external: \verb' * tab(food.csv)'
+    . inline: \verb' * tab{ line1 ....}' 
+    #
+#
+
+\end{columns}
+
+=. Demo
+
+\demo[Dicionário de áreas vocabulares]{
+   Tabelas \\
+   Infererence \\
+   naterm → (PDF, HTML, ...) 
+}
+
+=.= Conclusions 
+
+Importance of:
+. textual syntax
+. build an output in a short time
+. consequence of conceptual relations (simple inference)
+. multimedia
+. micro-structure 
+. macro-structure (domain, trees)
+. good-looking output
+#
+
+=.==Future work
+:
+. Improve HTML output:
+   . options for:
+       . multi page, multi lingual navigation, ... site
+       . search
+       #
+   #
+. webservice
+. options for selecting single-sense terms (def. is multi-sense)
+. better error messages, and documentation
+. improve TBX output
+. produce microstruture atribute-tree for documentation
+#
+
+=. The End
+
+\end{document}
+
+
+\begin{block}{}
+\begin{Verbatim}[fontsize=\scriptsize]
+
+\end{Verbatim}
+\end{block}
+
+
+\begin{block}{}
+\begin{Verbatim}[fontsize=\scriptsize]
+From Portuguese:
+  edukasaun – "education",  from educação
+  entaun    – "so", "well", from então
+  eskola    – "school",     from escola
+  istória   – "history",    from história
+  jerasaun  – "generation", from geração
+  keiju     – "cheese",     from queijo
+\end{Verbatim}
+\end{block}
+
+\begin{block}{}
+\begin{Verbatim}[fontsize=\scriptsize]
+Adj. Degrees (by repetition):
+  barak – "much", "many" → babarak – "very much", "many"
+  boot  – "big", "great" → boboot – "huge", "enormous"
+  di'ak – "good"         → didi'ak – "very good"
+  ikus  – "last"         → ikuikus – "the very last", "final"
+\end{Verbatim}
+\end{block}
+
+% \pdfslides[pages={14,9,16}]{DOC/mlt-prealigner/slate-mlt-prealigner.pdf}
+
+=. Multilingue text, TMX tools
+\demo[Anjo de Timor]{
+   fine-grain language detection\\
+   tmxgrep\\
+   tmx → pdf
+}
+
+=.== Google
+
+\emph{Google searching}:
+  . "w1 w2 w3... w4"
+  . \emph{site:eur-lex.europa.eu}
+  . \emph{inurl:...}
+  . \emph{inanchor:...}
+  . \emph{doctype:...}
+  . \emph{~word}
+  . \emph{anatomia inurl:sublanguageid-por  site:opensubtitles.org }
+  . \emph{anatomia inurl:sublanguageid-por inurl:idmovie
+site:opensubtitles.org}
+  #
+
+=.== XML / HTML / Webscraping
+
+:
+. xpath
+. tabextract
+. beatifullsoup
+#
+
+=.= Workflow
+
+:
+. File system →  path* 
+. path* → blocks 
+. blocks → pair*
+. pair* →  tmx
+. po → tmx
+. tmx* → tmxcl
+. tmxcl → PTD  
+. ptd → ucts
+. ptd → bws
+#
+
+
+=.==Name/URL similarities
+
+\begin{enumerate}
+
+\item  Lista de ficheiros;\emph{ $\hbox{ficheiro}^\star$ }
+\begin{flushleft}
+$\downarrow$ Emparelhamento de ficheiros;
+\end{flushleft}
+
+\item  Potenciais pares; \emph{ $\left(\hbox{ficheiro}^2\right)^\star$}
+\begin{flushleft}
+$\downarrow$ Validação de pares;
+\end{flushleft}
+
+\item  Pares de traduções; \emph{ $\left(\hbox{ficheiro}^2\right)^\star$ }
+\begin{flushleft}
+$\downarrow$ Divisão em frases e seu alinhamento;
+\end{flushleft}
+
+\item  Pares de frases; \emph{ $\left(\left(\hbox{frase}\times
+\hbox{frase}\right)^\star\times \hbox{id}^2\right)^\star$  }
+\begin{flushleft}
+$\downarrow$ Divisão em palavras e seu alinhamento;
+\end{flushleft}
+
+\item  Pares de palavras; \emph{ $\left(\hbox{palavra}\times
+\hbox{palavra}\right)^\star$ }
+
+\end{enumerate}
+
+=. ... example
+
+\emph{Names of files are not random}
+
+\begin{Verbatim}
+http://www.ex.pt/index_pt.html
+http://www.ex.pt/index_en.html
+\end{Verbatim}
+\vskip 5mm
+\begin{Verbatim}
+/home/user/docs/portuguese-intro.pdf
+/home/user/docs/english-intro.pdf
+\end{Verbatim}
+
+\begin{itemize}
+\item pares potenciais;
+\item processo rápido;
+\end{itemize}
+
+{\footnotesize
+\begin{Verbatim}
+Guesser::list2blocks("filelist");
+Guesser::blocks2pairs("portuguese", "english",
+                      "filelist.blocks");
+\end{Verbatim}
+}
+
+=.= Tools (3)
+
+
+{
+\begin{Verbatim}
+## get all http://timor-leste.gov.tl/?p=333&lang=pt
+
+   curl 'http://timor-leste.gov.tl/?p=[3-500]&lang={pt,tp}#'  -o 'C/#1-#2.html'
+
+## Remove empty files
+
+   find -size -500c -name '*.html' -exec  rm  {} \;
+
+## Make corpora
+
+   ln -s C corp.pt.tp.boot
+
+   corporawf  corp.pt.tp.ucts
+        --> ... → align → tmx → tmxclean → PTD → ucts
+
+   tmxwc corp.pt.tp.tmx      
+        --> 12 515 TU     
+            242 162 Kwords
+\end{Verbatim}
+}
+  
+=.= Noisy parallel corpora
+
+Quality issues and measures:
+   . bitexts that were created by automatic machine translation
+   . partial translations
+   . untranslated parts
+   . comparable texts
+   . dictionaries, ...
+   . alphabetic ordered lists and dictionaries (difficult to align)
+   . alignment metrics and editions
+#
+
+=.= Conclusion
+
+%\fixme{Falta concluir}
+
+=. The End
+
+\end{document}
+
+\pdfslides[pages={1,3-9}]{slides.pdf}
+\bigimg{d.jpg}
+=. title
+\bigimgt{c.jpg}
+
+
+\begin{block}{}
+\begin{Verbatim}[fontsize=\scriptsize]
+
+\end{Verbatim}
+\end{block}
+
+\demo[ferramenta para]{
+ferramenta 1 \\
+}
+
+\emph{→ }

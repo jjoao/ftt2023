@@ -1,0 +1,29 @@
+%tit Polish:English
+%author Sylwia Foryńska
+%lang ENG PL PT
+%rellang ENG
+%inv dom voc
+%inline G
+
+==  animals
+
+===  birds
+====  bird of prey
+
+EN: eagle
+
+===  mammals
+====  canines
+====  felines
+
+EN: lion
+
+===  amphibians
+===  reptiles
+===  insects
+
+EN: ant
+
+===  crustaceans
+===  mollusca
+===  fish

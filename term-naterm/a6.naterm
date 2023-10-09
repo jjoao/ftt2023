@@ -1,0 +1,15 @@
+%tit  Csv table example
+%lang PT EN
+%inv hpr hpn
+%inv hpn hpr
+
+PT: $1
+EN: $2
+hpn: $3
+*tab{
+árvore :: tree :: bananeira | palmeira | carvalho
+fruto :: fruit :: maça | banana | uvas
+bebida :: drink :: vinho | água | chá | café
+flor :: flower :: rosa | girassol | lírio 
+}
+

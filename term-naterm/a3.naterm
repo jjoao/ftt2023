@@ -1,0 +1,19 @@
+%lang EN PT
+%tit Dictionary of Transportes
+%author JJoão; Alberto; Alvaro
+%date Dec 2021
+%pre {In this fantastic dicionary we
+  ...
+  Contributions Welcome.}
+
+%inline var
+
+EN: train
+PT: comboio
++var: pt
+PT: trem
++var: br
+
+EN: car
+PT: carro
+PT: automóvel
