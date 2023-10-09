@@ -90,4 +90,4 @@ Legendas...
   2. Criar um ficheiro de traduções como o do Exercício 4 da [Ficha1](Ficha1.pdf)
   3. Carregar os dois ficheiros para o [Google Colab](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) e testar o seu funcionamento
 
----
+----
