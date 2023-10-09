@@ -32,7 +32,8 @@ author:
 - [Sebenta](sebenta.pdf)
 - [notas acerca do Sublime Text Editor](sublime)
 
----
+----
+
 # Aulas
 
 ## - 2023-09-12
