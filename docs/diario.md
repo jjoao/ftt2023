@@ -33,10 +33,11 @@ author:
 - [notas acerca do Sublime Text Editor](sublime)
 
 ---
+# Aulas
 
-# - 2023-09-12
+## - 2023-09-12
 
-## Tradução texto técnico (com terminologia...)
+### Tradução texto técnico (com terminologia...)
 
 ~~~
 can you castle if the piece preventing the castle is pinned?
@@ -48,7 +49,7 @@ vs
 
 - Problemas decorrende de falhar a terminologia
 
-## Tradução de texto poético / literário
+### Tradução de texto poético / literário
 
 Desafios e Exemplos Curiosos I : O que queremos preservar?
 
@@ -68,7 +69,7 @@ Legendas...
 
 ---
 
-# - 2023-09-19
+## - 2023-09-19
 
 - ver [ficha1](Ficha1.pdf)
 - [materiais textuais](materiaistextuais)
@@ -76,7 +77,8 @@ Legendas...
 
 ---
 
-# - 2023-09-26
+## - 2023-09-26
+
 - [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
 - **Desafio :**  Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
   1. Procurar as palavras com mais ocorrências no ficheiro, por exemplo:
