@@ -7,17 +7,27 @@ author:
 ---
 
 # Utilidades
+
 ## Fichas
+
 - [ficha1](Ficha1.pdf)
+
 ## Trabalhos Práticos
-- [TP1](tp1.pdf) - _Entrega até 29 de outubro_
+
+- [TP1](TP1.pdf) - _Entrega até 29 de outubro_
+
 ## Materiais
+
 - [caoEGato.txt](materiaistextuais/file1.txt)
 - [planoDeCurso.txt](materiaistextuais/plano-de-curso.txt)
+
 ## Ferramentas
+
 - [Aplicação WEB substituição](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) - Google Colab
 - [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+
 ## Outros
+
 - [Notas](sebenta.md)
 - [Sebenta](sebenta.pdf)
 - [notas acerca do Sublime Text Editor](sublime)
