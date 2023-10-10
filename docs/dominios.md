@@ -3,26 +3,26 @@
 - Quinta 
 
 - Animais 
-  aves
-  mamíferos
-  peixes
-  répteis
-  insectos
+  - aves
+  - mamíferos
+  - peixes
+  - répteis
+  - insectos
 
 - Plantas
-  flores
-  arvores
+  - flores
+  - arvores
 
 - Corpo Humano 
-  cabeça
-  órgãos
-  membros
+  - cabeça
+  - órgãos
+  - membros
 
 - Avião
 
 - Alimentos 
-  frutos
-  bebidas
+  - frutos
+  - bebidas
  
 - Transportes
 
