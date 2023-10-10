@@ -26,12 +26,12 @@ author:
 
 ## Materiais
 
-- [caoEGato.txt](materiaistextuais/file1.txt)
+- [caoEGato.txt](materiaistextuais/file1)
   - [ficheiro de tradução](materiaistextuais/plano_trad) (exemplo)
-- [planoDeCurso.txt](materiaistextuais/plano-de-curso.txt)
-  - [ficheiro de tradução](materiaistextuais/traducao.txt) (exemplo)
+- [planoDeCurso.txt](materiaistextuais/plano-de-curso)
+  - [ficheiro de tradução](materiaistextuais/traducao) (exemplo)
 - [xadrez.naterm](materiaistextuais/xadrez.naterm) (exemplo)
-  - [MEDIA.zip](materiaistextuais/xadrez.naterm)
+  - [MEDIA.zip](materiaistextuais/MEDIA.zip)
 
 ## Ferramentas
 
@@ -42,7 +42,7 @@ author:
 
 - [Notas](sebenta.md)
 - [Sebenta](sebenta.pdf)
-- [notas acerca do Sublime Text Editor](sublime)
+- [notas acerca do Sublime Text Editor](sublime.md)
 
 ----
 
@@ -50,7 +50,7 @@ author:
 
 ## 2023-10-10
 - [Pasta partilhada](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)
-- [Alguns domínios](Domínios/dominios.md)
+- [Alguns domínios](dominios.md)
 <!--- [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)-->
 
 ## 2023-10-03
