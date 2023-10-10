@@ -100,7 +100,5 @@ Legendas...
 ----
 
 ## - 2023-10-10
-
-- [Pasta partilhada PL1](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)
-- [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)
+- [Pasta partilhada](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)<!--- [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)-->
 - [Alguns domínios](Domínios/dominios.md)
