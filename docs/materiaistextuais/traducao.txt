@@ -1,0 +1,3 @@
+s/cat/gato/;
+s/dog/cão/;
+s/beautiful/lindos/;

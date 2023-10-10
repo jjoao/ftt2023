@@ -1,0 +1,5 @@
+s/Psychology/Psicologia/;
+s/Education/Educação/;
+s/Competencies/Competências/;
+s/the/o#/;
+s/Year/Ano/;

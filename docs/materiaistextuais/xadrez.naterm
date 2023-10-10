@@ -1,0 +1,73 @@
+%title Chess Dictionary PT - EN 
+%author TBarata
+%date 2023-09-27
+%lang EN PT
+%inv hpr hpn
+%rellang EN
+
+PT: Rei
++G: m
+EN: King
+hpr: Piece
+def: The king is the most important piece. The object of the game is to capture the opponants King. The King can move one square in any direction. The King may never move into check. Each player starts with one king.
+!img: king.jpg
+
+PT: Dama
+PT: Rainha
++G: f
+EN: Queen
+hpr: Piece
+def: The Queen is the most powerful piece. She can move any number of squares in any direction if her path is not blocked. Each player starts with one queen.
+!img: queen.jpg
+
+PT: Torre
++G: f
+EN: Rook
+hpr: Piece
+def: The Rook can move any number of squares vertically or horizontally if its path is not blocked. Each player starts with two rooks, one on each end of the row at the end of the board.
+!img: rook.jpg
+
+PT: Bispo
++G: m
+EN: Bishop
+hpr: Piece
+def: The Bishop can move any number of squares diagonally if its path is not blocked. Each player starts with two bishops, one on each side of the King and Queen.
+!img: bishop.jpg
+
+PT: Cavalo
++G: m
+EN: Knight
+hpr: Piece
+def: he Knight’s move is special, as it can jump over other pieces. It moves two squares horizontally or vertically and then makes a right-angle turn for one more square. The Knight always lands on a square opposite in color from the color of the square it left. Each player starts with two knights, between the bishops and the rooks.
+!img: chess.jpg
+
+PT: Peão
++G: m
+EN: Pawn
+hpr: Piece
+def: The Pawn moves straight ahead (never backward), but it captures diagonally. It moves one square at a time, except on its first move, when it has the option of moving forward one or two squares. Each player starts with eight pawns.
+!img: pawn.jpg
+
+PT: Desistir
+EN: Resign
+hpr: Outcome
+def: To concede loss of the game. The traditional way to resign is by tipping over one’s king.
+!img: regign.jpg
+
+PT: Roque
+EN: Castle
+hpr: Special Move
+def: The king moves two squares toward one of its rooks and then the rook is placed on the other side of the king. Castling consists of moving the king two squares on its first rank toward either one of the original rooks, then moving the rook onto the square over which the king crossed. Castling is allowed only when neither the king nor the castling rook has previously moved, when no squares between them are occupied, when the king is not in check, and when the king will not move across or end its movement on a square that is under enemy control.
+!img: castle.png
+
+PT: En Passant
+EN: En Passant
+hpr: Special Move
+def: This is a special pawn capture which can occur immediately after a player moves a pawn two squares forward from its starting position, and an opposing pawn could have captured it, had it moved only one square forward. The opponent captures the just-moved pawn as if taking it “as it passes” through the first square. The resulting position is the same as if the pawn had moved only one square forward and the opposing pawn had captured normally. The en passant capture must be done on the very next turn, or the right to do so is lost. This is the only move in chess in which a piece does not move to the space of the piece it captured.
+!img: en_passant.gif
+
+PT: Promoção
+EN: Promotion
+hpr: Special Move
+def: When a pawn advances to his opponent’s side of the board, as a part of the move it is promoted and must be exchanged for the player’s choice of queen, rook, bishop, or knight of the same color.  Usually, the pawn is chosen to be promoted to a queen, but in some cases another piece is chosen; this is called underpromotion.There is no restriction placed on the piece that is chosen on promotion, so it is possible to have more pieces of the same type than at the start of the game (for example, two queens).
+!img: promotion.gif

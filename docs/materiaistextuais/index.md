@@ -1,5 +1,8 @@
-# Alguns Materiais textuais
+# Materiais textuais
 
-- [file1.txt](file1.txt) - ficheiro minúsculo  (ficha 1)
-- [plano-de-curso.txt](plano-de-curso.txt) - plano de estudos do curso de Psicologia +
-  mestrados associados (ficha 1)
+- [caoEGato.txt](materiaistextuais/file1.txt)
+  - [ficheiro de tradução](materiaistextuais/plano_trad) (exemplo)
+- [planoDeCurso.txt](materiaistextuais/plano-de-curso.txt)
+  - [ficheiro de tradução](materiaistextuais/traducao.txt) (exemplo)
+- [xadrez.naterm](materiaistextuais/xadrez.naterm) (exemplo)
+  - [MEDIA.zip](materiaistextuais/xadrez.naterm)

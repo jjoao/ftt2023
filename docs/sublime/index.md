@@ -20,7 +20,11 @@ selecionar bloco = shit+botaoDir
 # abrir duas Tabs
 
 ~~~
- [view]→[layout]→[columns2]   ou    (Alt+Shift+2)
+[view]→[layout]→[columns2]   
+
+ou 
+
+(Alt+Shift+2)
 ~~~
 
 

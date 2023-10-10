@@ -6,6 +6,14 @@ author:
 - Tiago Barata <tiagobarata98@gmail.com>
 ---
 
+<base target="_blank">
+
+# Contactos
+- J.J. Almeida <jj@di.uminho.pt>
+- Tiago Barata <tiagobarata98@gmail.com>
+
+----
+
 # Utilidades
 
 ## Fichas
@@ -19,7 +27,11 @@ author:
 ## Materiais
 
 - [caoEGato.txt](materiaistextuais/file1.txt)
+  - [ficheiro de tradução](materiaistextuais/plano_trad) (exemplo)
 - [planoDeCurso.txt](materiaistextuais/plano-de-curso.txt)
+  - [ficheiro de tradução](materiaistextuais/traducao.txt) (exemplo)
+- [xadrez.naterm](materiaistextuais/xadrez.naterm) (exemplo)
+  - [MEDIA.zip](materiaistextuais/xadrez.naterm)
 
 ## Ferramentas
 
@@ -36,7 +48,41 @@ author:
 
 # Aulas
 
-## - 2023-09-12
+## 2023-10-10
+- [Pasta partilhada](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)
+- [Alguns domínios](Domínios/dominios.md)
+<!--- [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)-->
+
+## 2023-10-03
+
+- Exercícios de NATerm
+
+----
+
+## 2023-09-26
+
+- [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+- **Desafio :**  Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
+  1. Procurar as palavras com mais ocorrências no ficheiro, por exemplo:
+      - and
+      - Psychology
+      - of
+      - the
+      - ...
+  2. Criar um ficheiro de traduções como o do Exercício 4 da [Ficha1](Ficha1.pdf)
+  3. Carregar os dois ficheiros para o [Google Colab](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) e testar o seu funcionamento
+
+----
+
+## 2023-09-19
+
+- ver [ficha1](Ficha1.pdf)
+- [materiais textuais](materiaistextuais)
+- [notas acerca do Sublime Text Editor](sublime)
+
+----
+
+## 2023-09-12
 
 ### Tradução texto técnico (com terminologia...)
 
@@ -70,35 +116,4 @@ Legendas...
 
 ----
 
-## - 2023-09-19
 
-- ver [ficha1](Ficha1.pdf)
-- [materiais textuais](materiaistextuais)
-- [notas acerca do Sublime Text Editor](sublime)
-
-----
-
-## - 2023-09-26
-
-- [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
-- **Desafio :**  Criar um ficheiro de traduções para o [plano de curso](materiaistextuais/plano-de-curso.txt)
-  1. Procurar as palavras com mais ocorrências no ficheiro, por exemplo:
-      - and
-      - Psychology
-      - of
-      - the
-      - ...
-  2. Criar um ficheiro de traduções como o do Exercício 4 da [Ficha1](Ficha1.pdf)
-  3. Carregar os dois ficheiros para o [Google Colab](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) e testar o seu funcionamento
-
-----
-
-## - 2023-10-03
-
-- Exercícios de NATerm
-
-----
-
-## - 2023-10-10
-- [Pasta partilhada](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)<!--- [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)-->
-- [Alguns domínios](Domínios/dominios.md)
