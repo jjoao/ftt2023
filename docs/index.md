@@ -48,10 +48,20 @@ author:
 
 # Aulas
 
+## 2023-10-17
+- Download Golden Dict (ler ficheiros .xdxf)
+  - [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc2-372-gc3ff15f)
+  - [MacOs](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X#150-rc2-372-gc3ff15f)
+
+
+----
+
 ## 2023-10-10
 - [Alguns domínios](dominios.md)
 - [Pasta partilhada PL1](https://drive.google.com/drive/folders/1kWSxhcDZ8oQj97A8Ezy8_0cD4pOvzF9s?usp=sharing)
 - [Pasta partilhada PL2](https://drive.google.com/drive/folders/1P5ixtmHDNTr-WEEYNZwRV1HjVAaNj_Q3?usp=sharing)
+
+----
 
 ## 2023-10-03
 
