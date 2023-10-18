@@ -53,6 +53,18 @@ author:
   - [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc2-372-gc3ff15f)
   - [MacOs](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X#150-rc2-372-gc3ff15f)
 
+### Desafio de casa
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DK95r1Q-Tlg?si=xsJfzYFggkckA2q2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Traduzir para Português, Espanhol e Francês a seguinte legenda:
+
+~~~
+And by the way?
+Y-O-U, apostrophe R-E means, "you are."
+
+Y-O-U-R means "your."
+~~~
 
 ----
 
