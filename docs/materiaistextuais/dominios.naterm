@@ -1,0 +1,2536 @@
+%title Dicionário
+%author PL1
+%date 2023-10-10
+%lang EN PT
+%rellang PT
+%inv hpr hpn
+%inv hpn hpr
+%inv hol mer
+%inv mer hol
+%inv dom voc
+
+
+== alimentos
+
+PT: alimentos 
+EN: food 
+def:substância digerível que sirva para alimentar ou nutrir
+
+=== frutas
+
+PT: laranja
+EN: orange
+def: fruto da laranjeira
+
+PT: manga
+EN: mango
+def: fruta da mangueira
+
+PT: banana
+EN: banana
+def: fruto da bananeira
+
+PT: morango
+EN: strawberry
+def: fruto do morangueiro
+
+PT: uva
+EN: grapes
+def: fruto da videira
+
+PT: pêssego
+EN: peach
+def: fruto do pessegueiro
+
+PT: ameixa
+EN: plum
+def: fruto da ameixeira
+
+PT: abrunho
+EN: brun
+def: fruto do abrunheiro
+
+PT: pêra
+EN: pear
+def: fruto da pereira
+
+PT: coco
+EN: coconut
+def: fruto produzido pelo coqueiro
+
+PT: abacate
+EN: avocado
+def: fruto do abacateiro
+
+PT: amora
+EN: blackberry
+def: fruto da amoreira
+
+PT: mirtilo
+EN: blueberry
+def: subarbusto de até 60 cm e pequenas bagas globosas, azuladas
+
+PT: ananas
++var: PT-PT
+PT: abacaxi
++var: PT-BR
+EN: pineapple
+def: planta bromeliácea originária da América Tropical, muito cultivada nas regiões quentes pelos seus grandes frutos de polpa açucarada
+
+PT: cereja
+EN: cherry
+def:fruto da cerejeira
+
+PT: cacau
+EN: cocoa
+def: fruto do cacaueiro, com polpa adocicada, comestível
+
+PT: damasco
+EN: damascus
+def: fruto do damasqueiro
+
+PT: framboesa
+EN: raspberry
+def: fruto da framboeseira
+
+PT: groselha
+EN: gooseberry
+def: fruto de várias plantas conhecidas como groselheira
+
+PT: kiwi
+EN: kiwi
+def: fruto tropical, de origem asiática, de formato oval, cor castanha e casca pilosa, de polpa comestível, geralmente verde, de sabor agridoce e com pequenas sementes pretas
+
+PT: lima
+EN: lime
+def: fruto da limeira, arredondado e esverdeado.
+
+PT: lichia
+EN: lichee
+def: fruta de origem chinesa e é uma excelente fonte de vitamina C, ferro, cálcio, fibras e potássio.
+
+PT: maçã
+EN: apple
+def: Fruto da macieira
+
+PT: melancia
+EN: watermelon
+def: Planta cucurbitácea cultivada nos países mediterrânicos pelo seu fruto, de polpa vermelha muito suculenta e refrescante
+
+PT: melão
+EN: melon
+def: fruto do meloeiro
+
+PT: meloa 
+EN: melon
+def: melão pequeno e arredondado, de casca rugosa e polpa vermelha alaranjada, muito doce
+
+PT:maracujá
+EN: passionfruit
+def: designação comum a várias plantas trepadeiras da família das passifloráceas; fruto comestível dessa planta
+
+PT: marmelo
+EN: quince
+def: fruto do marmeleiro
+
+PT: noz
+EN: nut 
+def: fruto da nogueira
+
+PT: romã
+EN: pomegranate
+def: fruto da romãzeira, arredondado e de casca avermelhada ou acastanhada, com interior comestível dividido por uma membrana branca e composto por um conjunto de sementes envoltas numa polpa vermelha ou rosada
+
+PT: tangerina 
+EN: mandarin
+def: fruto mais pequeno que a laranja e bastante aromático
+
+=== bebidas
+
+PT: água
+EN: water
+def: Líquido natural (H2O), transparente, incolor, geralmente insípido e inodoro, indispensável para a sobrevivência da maior parte dos seres vivos
+
+PT: refrigerante 
+EN: soft drink
+def: bebida não alcoólica e não fermentada, fabricada industrialmente
+
+PT: sumo
+EN: juice
+def: Líquido orgânico extraído ou libertado de uma matéria vegetal ou animal
+
+PT: vinho
+EN: wine
+def: Bebida alcoólica que se obtém da fermentação, total ou parcial, do sumo das uvas frescas
+
+PT: licor
+EN: liquor
+def: bebida açucarada que não é fermentada, cuja base é o álcool ou a aguardente
+
+PT: cerveja
+EN: beer 
+def: bebida alcoólica feita a partir da fermentação de cevada e lúpulo
+
+PT: café
+EN: coffee
+def: bebida preparada com o pó dessa semente, depois de torrada e moída
+
+PT: chá
+EN: tea
+def: Conjunto de folhas da planta do chá que são secas, mas não oxidadas, usado para infusão; infusão feita com essas folhas, geralmente de cor amarelada
+
+PT: leite
+EN: milk
+def: líquido fisiológico branco, opaco, secretado pelas glândulas mamárias das fêmeas dos mamíferos
+
+== aviao
+
+PT: cabine de comando
++var: PT-PT
+EN: cockpit
+def: é uma área usualmente situada na parte dianteira do aviao, de onde os pilotos a controlam 
+
+PT: asas
++var: PT-PT
+EN: wings
+def: é um artefato mecânico destinado à sustentação aerodinamica 
+
+PT: winglet
++var: PT-PT
+EN: winglet
+def: é uma superficie externa do avião, que se extende além da superficie de sustentação. Tem por função diminuir o arrasto induzido
+
+PT: estabilizador horizontal
++var: PT-PT
+EN: horizontal stabilizer
+def: fica na parte de trás da fuselagem e atua na estabilidade longitudinal da aeronave 
+
+PT: estabilizador vertical
++var: PT-PT
+EN: vertical stabilizer
+def: é uma estrutura aerodinamica movel incluida na empenagem do avião. Controla a estabilidade longitudinal e direcional
+
+PT: leme
++var: PT-PT
+EN: rudder
+def: é um dispositivo de controlo de direção do avião e consiste em desviar o fluxo de ar 
+
+PT: profundor
++var: PT-PT
+EN: elevator
+def: permite que o avião se movimente para cima e para baixo. Ao defletir o profundor para bauixo, há uma elevação do nariz do avião
+
+PT: flapes
++var: PT-PT
+EN: flaps
+def: é uma especie de extensão das asas e servem para dar maior sustentação ao avião
+
+PT: ailerão
++var: PT-PT
+EN: aileron
+def: é imprimir o movimento de rolamento
+
+PT: spoilers
++var: PT-PT
+EN: spoilers
+def: diminuir a sustentação do avião 
+
+PT: slats
++var: PT-PT
+EN: slats
+def: são acionados antes do pouso e auxiliam na sustentação do avião
+
+PT: fuselagem
++var: PT-PT
+EN: fuselage
+def: abriga a tripulação, passageiros ou carga
+
+PT: motor
++var: PT-PT
+EN: engine
+def: é utilizado para a propulsão do avião mediante a geração de uma força de empuxo
+
+PT: piloto
++var: PT-PT
+EN: pilot
+def: opera o avião, controlando todos os seus sistemas e navegando de um ponto ao outro
+
+PT: aeroporto
++var: PT-PT
+EN: aeroport
+def: é um aeródromo público dotado de edificações, instalações e equipamentos para apoio ás operações de aviões. 
+
+PT: aeródromo
++var: PT-PT
+EN: aerodrome
+def: é um local que oferece as condições necessárias de segurança para realização de voos
+
+PT: caixa negra
++var: PT-PT
+EN: black box
+def: aparelho usado para registrar mensagens enviadas e recebidas à torre 
+
+PT: porão
++var: PT-PT
+EN: basement
+def: é o local na parte inferior do avião onde se colocam as bagagens 
+
+PT: comissário de bordo
++var: PT-PT
+EN: flight attendant
+def: funcionário incumbido, a borodo de aviões comerciais de vários serviços indespensáveis 
+
+PT: check-in
++var: PT-PT
+EN: check-in
+def: é o procedimento obrigatório a todos os passageiros confirmando a sua presença
+
+PT: nariz
++var: PT-PT
+EN: nose
+def: parte da fuselagem que se projeta além do bordo de ataque da asa
+
+PT: cauda
++var: PT-PT
+EN: tail
+def: é a parte traseira do avião 
+
+PT: aerofolios
++var: PT-PT
+EN: airfoil
+def: produz uma reação aerodinamica normal à direção do movimento relativo 
+
+PT: envergadura
++var: PT-PT
+EN: wingspan
+def: é a máxima distancia medida paralela ao eixo lateral, de uma pinta a outra do avião
+
+PT: velocimetro
++var: PT-PT
+EN: speedometer
+def: indica a velocidade do avião em função do deslocamento do ar
+
+PT: horizonte artificial
++var: PT-PT
+EN: artificial horizont
+def: é um instrumento que mostra a altitude 
+
+PT: altimetro
++var: PT-PT
+EN: altimeter
+def: indica a altura em relação a um determinado nível de referência 
+
+PT: manche
++var: PT-PT
+EN: joystick
+def: é uma alavanca que controla a subida e a descida 
+
+PT: copiloto
++var: PT-PT
+EN: copilot
+def: é um individuo que ajuda o piloto a afetuar a condução
+
+PT: manete
+PT: manete de avião
++var: PT-PT
+EN: airplane handle
+def: pequena alavanca de comando para acionar certas partes de uma máquina
+
+
+== mamíferos
+
+PT: mamífero
+EN: Mammal
+def: animais que, entre outras características, destacam-se pela presença de pelos em seu corpo e pela capacidade de produzir leite para alimentar seus filhotes. Os mamíferos são animais vertebrados que se destacam pela presença de pelos e glândulas mamárias.
+
+=== Prototérios (Monotremados)
+
+PT: Prototérios
+EN: Prototheria
+def: Subclasse de animais mamíferos que compreendem várias ordens extintas e somente uma ordem vivente, que se destinguem dos demais mamíferos por serem ovíparos e não vivíparos.
+
+PT: Equidna
+EN: Echidna
+def: mamífero ovípero monotremo, originário da Oceânia, cobertos de espinhos, sem dentes e com focinho comprido.
+
+PT: Ornitorrinco
+EN: Platypus
+def: mamífero australiano com características bem peculiares, como a postura de ovos e a presença de um bico e de ferrões nas patas ligados à glândula de veneno.
+!img: ornitorrinco.jpg
+
+=== Metatérios (Marssupiais)
+
+PT: Metatérios
+EN: Metatheries
+def: Os metatérios, ou mamíferos de bolsa, são caracterizados pela presença de uma bolsa materna (marsúpio) ventral ou posterior, onde os filhotes completam o seu desenvolvimento.
+
+PT: Canguru
+EN: Kangaroo
+def: Marsupial herbívoro da família dos macropodídeos, de que existem diversas espécies na Austrália, Tasmânia, Nova Guiné e ilhas vizinhas; os cangurus apresentam as pernas posteriores, os pés e a cauda muito desenvolvidos, o que lhes faculta a locomoção aos saltos.
+!img: canguru.jpg
+
+PT: Gambá
+EN: Opossum
+def: Esses animais se destacam por ter um corpo maciço, focinho alongado, membros curtos, orelhas desenvolvidas e uma cauda preênsil, semelhante ao corpo de um roedor. Gambás são animais solitários, arborícolas ou terrestres e de hábitos noturnos.
+
+=== Eutérios (Placentários)
+
+PT: Eutérios
+EN: Eutherians
+def: mamíferos que se destacam pela presença de placentas complexas. A placenta é um órgão que surge durante a gestação e possui, entre outras, a função de garantir a troca de nutrientes entre a mãe e o filhote.
+
+==== Insectivora
+
+PT: Insectivora
+EN: Insectivora
+def: Animal que se nutre de insetos.
+
+PT: Papa-formigas
+EN: Anteater
+def: Apresenta um focinho que termina por uma pequena boca circular no interior da qual se encontra uma comprida língua retráctil. Tem o corpo longitudinalmente alongado, uma grande cauda com pelos fortes e compridos e patas com grandes e poderosas garras nas extremidades anteriores. 
+
+==== Chiroptera
+
+PT: Chiroptera
+EN: Chiroptera
+def: São os únicos mamíferos voadores.
+
+PT: Morcego
+EN: Bat
+def: mamíferos quirópteros nocturnos , insectívoros , parecidos com o rato, mas com os dedos das mãos muito compridos e unidos por uma membrana que lhe permite voar.
+!img: morcego.jpg
+
+==== Primata
+
+PT: Primata
+EN: Primate
+def: Ordem de animais da Classe dos mamíferos, que compreende os grupos popularmente chamados de macacos, e também os símios, os lêmures, os lóris, os tarsos e os humanos.
+
+PT: Prossímios
+EN: Prosimians
+def: Os prossímios possuem pequeno porte, são animais noturnos com focinhos longos, cérebro menores quando comparados à outra subordem, podendo apresentar visão não completamente frontal (lêmures) e frontal (tarsos) e não fazem parte do grupo conhecido como macacos.
+
+PT: Lémure
+EN: Lemur
+def: Primatas de Madagascar da ordem Lemuriforme. Sendo primata, tem características semelhantes aos macacos. Existem espécies de lêmures herbívoros e onívoros. Todos possuem polegar opositor e unhas em vez de garras.
+
+PT: Antropoides
+EN: Anthropoids
+def: Espécies da ordem dos primatas atuais e extintos mais próximos evolutivamente do homem: os gorilas, chimpanzés, bonobos e orangotangos (chamados grandes símios) e os gibões (chamados símios menores). Os macacos antropoides são os animais mais semelhantes ao ser humano.
+
+PT: Gorila
+EN: Gorilla
+def: mamíferos primatas pertencentes ao gênero Gorilla, endêmicos das florestas tropicais do centro da África.
+
+PT: Chimpanzé
+EN: Chimpanzee
+def: Macaco que habita as florestas tropicais da África Central e está distribuído por toda a região.
+
+PT: Orangotango
+EN: Orangutan
+def: Género de exclusivamente três espécies asiáticas de hominídeos. Nativos da Indonésia e da Malásia, os orangotangos são encontrados somente nas florestas tropicais de Bornéu e da Sumatra.
+
+==== Xenartros
+
+PT: Xenartros
+EN: Xenarthros
+def: Esses animais têm a distribuição geográfica que vai do Centro sul da América do Norte, passando pelas América Central até o sul da América do Sul. O nome da ordem advém da estrutura das vértebras destes animais, bastante distinta dos restantes mamíferos. As vértebras dorso-lombares apresentam, além das articulações comuns, uma articulação acessória (xenartria). De um modo geral, os membros do grupo têm os dentes molares pouco desenvolvidos, o que lhes deu o nome popular de desdentados.
+
+PT: Tatu
+EN: Armadillo
+def: mamíferos xenartros da América do Sul cujo corpo é revestido de uma couraça.
+
+PT: Preguiça
+EN: Sloth
+def: São animais mamíferos encontrados apenas na América do Sul e Central. Fazem parte da superordem Xenarthra (a qual é composta também pelos tatus e tamanduás) e destacam-se por apresentarem hábito bastante lento, daí seu nome.
+
+PT: Coala
+EN: Koala
+def: animal vertebrado, mamífero e originário da Austrália. É herbívoro, alimenta-se de folhas de eucalipto e passa a maior parte de sua vida sobre as árvores.
+
+==== Lagomorpha
+
+PT: Lagomorpha
+EN: Lagomorpha
+def: Estão no grupo dos coelhos, se diferenciando dos demais roedores por possuírem quatro dentes incisivos superiores.
+
+PT: Coelho
+EN: Rabbit
+def: Trata-se de um mamífero herbívoro que se destaca por suas longas orelhas e pernas traseiras.
+
+PT: Lebre
+EN: Hare
+def: Designação dada a diversos mamíferos lagomorfos da família dos leporídeos, semelhantes aos coelhos, mas de maior dimensão, com orelhas compridas e de extremidade preta, extremamente velozes na corrida.
+
+==== Rodentia
+
+PT: Rodentia
+EN: Rodentia
+def: Possuem dois grandes dentes incisivos superiores e dois inferiores, com mandíbula não fusionada ao crânio, permitindo a mastigação em movimentos circulares.
+
+PT: Rato
+EN: Rat
+def: mamífero roedor, da família dos murídeos, grandemente danoso às despensas e celeiros, de origem asiática.
+
+PT: Capivara
+EN: Capybara
+def: Animal mamífero que vive em grupos. Destaca-se por possuir corpo robusto, musculoso e coberto por uma pelagem, geralmente, marrom. As capivaras (Hydrochoerus hydrochaeris) são mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo.
+
+==== Cetacea
+
+PT: Cetacea
+EN: Cetacea
+def: Subclasse de animais predominantemente marinhos, com formações aerodinâmicas perfeitamente adaptadas ao ambiente aquático, atualmente se dividem em duas subordens: Odontocetos e misticetos.
+
+PT: Golfinho
+EN: Dolphin
+def: mamífero marinho da família dos cetáceos, que vive em cardumes em todos os mares e se alimenta de peixes.
+
+PT: Baleia
+EN: Whale
+def: As baleias são animais aquáticos que se destacam por seu grande porte.
+
+
+==== Carnivora
+
+PT: Carnivora
+EN: Carnivora
+def: Apresentam pés com quatro ou cinco dedos, com garras, caninos fortes e dentes adaptados para cortar suas presas.
+
+PT: Cão
++var: PT-PT
+PT: Cachorro
++var: PT-BR
+EN: Dog
+def: Animal mamífero doméstico da família dos canídeos, do gênero Canis familiaris, da qual existem diversas raças adestradas
+
+PT: Gato
+EN: Cat
+def: mamífero carnívoro de pequeno porte ( Felis catus ), da família dos felídeos, originário da África e da Ásia, digitígrado, de unhas retráteis, descendente do gato selvagem, domesticado pelo homem há milhares de anos, considerado de grande utilidade para a destruição dos ratos.
+
+==== Sirenia
+
+PT: Sirenia
+EN: Sirenia
+def: São os únicos mamíferos herbívoros e aquáticos, ocupando ambientes rasos de rios, estuários e mar.
+
+PT: Peixe-boi-marinho
+EN: Marine manatee
+def: mamífero aquático da ordem dos Sirênios, da família Trichechidae. Num ambiente saudável e livre de ameaças, ele pode viver de 50 a 60 anos.
+
+==== Perissodactyla
+
+PT: Perissodactyla
+EN: Perissodactyla
+def: São mamíferos terrestres, herbívoros e dotados de cascos, com um número ímpar de dedos nas patas.
+
+PT: Cavalo
+EN: Horse
+def: mamíferos quadrúpedes, do gênero Equus, que podem apresentar mais de 1,50 m de altura e pesar mais de 500 quilos. O cavalo é um animal mamífero que apresenta grande importância na história do ser humano.
+
+==== Artiodactyla
+
+PT: Artiodactyla
+EN: Artiodactyla
+def: Caracterizados pela ordem dos mamíferos que possuem um número par de dedos nas patas.
+
+PT: Porco
+EN: Pig
+def: Quadrúpede mamífero doméstico da família dos suídeos, ordem dos artiodáctilos.
+
+
+== natureza
+
+PT: árvore
+EN: tree
+def: planta de grande porte 
+hpr:planta
+!img: natureza-arvore.jpg
+
+PT: água
+EN: water
+!img: natureza-agua.jpg
+
+PT:animais
+EN: animals
+hpr:seres vivos
+!img: natureza-animais.jpg
+
+PT: flores
+EN: flowers
+!img: natureza-flores.jpg
+
+PT: rochas
+EN: rocks
+!img: natureza-rochas.jpg
+
+PT: flora
+EN: flora
+def: conjunto de plantas de uma determinada região ou período
+hpr: biota
+!img: natureza-flora.jpg
+
+PT:  fauna 
+EN: fauna
+def: conjunto de animais de uma determinada região ou período
+hpr: biota
+!img: natureza-fauna.jpg
+
+PT: rio
+EN: river
+def: um curso de água natural que flui em direção ao oceano, lago ou outro rio
+!img: natureza-rio.jpg
+
+PT: clima
+EN: climate
+def: as condições meteorológicas típicas de uma determinada zona ao longo do tempo
+hpr: condições atmosféricas 
+
+PT: solo
+EN: soil
+hpr: terreno 
+!img: natureza-terreno.jpg
+
+PT: oceano
+EN: ocean
+def: a vasta extensão de água salgada que cobre a maior parte da superfície da terra
+!img: natureza-oceano.jpg
+
+PT: bioma
+EN: biome
+hpr: tipo de ecossistema
+!img: natureza-bioma.jpg
+
+PT: floresta
+EN: forest
+def: uma extensa área da terra coberta por árvores 
+hpr: vegetação densa 
+!img: natureza-floresta.jpg
+
+PT: plantas
+EN: plants
+
+PT: ecossistema
+EN: ecosystem
+
+PT: biodiversidade
+EN: biodivesity
+
+PT: montanha
+EN: mountain
+
+PT: poluição
+EN: pollution
+
+PT: ciclo natural
+EN: natural cycle
+
+PT: tempestade
+EN: storm
+
+PT: sol
+EN:  sun
+
+PT:trovoada
+EN: thunderstorm
+
+PT: chuva
+EN: rain
+
+PT: microorganismos
+EN: 
+
+PT: neve 
+EN: snow
+
+PT:deserto
+EN: desert
+
+PT: fertilizante
+EN: fertilizer
+
+PT: fotossíntese
+EN: photosynthesis
+
+PT: geologia
+EN: geology
+
+PT: biologia
+EN: biology
+
+PT: gás de efeito estufa
+EN: greenhouse gas
+
+PT: maré
+EN: tide
+
+PT: terremoto
+EN: earthquake
+
+== peixes
+
+=== peixes de Portugal
+
+PT:pescada branca
+EN:hake
+nome_científico:Merluccius merluccius
+
+PT:robalo
+EN:sea bass
+nome_científico:dicentrarchus labrax
+!img:dominiopeixes_robalo_jpg.jpg
+
+PT:salmonete
+EN:red mullet
+nome_científico: mullus
+!img:dominiopeixes_Salmonete_png.png
+
+PT:sardinha
+EN:sardine
+nome_científico:sardina pilchardus
+!img:dominiopeixes_sardinha_jpg.jpg
+
+PT:sargo
+EN:sargo
+nome_científico:diplodus sargus
+
+PT:tamboril
+EN:monk fish
+nome_científico:lophius psicatorius
+!img:dominiodepeixes_tamboril_jpg.jpg
+
+==== Moluscos
+
+PT:choco
+EN:cuttlefish
+nome_científico:sepia officinalis
+!img:dominiodepeixes_choco_jpg.jpg
+def: possui um corpo oval e achatado com oito braços e dois tentáculos longos
+
+PT:lula
+EN:squid
+nome_científico:loligo vulgaris
+!img:dominiopeixes_lula_jpg.jpg
+def: possui um corpo alongado e cilíndrico
+
+PT:polvo-comum
+EN:octopus
+nome_científico:octupus vulgar
+!img:dominiopeixes_polvo_jpg.jpg
+
+PT:ostra
+EN:oyster
+nome_científico:ostreidae
+!img:domiopeixes_ostra_jpg.jpg
+
+PT:mexilhão
+EN:mussel
+nome_científico:mytilus edulis
+!img:dominiopeixes_mexilhao_jpg.jpg
+
+== plantas
+
+PT: folha
+EN: leaf
+def: estrutura vegetal de crescimento limitado e de cor verde. São especializadas, principalmente, na realização da fotossíntese.
+!img: folhas.jpg
+
+PT: caule
+EN: stem
+def: órgão da planta responsável pela sustentação das folhas e as estruturas de reprodução, além da condução de nutrientes, estabelecendo um contato entre as folhas e as raízes.
+
+PT: ramo
+EN: branch
+def: parte que sai do tronco de uma árvore ou arbusto.
+
+PT: raíz
+EN: root
+def: órgão encontrado em plantas vasculares.
+
+=== Árvores
+
+PT: pinheiro
+EN: pine tree
+def: designação dada a várias árvores do género Pinus, da família das pináceas.
+
+PT: laranjeira
+EN: orange tree
+def: árvore cítrica da família das rutáceas.
+
+PT: limoeiro
+EN: lemon tree
+def: planta relativamente pequena e de copa arredondada.
+
+PT: oliveira
+EN: olive tree
+def: árvore da família das oleáceas.
+
+PT: bananeira
+EN: banana tree
+def: designação comum, extensiva às plantas de género Musa.
+
+PT: sobreiro
+EN: cork tree
+def: árvore perene da família das Fagáceas.
+!img: sobreiro.jpg
+
+PT: castanheiro
+EN: chestnut
+def: árvore lenhosa que pode atingir mais de um milhar de anos.
+
+PT: carvalho
+EN: oak 
+def: árvore de folha caduca, que pode atingir uma altura de 30-40 metros.
+
+=== Flores
+
+PT: tulipa
+EN: tulip
+def: flor ornamental do gênero de plantas liliáceas.
+
+PT: rosa
+EN: rose
+def: arbustos ou trepadeiras, providos de acúleos.
+!img: rosa.jpg
+
+PT: margarida
+EN: daisy
+def: uma planta vivaz da família das Asteraceae. 
+
+PT: orquídea
+EN: orchid
+def: plantas que compõem a família Orchidaceae.
+
+PT: girassol
+EN: sunflower
+def: planta originária da América do Norte que possui a particularidade de ser heliotrópica.
+
+PT: dente-de-leão
+EN: dandelion
+def: planta herbácea com raízes fundas e folhas muito dentadas.
+
+PT: dália
+EN: dahlia
+def: planta herbácea da família das asteráceas, pertencente ao género Dahlia.
+
+== quinta
+
+=== animais da quinta
+
+PT: animais da quinta
+EN: farm animals
+def: ser vivo multicelular, com capacidade de locomoção e de resposta a estímulos, que se nutre de outros seres vivos.
+
+PT: cavalo
+EN: horse
+!img: cavalo.jpg
+
+PT: vaca
+EN: cow
+
+PT: ovelha
+EN: sheep
+
+PT: galinha
+EN: chicken
+!img: galinha.jpg
+
+PT: burro
+EN: donkey
+
+PT: porco
+EN: pig
+
+PT: cabra
+EN: goat
+
+PT: coelho
+EN: rabbit
+
+PT: galo
+EN: bump
+
+PT: pato
+EN: duck
+
+=== Horta
+
+PT: horta 
+EN: vegetable garden
+def: terreno onde se cultivam hortaliças, legumes e etc.
+
+PT: tomate
+EN: tomato
+
+PT: alface
+EN: lettuce
+
+PT: couve
+EN: cabbage
+
+PT: couve-flor
+EN: cauliflower
+!img: couve.jpg
+
+PT: pepino
+EN: cucumber
+
+PT: cebola
+EN: onion
+
+PT: feijão
+hol: feijoeiro
+EN: bean
+hpm: feijão preto
+hpm: feijão frade
+hpm: feijão branco
+hpm: feijão verde
+hpm: feijão vermelho
+!img: feijoeiro.jpg
+
+PT: pimento
+EN: pepper
+
+PT: batata
+EN: potato
+
+PT: cenoura
+EN: carrot
+
+PT: beterraba
+EN: beet
+
+PT: alho
+EN: garlic
+
+PT: alho francês
+EN: leek
+!img: alho.jpg
+
+PT: ervilha
+EN: pea
+
+PT: nabo
+EN: turnip
+
+PT: milho
+EN: corn
+
+PT: brócolo
+EN: broccoli
+
+PT: abóbora
+EN: pumpkin
+1img: abobora.jpg
+
+PT: salsa
+EN: parsley
+
+PT: hortelã
+EN: mint
+
+PT: oregãos
+EN: oregano
+
+PT: tomilho
+EN: thyme
+
+PT: coentros 
+EN: coriander
+
+PT: cebolinho
+EN: chives
+
+PT: manjericão
+EN: basil
+
+=== Equipamentos agrícolas
+
+PT: equipamentos agrícolas
+EN: agricultural equipment
+def: equipamentos de auxílio nas tarefas do campo, aumentando a agilidade e eficiência das atividades.
+
+PT: trator
+EN: tractor
+!img: trator.jpg
+
+PT: arado
+EN: plow
+
+PT: enxada
+EN: hoe
+
+PT: carrinho de mão
+EN: wheelbarrow
+
+PT: colheitadora
+EN: harvester
+!img: colheitadora.jpg
+
+PT: ancinho
+EN: rake
+
+PT: grade
+EN: grid
+
+PT: semeador
+EN: seeder
+!img: semeador.jpg
+
+== animais
+
+=== Aves
+
+PT: aves
+EN: birds
+def:  classe de seres vivos vertebrados caracterizada pela presença de penas e bico
+hpr: classe de animais
+!img: aves.jpg
+
+==== Aves que não voam
+
+PT: galinha
+EN: chicken
+hpr: ave
+!img: galinha.jpg
+
+PT: avestruz
+EN: ostrich
+hpr: ave
+!img: avestruz.jpg
+
+PT: codorniz
++var: PT-PT
+PT: codorna
++var: PT-BR
+EN: quail
+hpr: ave
+!img: codorniz.jpg
+
+PT:galinha d'angola
+EN: guinea fowl
+hpr: ave
+!img: galinhadangola.jpg
+
+PT: peru
+EN: turkey
+hpr: ave
+!img: peru.jpg
+
+==== Aves que voam
+
+PT: abutre
++var: PT-PT
+PT: urubu
++var: PT-BR
+EN: vulture
+hpr: ave
+!img: abutre.jpg
+
+PT: andorinha
+EN: swallow
+hpr: ave
+!img: andorinha.jpg
+
+PT: pombo
+EN: pigeon
+hpr: ave
+!img: pombo.jpg
+
+PT: melro
+EN: blackbird
+hpr: ave
+!img: melro.jpg
+
+PT: arara
+EN: macaw
+hpr: ave
+!img: arara.jpg
+
+PT: águia
+EN: eagle
+hpr: ave
+!img: aguia.jpg
+
+PT: alvéola
+PT: lavandisca
+EN: wagtail
+hpr: ave
+!img: alveola.jpg
+
+=== Inscetos
+
+PT: Formiga
+EN: Ant
+def: comum aos insetos himenópteros; com três pares de patas articuladas e o corpo dividido em três partes: cabeça, tórax e abdómen. Relativamente ao tamanho podem variar entre 2 mm e 25 mm.
+hpr: Insecto sem asas
+!img: formiga.png
+
+PT: Grilo
+EN: Cricket
+def: comum aos insetos ortópteros da família dos grilídeos, que geralmente possuem coloração escura e produzem som através de aparelho musical formado pelas nervuras das asas anteriores dos machos.
+hpr: Insecto com asas
+!img: grilo.png
+
+PT: Mosquito
+EN: Mosquito
+def: comum aos insetos dípteros, de pequeno tamanho, são da família dos culicídeos, geralmente vetores de conhecidas doenças do homem; bicuda, carapaná, carapanã, fincão, fincudo, meruçoca, moroçoca, mosquito-pernilongo, muriçoca, muruçoca, perereca, pernilongo, sovela.
+hpr: Insecto com asas
+!img: mosquito.png
+
+PT: Mosca
+EN: Fly
+def:  comum aos insetos dípteros; esquizóforos da subordem dos ciclórrafos, dividem se em caliptrados e acaliptrados e numerosas famílias.
+hpr: Insecto com asas
+!img: mosca.png
+
+PT: Borboleta
+EN: Butterfly
+def: comum aos insetos lepidópteros; da subordem dos ropalóceros; geralmente diurnos, possuem antenas com as extremidades apicais dilatadas e asas sem frênulos.
+hpr: Insecto com asas
+!img: borboleta.png
+
+PT: Besouro
+EN: Beetle
+def: comum a todos os insetos coleópteros; distribuem-se por uma infinidade de habitat e variam em tamanho de 1 mm até 15 cm de comprimento.
+hpr: Insecto com asas
+!img: 
+
+PT: Abelha
+EN: Bee
+def: comum aos insetos himenópteros; solitárias, sociais ou parasitas, que se distinguem das vespas por apresentarem pelos; Desempenham papel importante na polinização de muitas plantas.
+hpr: Insecto com asas
+
+PT: Vespa Asiática
+EN: Hornet
+def: comum aos insetos himenópteros; é uma espécie de origem asiática; caracteriza-se por ter cabeça preta com face alaranjada e o corpo castanho-escuro ou preto, com faixas finas também alaranjadas.
+hpr: Insecto com asas
+!img: vespa asiatica.png
+
+PT: Vespa
+EN: Wasp
+def: comum a todos os insetos himenópteros; seus representantes são geralmente alados, providos de ferrão na extremidade do abdome e com patas posteriores não achatadas.
+hpr: Insecto com asas
+!img: vespa.png
+
+PT: Libelinha
+EN: Dragonfly
+def: designação dada a várias espécies de insectos carnívoros da ordem dos odonatos, cujos adultos têm cabeça arredondada, olhos grandes, corpo estreito e dois pares de asas transparentes e alongadas.
+hpr: Insecto com asas
+!img: libelinha.png
+
+PT: Minhoca
+EN: Worm
+def: comum aos animais anelídeos, da classe dos oligoquetas, os quais são cavadores incessantes de túneis e galerias e apresentam colorido cinzento ou róseo.
+hpr: Insecto sem asas
+!img: minhoca.png
+
+PT: Barata
+EN: Cockroach
+def: comum a todos os insetos ortópteros da família dos blatídeos; as de hábitos domésticos, por nutrirem-se de toda sorte de produtos, contaminam alimentos, têm odor desagradável e tornam-se pragas sérias.
+hpr: Insecto com asas
+
+PT: Joaninha
+EN: Ladybug
+def: comum aos besouros da família dos coccinelídeos, de pequeno tamanho, corpo semiesférico, cabeça escondida pelo protórax e élitros de cores vivas em desenhos variados.
+hpr: Insecto com asas
+
+PT: Escaravelho
+EN: Scarab
+def: nome comum a vários besouros esterqueiros, de cor negra ou escura, comumente algo grandes, que têm o clípeo expandido de modo a cobrir as partes bucais. Constituem a família dos Escarabeídeos
+hpr: Insecto com asas
+!img: escaravelho.png
+
+PT: Gafanhoto
+EN: Locust
+def: os gafanhotos são artrópodes e, portanto, apresentam o corpo revestido por um exoesqueleto. Essa estrutura, que atua na proteção do animal, impede seu crescimento, portanto, deve ser trocada de tempos em tempos.
+hpr: Insecto com asas
+
+PT: Saltão
+EN: Grasshopper
+def: Os gafanhotos são os insetos pertencentes à subordem Caelifera da ordem Orthoptera, caracterizados por terem o fémur das pernas posteriores muito grandes e fortes, o que lhes permite deslocarem-se aos saltos.
+hpr: Insecto sem asas
+
+PT: Cigarra
+EN: Cicada
+def: comum aos insetos homópteros da família dos cicadídeos, notáveis pela cantoria entoada pelos machos; possui um canto característico que é ouvido frequentemente no período quente do ano.
+hpr: Insecto com asas
+
+PT: Traça
+EN: Moth
+def: comum às larvas, especialmente as da família dos tineídeos, originárias da Europa, que corroem artefatos de lã, seda ou peles e geralmente são observadas transportando o seu casulo
+hpr: Insecto com asas
+
+
+=== répteis
+
+==== anfíbios
+
+PT: tartaruga
+EN: turtle
+def: réptil anfíbio quelónio caracterizado por dois escudos ósseos que lhe cobrem todo o corpo.
+
+PT: crocodilo
+EN: crocodile
+def: grande réptil anfíbio carnívoro e muito voraz.
+
+PT: jabuti
+EN: tortoise
+def: tartarugas terrestres encontradas na América do Sul.
+
+PT: cágado
+EN: tortoise
+def: réptil anfíbio quelônio de água doce.
+
+PT: lagarto
+EN: lizard
+def: réptil sáurio, de cabeça oval e corpo quase cilíndrico, muito ágil, e de muita utilidade para a agricultura, por se alimentar de insetos.
+
+PT: camaleão
+EN: chameleon
+def: réptil sáurio, de olhos grandes e salientes e língua protrátil e pegajosa com que caça os insetos de que se alimenta. (A sua pele pode mudar de cor).
+
+PT: iguana
+EN: iguana
+def: réptil sáurio herbívoro, encontrado na América Central e Meridional, que chega a atingir 1,50 m de comprimento, e que tem uma crista dorsal com escamas pontiaguda.
+
+==== ofídios
+
+PT: cobra
+EN: snake
+def: espécies de répteis ofídios rastejantes, corpo cilíndrico e alongado, com escamas.
+
+PT: serpente
+EN: snake
+def: réptil ofídio
+
+PT: víbora
+EN: viper
+def: Gênero de répteis ofídios ovovivíparos.
+
+PT: cobra-d'água
+EN: water snake
+def: Cobra que vive na água.
+
+PT: anaconda
+EN: anaconda
+def: réptil ofídio da América do Sul, o qual atinge grandes dimensões.
+
+== alimentos
+
+=== bebidas
+
+PT: água
+EN: water
+def: líquido incolor, insípido e inodor, essencial para os seres vivos
+
+PT: água com gás
+EN: sparkling water
+def: água que contém dióxido de carbono dissolvido
+
+PT: limonada
+EN: limonade
+def: bebida feita de sumo de limão; ácido
+
+PT: laranjada
+EN: orange juice
+def: bebida feita com sumo de laranja
+
+PT: vinho
+EN: wine
+def: bebida que resulta da fermentação alcoólica com uvas
+
+PT: cerveja
+EN: beer
+def: bebida alcoólica obtida por meio da fermentação do malte de cevada, ou de outros cereais
+
+PT: refrigerante
+EN: soda
+def: bebida gasosa, com sabor adocicado
+
+PT: tequila
+EN: tequila
+def: tipo de aguardente mexicano produzida pela destilação do agave
+
+PT: coca-cola
+PT: cola
+EN: coke
+def: bebida gasosa adocicada
+
+PT: café
+EN: coffee
+def: bebida produzida a partir dos grãos torrados do fruto do cafeeiro
+
+PT: rum
+EN: rum
+def: aguardente obtida por fermentação e destilação simples do caldo ou do melaço da cana-de-açúcar
+
+== alimentos
+
+=== Vegetais
+
+
+PT: alface
+EN: lettuce
+def: vegetal de cor verde ou roxa frequentemente utlizado nas saladas
+
+PT: alho-francês
+EN: leek
+def: vegetal que pertence à mesma família que as cebolas e os alhos
+
+PT: abóbora
+EN: pumpkin
+def: de cor alaranjada ou avermelhada, muito usado na culinária por sua polpa comestível
+
+PT: corgete
+EN: courgette
+def: variedade de abóbora, usada na alimentação humana, de forma alongada, casca verde e polpa branca ou amarelada
+
+PT: cenoura
+EN: carrot
+def: vegetal alaranjado, cozidas em sopas e refogados
+
+PT: cenoura
+EN: carrot
+def: vegetal alaranjado, cozidas em sopas e refogados
+
+PT: nabo
+EN: turnip
+def: vegetal com raízes brancas ou arroxeadas comestíveis
+
+PT: salsa
+EN: parsley
+def: vegetal esverdeado condimentar e medicinal, utilizada desde a antiguidade e difundida em todas as áreas de clima temperado e subtropical
+
+PT: batata
+EN: potato
+def: tubérculo que tem a sua origem na América do Sul mas que, hoje em dia, se cultiva em diversas regiões do planeta
+
+PT: pimento
+EN: pepper
+def: planta solanácea cujo fruto, mais ou menos picante, é empregado como condimento
+
+PT: cebola
+EN: onion
+def: é um bulbo de folhas concêntricas que apresenta boa proteção contra a desidratação
+
+PT: repolho
+EN: cabbage
+def: vegetal pertencente ao gênero Brassica, o mesmo do brócolo, da couve-flor e da couve
+
+== alimentos
+
+=== Frutas
+
+
+PT: lichia
+EN: lychee
+def: tem uma casca avermelhada, rugosa e um interior branco, possuindo um sabor levemente ácido
+
+PT: physalis
+EN: physalis
+def: sabor refrescante e possui uma leve acidez, sendo parecido a um tomate e envolvido em folhas
+
+PT: romã
+EN: pomegranate
+def: simboliza fecundidade, esperança e riqueza, ela é cultivada em clima tropical
+
+PT: morango
+EN: strawberry
+def: vem de uma planta da família das Rosacéas
+
+PT: maçã
+EN: apple
+def: com propriedade adstringente, sendo excelente para a granganta e as cordas vocais
+
+PT: ánanas
+EN: pineapple
+def: é um simbolo das regiões tropicais e sobtropicais
+
+PT: laranja
+EN: orange
+def: de forma esférica, dividida em gomos, pertence ao grupo dos Citrus
+
+PT: maracujá
+EN: passion fruit
+def: tem uma polpa com pequenas sementes pretas, é usado para fazer sumos e doces
+
+PT: pera
+EN: pear
+def: é considerada a fruta por exelência para dar a um bébé
+
+PT: melancia
+EN: watermelon
+def: constituída por 93 por cento de agua, ela tem um sabor doce e é refrescante
+
+
+== plantas
+
+=== árvores 
+
+PT: macieira
++var: ptpt
++G: f
+EN: apple tree 
++G: f
+def: árvore de maçãs
+obs: podem ser vermelhas, amarelas ou verdes
+
+PT: bananeira 
++var: ptpt
++G: f
+EN: banana tree
++G: f
+def: árvore de bananas
+
+PT: pereira
++var: ptpt
++G: f
+EN: pear tree
++G: f
+def: árvore de peras
+
+PT: figueira
++var: ptpt
++G: f
+EN: fig tree
++G: f
+def: árvore de figos
+
+PT: ameixoeira
++var: ptpt
++G: f
+EN: plum tree
++G: f
+def: árvore de ameixas 
+
+PT: carvalho
++var: ptpt
++G: m
+EN: oak tree
++G: m
+
+PT: pinheiro
++var: ptpt
++G: m
+EN: pine tree
++G: m
+
+PT: nogueira
++var: ptpt
++G: f
+EN: wallnut tree
++G: f
+
+PT: abacateiro 
++var: ptpt
++G: m
+EN: avocado tree
++G: m
+
+PT: sobreiro
++var: ptpt
++G: m
+EN: cork oat tree
++G: m 
+
+PT: eucalipto
++var: ptpt
++G: m
+EN: eucalyptus
++G: m
+
+PT: laranjeira
++var: ptpt
++G: f
+EN: orange tree
++G: f
+
+PT: castanheiro
++var: ptpt
++G: m
+EN: chestnut tree
++G: m
+
+PT: palemira
++var: ptpt
++G: f
+EN: palm tree
++G: f
+
+PT: plátano
++var: ptpt
++G: m
+EN: plane tree
++G: m 
+
+PT: sedro
++var: ptpt
++G: m
+EN: cedar tree
++G: m
+
+PT: cipreste
++var: ptpt
++G: m
+EN: cypress tree
++G: m
+
+PT: cerejeira
++var: ptpt
++G: f
+EN: cherry tree
++G: f
+
+PT: pessegueiro
++var: ptpt
++G: m
+EN: peach tree
++G: m
+
+PT: limoeiro
++var: ptpt
++G: m
+EN: lemon tree
++G: m 
+
+PT: coqueiro
++var: ptpt
++G: m
+EN: coconut tree
++G: m
+
+PT: amendoeira 
++var: ptpt
++G: f
+EN: almond tree
++G: f
+
+PT: romãzeira 
++var: ptpt
++G: f
+EN: pomegranate tree
++G: f
+
+PT: videira
++var: ptpt
++G: f
+EN: grape vine
++G: f
+
+PT: árvore de kiwi
++var: ptpt
++G: f
+EN: kiwi tree
++G: f
+
+
+== aves
+
+PT: pena
+EN: feather
+def: estrutura da pele formada por queratina que permite o voo e auxilía no isolamento térmico.
+hpr: revestimento da pele
+
+=== aves voadoras 
+
+PT: pombo
+EN: pigeon
+def: ave de pequeno porte, geralmente cinza claro, com uma mancha púrpura e uma mancha verde na lateral do pescoço. O seu bico é cinzento e os pés são laranja avermelhados
+hpr: ave doméstica
+
+==== aves de rapina
+
+PT: rapina
+EN: plunder
+def: ato de roubar astuciosa e violentamente.
+hpr: ataque
+
+PT: falcão
+EN: falcon
+def: ave de cabeça pequena, bico forte e curvo e garras robustas.
+hpr: ave de rapina
+
+=== aves não-voadoras
+
+PT: pinguim 
+EN: penguin
+def: aves semi-aquáticas que geralmente habitam em ambientes extremamente frios.
+hpr: aves não-voadoras 
+
+== avião
+
+=== partes do avião
+
+PT: cabine de comando
+EN: cockpit
+def: é uma área usualmente situada na parte dianteira de uma aeronave, de onde os pilotos a controlam
+
+PT: turbina
+EN: turbine
+def: parte do avião encarregue de gerar tração
+!img: partesdoaviao-turbina.jpg
+
+PT: abas
+EN: flaps
+def: é um dispositivo de alta sustentação que consiste em um painel articulado ou painéis montados no bordo de fuga da asa.
+
+PT: cabine
+EN: cabin
+def: secção de uma aeronave na qual os passageiros viajam
+
+PT: cauda
+EN: tail
+def: parte traseira de um avião
+
+PT: asa
+EN: wing 
+def: dispositivo mecânico destinado à sustentação aerodinâmica
+!img: partesdoaviao-asas.jpg
+
+PT: estabilizador vertical
+EN: rudder
+def: estrutura aerodinâmica móvel incluída na empenagem do avião, cujo objectivo é controlar a estabilidade longitudinal (arfagem) e direcional(guinada)
+!img: partesdoaviao-estabilizadorvertical.jpg
+
+PT: estabilizador horizontal
+EN: elevator
+def: estrutura móvel fixada no estabilizador Horizontal que controla o movimento do avião para cima ou para baixo, ou a sua subida ou descida
+!img: partesdoaviao-estabilizadorhorizontal.jpg
+
+PT: elevador
+EN: elevator
+def: superfície de controlo móvel horizontal
+
+PT: flapes
+EN: flaps
+def: auxiliar na sustentação para o avião levantar voo
+
+PT: fuselagem
+EN: fuselage
+def: estrutura fuselada para abrigar a tripulação
+
+
+== corpo humano
+
+=== cabeça 
+
+PT: sobrancelhas
++var: PT-PT
+EN: eyebrows
+def: conjunto de pelos em forma de arco em cima de cada olho
+
+PT: olhos
++var: PT-PT
+EN: eyes
+def: órgão responsável pela visão do ser humano
+
+PT: nariz
++var: PT-PT
+EN: nose
+def: parte saliente do rosto que corresponde ao órgão do olfato
+
+PT: boca
++var: PT-PT
+EN: mouth
+def: abertura e cavidade que se situa na parte interior da face, por onde se ingerem os alimentos e se emitem sons da fala
+
+PT: orelha
++var: PT-PT
+EN: ear
+def: parte externa do órgão do ouvido
+
+PT: queixo
++var: PT-PT
+EN: chin
+def: região saliente por baixo lábio inferior
+
+PT: cabelo
++var: PT-PT
+EN: hair
+def: conjunto de pelos que revestem normalmente a parte superior e posterior da cabeça
+
+PT: testa
++var: PT-PT
+EN: forehead
+def: parte da cara compreendida entre os olhos e a raiz dos cabelos anteriores da cabeça
+
+PT: bochecha
++var: PT-PT
+EN: cheek
+def: parte saliente e carnuda de cada uma das faces
+
+PT: dentes
++var: PT-PT
+EN: teeth
+def: estrutura de origem óssea cuja função é cortar, rasgar e moer os alimentos, sendo também importantes na articulação de sons e de palavras
+
+PT: cérebro
++var: PT-PT
+EN: brain
+def: órgão principal e centro do sistema nervoso
+
+PT: nuca
++var: PT-PT
+EN: nape
+def: parte superior e posterior do pescoço
+
+PT: língua
++var: PT-PT
+EN: tongue
+def: órgão móvel da cavidade bocal
+
+PT: pestanas
++var: PT-PT
+EN: eyelashes
+def: pelos da pálpebra
+
+PT: pálpebra
++var: PT-PT
+EN: eyelid
+def: véu ou túnica exterior que cobre e resguarda o olho
+
+
+
+== plantas
+
+=== flores
+
+
+PT: rosa
++var: PT-PT
+PT: rosa
++var: PT-BR
+EN: rose
+def: Flor da roseira.
+!img: rosa.jpg
+
+PT: girassol
++var: PT-PT
+PT: girassol
++var: PT-BR
+EN: sunflower
+def: Planta da família das compostas cujas flores, grandes e amarelas, se voltam para o sol.
+
+PT: tulipa
++var: PT-PT
+PT: tulipa
++var: PT-BR
+EN: tulipe
+def: Género de plantas liliáceas.
+!img: tulipa.jpg
+
+PT: margarida
++var: PT-PT
+PT: margarida
++var: PT-BR
+EN: daisy
+def: Designação dada a várias plantas da família das asteráceas, entre as quais a margarida-dos-prados ou bonina ou o malmequer.
+
+PT: camélia
++var: PT-PT
+PT: camélia
++var: PT-BR
+EN: camellia
+def: Arbusto ornamental (Camellia japonica), da família das teáceas, de folhas ovais e lustrosas e flores geralmente de cor vermelha, rosa ou branca.
+!img: camelia.jpg
+
+PT: orquídea
++var: PT-PT
+PT: orquídea
++var: PT-BR
+EN: orchid
+def: Designação genérica das flores e das plantas da família das orquidáceas, de flores notáveis pela sua beleza, colorido e forma.
+!img: orquidea.jpg
+
+
+
+
+== Geografia
+
+=== Geografia Física
+
+==== relevo 
+
+PT: planície
+EN: plain 
+EN: flatland
+def: forma de relevo relativamente palana que se localiza a baixa altitude
+
+PT: Planalto
+EN: tableland
+EN: plateau
+def: forma de relevo plano e mais alto que as planícies com altitude em média superior a 300m
+
+PT: depressão
+EN:  depression
+def: porção de relevo que possiu altitude mais baixa do que as áreas em seu entrono 
+
+PT: montanha
+EN: mountain
+EN: hill
+def: forma de relevo que apresenta as mais elevadas altitudes 
+
+PT: plataforma continental 
+EN: continental shelf
+def: prolongamento da planície costeira em direção ao fundo dos oceanos 
+!img: palataformacontinental.jpg
+
+PT: talude 
+EN: continental slope
+def: porção de relevo submarino que se caracteriza por uma inclinação acentuada e estreita 
+!img: talude.jpeg
+
+PT: zona abissal
+PT: região plágica 
+EN: abyssal zone 
+def: porção mais profunda do modelado oceânico, onde são encontradas diversas formas de relvo 
+
+==== Clima 
+
+PT: clima 
+EN: climate
+def: estudo médio do tempo para o determinado período ou mês em uma certa localidade
+
+PT: tempo
+EN: weather
+def: estado físico das condições atmosféricas em determindado momento e local
+
+PT: clima tropical
+EN: tropical climate
+def: ocorre nas faixas intermediárias do planeta e é marcado por ocorrência de estações bem definidas, uma quente e húmida e outra mais fria e seca
+
+PT: clima polar
+EN: polar climate 
+def: ocorre em áreas de grande altitude, é caracterizado por registos de temperaturas muito baixas e recorrente presença de neve
+
+PT: pressão atmosférica
+EN: atmos
+def: medida que aponta o peso que o ar exerce sobre a superfície terrestre
+
+=== Geografia Humana
+
+==== Geografia da população
+
+PT: população absoluta
+EN: absolute population
+def: índice geral da população de um determinado local
+
+PT: crescimento migratório
+EN: migration growth
+def: taxa de crescimento de um local medido a partir da diminuição da taxa de imigração pela taxa de emigração
+
+PT: taxa de immigração
+EN: imigration tax
+def: número de pessoas que entra para um país
+
+PT: taxa de emmigração
+EN: emigration tax
+def: número de pessoas que sai de um país para o outro
+
+== animais
+
+PT: insectos
+EN: insects
+!img: insectos.jpg
+
+=== insectos
+
+PT: abelha
+EN: bee
+!img: abelha.jpg
+
+PT: borboleta
+EN: butterfly
+!img: borboleta.jpg
+
+PT: escaravelho
+EN: beetle
+!img: escaravelho.jpg
+
+PT: libélula
+EN: dragonfly
+!img: libelula.jpg
+
+PT: joaninha
+EN: ladybug
+!img: joaninha.jpg
+
+PT: louva-a-deus
+EN: mantis
+!img:louva-a-deus.jpg
+
+PT: mosca
+EN: fly
+!img: mosca.jpg
+
+PT: vespa
+EN: wasp
+!img: vespa.jpg
+
+PT: gafanhoto
+EN: grasshopper
+!img: gafanhoto.jpg
+
+PT: cigarra
+EN: cicada
+!img: cigarra.jpg
+
+== mamíferos
+
+=== sub Carnívoros 1
+
+PT: raposa
+EN: fox
+def: Uma raposa é um mamífero carnívoro pertencente à família dos canídeos. Ela é conhecida por sua aparência elegante e astúcia, sendo considerada um dos animais mais inteligentes do reino animal. Existem várias espécies de raposas, sendo a raposa vermelha a mais comum e conhecida.
+
+PT: gambá
+EN: possum
+def: Gambá é um mamífero marsupial, assim como coala e canguru. O termo gambá é usado para se referir a diferentes espécies da família Didelphidae. Esses animais se destacam por ter um corpo maciço, focinho alongado, membros curtos, orelhas desenvolvidas e uma cauda preênsil, semelhante ao corpo de um roedor.
+
+PT: camelo
+EN: camel
+def: mamífero quadrúpede, da família dos Camelídeos, de origem asiática, de grande porte, ruminante, com pelagem castanha, pescoço comprido e duas corcovas dorsais, muito utilizado como meio de transporte e animal de carga nas regiões áridas
+
+PT: gorilla
+EN: gorilla
+def:  Gorilla, diurnos e esp. vegetarianos, com uma única sp. (Gorilla gorilla) encontrada nas florestas tropicais da África equatorial, onde vive esp. no chão, em grupos de até 30 indivíduos; com até 1,75 m de altura, pelagem curta e predominantemente negra, focinho curto, orelhas muito pequenas e membros anteriores maiores que os posteriores; gorilha [Espécie ameaçada de extinção.]
+
+PT: abelha
+EN: bee
+def:A abelha simboliza a imortalidade, a ordem, a diligência, a lealdade, a cooperação, a nobreza, a alma, o amor e a dor. Algumas características marcantes desses insetos os quais buscam o pólen das flores para produzir seu alimento, são: a organização, o labor e a disciplina.
+
+PT: esquilo
+EN: squirrel
+def:
+
+PT: borboleta
+EN: butterfly
+def:
+
+PT: rato
+EN: rat
+def:
+
+
+== mamíferos
+
+=== sub Carnívoros 
+
+PT: tigre
+EN: tiger
+
+PT: leão
+EN: lion
+
+PT: raposa
+EN: fox
+def: Uma raposa é um animal selvagem parecido com um cão, conhecido por sua astúcia e cauda felpuda.
+
+PT: gambá
+EN: possum
+def: Um gambá é um pequeno mamífero marsupial encontrado nas Américas, conhecido por sua pelagem cinza e preta, cauda longa e pelo cheiro desagradável que emite quando ameaçado.
+
+PT: urso polar
+EN: polar bear
+
+=== sub Herbívoros
+
+PT: boi
+EN: ox
+
+PT: abelha
+EN: bee
+
+PT: borboleta
+EN: butterfly
+
+PT: camelo
+EN: camel
+def:Um camelo é um grande animal que vive em regiões áridas e tem uma ou duas bossas nas costas. Eles são conhecidos por sua capacidade de armazenar gordura nessas bossas para sobreviver em desertos.
+
+PT: gorila
+EN: gorilla
+
+=== sub Onívoros
+
+PT: rato
+EN: rat
+
+PT: chimpanzé
+EN: chimpanzee
+
+PT: esquilo
+EN: squirrel
+def:
+
+PT: ser humano
+EN: human being
+
+PT: porco
+EN: pig
+
+== corpo humano
+
+===  membros superiores e inferiores
+
+PT: braços
+EN: arms
+def: região do membro superior que se estende do ombro
+     até à articulação do cotovelo e que se conecta inferiormente ao antebraço através da fossa cubital
+!img: braço.jpg
+
+PT: antebraço
+EN: forearm
+def: é uma região dos membros superiores que se estende
+     do cotovelo ao punho e consiste nas porções antebraquiais anterior e posterior, compostas pelo
+     rádio e ulna
+!img: antebraco.jpg
+
+PT: ombro
+EN: shoulder
+def: articulação mais flexível de todo o corpo humano sendo
+      composto por duas articulações separadas: as articulações glenoumeral e acromioclavicular
+!img: ombro.jpg
+
+PT: mão
+EN: hand
+def: é a parte final de cada extremidade superior 
+
+PT: quadril
+EN: hip
+def: termo utilizado para denominar a articulação
+     formada pela união entre a parte proximal do fêmur
+     e o acetábulo
+
+PT: coxas
+EN: thighs
+def: parte da perna compreendida entre o quadril e o joelho
+
+PT: pernas 
+EN: legs
+def: membro inferior do corpo humano, desde o quadril até
+     o tornozelo o tornozelo, ioncluindo as coxas, os joelhos e as panturrilhas 
+
+PT: pés
+EN: feet
+def: parte do corpo humano que se articula com a 
+     inferior da perna 
+
+
+
+PT: sol
+EN: sun
+ES: sol
+FR: soleil
++G: m
+hpr: star
+def: It is the central star of the solar system.
+
+PT: chuva
+EN: rain
+ES: lluvia
+FR: pluie
++G: f
+hpr: water
+def: water falling from the clouds.
+
+PT: mamíferos
+EN: mammals
+ES: mamíferos
+FR: mammifères
+hpr: animals
+def: class of vertebrate animals characterized by the presence of breasts.
+
+PT: répteis
+EN: reptiles
+ES: reptiles
+FR: reptiles
+hpr: animals
+def: that crawls and  moves by pushing the belly.
+
+PT: anfíbios
+EN: amphibians
+ES: anfibios
+FR: amphibiens
+hpr: animals
+def: that can live in land and in water.
+
+PT: insecto
+EN: insect
+ES: insecto
+FR: insecte
+hpr: animals
+def: small articulated animal, with six legs, that breaths through tracheas and undergoes metammorphoses.
+
+
+== corpo humano
+
+=== Orgãos
+
+==== Sistema digestivo
+
+PT: estômago
+EN: stomach
+def: órgão do aparelho digestivo, em forma de bolsa, onde o bolo alimentar é digerido
+!img: sistema digestivo.png
+
+PT: esófago
++var: esófago
+PT: esôfago
++var: esôfago
+EN: esophagus
+def: canal que liga a faringe ao estômago
+
+PT: faringe
+EN: pharynx
+def: órgão constituído por tecido muscular e membranoso, e que estabelece a ligação do nariz e da boca com a laringe e o esófago
+
+PT: intestino delgado
+EN: small intestine
+def: canal que vai do piloro ao ceco e compreende o duodeno, o jejuno e o íleo
+
+PT: instestino grosso
+EN: large intestine
+def: formado pelo cólon, ceco e reto, responsável pela reabsorção da água e formação do bolo fecal
+
+PT: fígado
+EN: liver
+def: segundo maior órgão do corpo humano, responsável pela secreção da bile e também atua em outros processos, como no armazenamento de glicogênio e desintoxicação
+
+PT: recto
++var: recto
+PT: reto
++var: reto
+EN: rectum
+def: última parte do intestino grosso que termina no ânus
+
+==== Sistema circulatório
+
+PT: coração
+EN: heart
+def: órgão musculoso, centro do sistema de circulação do sangue
+
+==== Sistema nervoso
+
+PT: cérebro
+EN: brain
+def: substância que forma a parte anterior e superior do encéfalo
+!img: cerebro.jpg
+
+==== Sistema urinário
+
+PT: rim
+EN: kidney
+def: órgão duplo que segrega a urina
+
+PT: bexiga
+EN: bladder
+def: espécie de saco em que se acumula a urina até ser expulsa.
+
+==== Sistema respiratório 
+
+PT: fossas nasais
+EN: nasal cavities
+def: conjunto de duas porções do sistema respiratório e responsáveis pela percepção do olfato
+
+PT: laringe
+EN: larynx
+def: parte superior da traqueia
+
+PT: traqueia
+EN: trachea
+def: órgão responsável por conduzir o ar que entra no corpo até os brônquios
+
+PT: brônquios
+EN: bronchus
+def: vias que levam o ar aos pulmões
+
+
+== animais
+
+=== peixes
+
+==== Partes dos peixes
+
+PT: Escamas
+EN: Scales
+def: lâminas finas e com reflexos que revestem a pele de muitos peixes.
+
+PT: Barbatana
++var: Aleta
+PT: Nadadeira
+EN: Fin
+def: membros que ajudam os peixes a nadar.
+
+PT: Guelras
++var: Brânquias
+EN: Gills
+def: órgão que permite aos peixes respirar.
+
+PT: Olhos
+EN: Eyes
+def: órgãos que permitem aos peixes ver. 
+
+==== Espécies de peixe
+
+PT: Cantarilho
+EN: Redfish
+def: peixe vermelho muito pequeno.
+
+PT: Congro 
+EN: Conger eel
+def: peixe castanho muito comprido, semelhante a uma cobra.
+
+PT: Espadarte
+EN: Swordfish
+def: peixe que tem o nariz muito comprido, com forma de espada.
+
+PT: Tamboril
+EN: Monkfish
+def: peixe castanho que parece esmagado e com barbatanas pequenas.
+
+PT: Tubarão
+EN: Shark
+def: peixe perigoso com presas muito grandes
+
+PT: Carapau
+EN: horse mackerel
+def: peixe muito pequeno.
+
+PT: Salmão
+EN: Salmon
+def: peixe cor-de-rosa
+
+PT: Povo
+EN: Octopus
+def: tem oito pernas com ventosas.
+
+PT: Golfinho
+EN: Dolphin
+def: parece um peixe mas é um mamífero. São muito inteligentes. 
+
+PT: Raia
+EN: Ray fish
+def: peixe com a cara por baixo e que parece um cobertor.
+
+
+
+
+== profissões
+
+=== profissionais de saúde
+
+==== médicos
+
+PT: cardiologista
+EN: cardiologist
+def: médico especializado em diagnosticar e tratar doenças do coração
+
+PT: dermatologista
+EN: dermatologist
+def: médico especializado em tratar doenças da pele
+
+PT: pediatra
+EN: pediatrician
+def: médico que cuida da saúde de crianças e adolescentes.
+
+PT: cirugião
+EN: surgeon
+def: médico que realiza cirurgias para tratar diversas condições médicas
+
+
+
+==== terapeutas
+
+PT: terapeuta físico
+EN: physical therapist
+def: ajuda pacientes a recuperar a função física após lesões ou cirurgias
+
+PT: terapeuta ocupacional 
+EN: occupational therapist
+def: ajuda pacientes a desenvolver habilidades para realizar atividades diárias
+
+PT: terapeuta da fala
+EN: speech therapist
+def: trabalha com pacientes para melhorar a comunicação, linguagem e habilidades de deglutição
+
+PT: terapeuta respiratório
+EN: respiratory therapist
+def: trata pacientes com distúrbios respiratórios, ajudando-os a respirar melhor
+
+
+
+==== profissionais de laboratório
+
+PT: biólogo molecular
+EN: molecular biologist
+def: estuda estruturas e funções moleculares para entender processos biológicos
+
+PT: microbiologista
+EN: medical laboratory technician
+def: realiza testes de laboratório clínico para auxiliar no diagnóstico de doenças
+
+PT: citotécnico
+EN: cytotechnologist
+def: realiza exames de citologia para detectar anomalias celulares que possam indicar doenças
+
+PT: tecnólogo em radiologia
+EN: radiologic technologist
+def: opera equipamentos de imagem médica, como raios-X e ressonância magnética, para auxiliar no diagnóstico médico
+
+
+
+== profissões
+
+=== profissionais de justiça
+
+==== polícias
+
+PT: Polícia Patrulha
+EN: Patrol Police
+def: Responsável pela aplicação da lei nas ruas e pela manutenção da segurança pública.
+
+PT: Detetives
+EN: Detectives
+def: Investigam crimes, coletam evidências e trabalham na resolução de casos complexos.
+
+PT: Polícias de Trânsito
+EN: Traffic police
+def: Aplicam as leis de trânsito, monitoram o tráfego e investigam acidentes de trânsito.
+
+PT: Unidades Especiais	
+EN: Special Units
+def: Realizam operações especiais, como SWAT, negociações de reféns e combate ao crime de alto risco.
+
+PT: Polícia Montada
+EN: Mounted Police
+def: Patrulham a cavalo em áreas urbanas e parques para manter a ordem pública.
+
+PT: Tecnologia Forense
+EN: Forensic Technology
+def: Coletam e analisam evidências digitais em casos de crimes cibernéticos.
+
+PT: Polícia Comunitária
+EN: Community Police
+def: Estabelecem relações positivas com a comunidade e resolvem problemas locais de segurança.
+
+PT: Polícia Marítima
+EN: Maritime Police
+def: Patrulham áreas aquáticas, como portos e praias, para garantir a segurança marítima. 
+
+
+== quinta
+
+=== animais de quinta
+
+PT: vaca
+EN: cow
+def: animal mamífero e herbívoro que pertence à família dos bovídeos.
+
+PT: boi
+EN: bull
+def: mamífero ruminante da família dos bovídeos, com raças domesticadas, muito usado na produção de carne, couro ou em tarefas agrícolas
+
+PT: cabra
+EN: goat
+def: animal mamífero do género Capra, da família dos bovídeos, com chifres ocos, arqueados para trás, que compreende várias espécies; fêmea do bode.
+
+PT: bode
+EN: goat
+def: ruminante cavicórneo, macho da cabra
+
+PT: ovelha
+EN: sheep
+def: a fêmea do carneiro, mamífero da família dos bovídeos, utilizado para o fornecimento de lã e de carne
+
+=== horta
+
+==== árvores de fruto
+
+PT: macieira
+EN: apple tree
+def: árvore que dá maçãs
+
+PT: limoeiro
+EN: lemon tree
+def: árvore que dá limões
+
+PT: laranjeira
+EN: orange tree
+def: árvore que dá laranjas
+
+PT: cerejeira
+EN: cherry tree
+def: árvore que dá cerejas
+
+PT: videira
+EN: grapevine
+def: árvore que dá uvas
+
+==== plantações
+
+PT: tomate
+EN: tomato
+def: fruto vermelho muito usado em saladas
+
+PT: alface
+EN: lettuce
+def: planta de cor verde usada para saladas
+
+PT: batata
+EN: potato
+def: acastanhado e geralmente com formato oval ou redondo, é usado como acompanhamento de vários pratos
+
+PT: couve
+EN: cabbage
+def: legume verde muito utilizado em sopas e também como acompanhamento de pratos
+
+PT: milho
+EN: corn
+def: cereal usado para fazer pipocas
+
+== animais
+
+=== répteis
+
+PT: répteis
+EN: reptile
+!img: repteis.jpg
+
+==== cobra
+
+PT: vibora
+
+PT: cobra coral
+
+PT: anaconda
+
+PT: cobra de escada
+
+PT: cobra rateira
+
+PT: cobra
+EN: snake
+!img: cobra.jpg
+
+==== lagarto
+
+PT: geeko
+
+PT: salamandra
+
+PT: iguana
+
+PT: dragão barbudo
+
+PT: lagarto de língua azul
+
+PT: lagarto
+EN: lizard
+!img: lagarto.jpg
+
+=== tartaruga
+
+PT: cágado
+
+PT: tartaruga cabeçuda
+
+PT: tartaruga da florida
+
+PT: tartaruga da lama
+
+PT: tartaruga pintada
+
+PT: tartaruga
+EN: turtle
+!img: tartaruga.jpg
+
+
+
+== transporte
+
+=== transporte rodoviário
+
+==== transportes pesados
+
+PT: camião
++var: PT-PT
+PT: caminhão
++var: PT-BR
+EN: truck
+def: a large, heavy road vehicle used for carrying goods, materials, or troops; a lorry.
+
+PT: reboque
+EN: tow truck
+def: a truck with special equipment for pulling a vehicle that is not working to a place where it can be repaired
+
+PT: semi-reboque
+EN: semi-tow trucking
+def: To tow semi-trucks, we use our heavy-duty towing equipment and technology. Because semi-trucks are so large and heavy, they require specialized equipment and expertise. With heavy-duty hauling equipment, we are able to handle the biggest tow jobs including containers, loaded trailers, and semi-trucks. 
+!img: semi-tow trucking.png
+
+PT: veículo articulado
+EN: articulated vehicle
+def: An articulated vehicle is a vehicle which has a permanent or semi-permanent pivot joint in its construction, allowing it to turn more sharply.
+
+PT: autocarro
++var: PT-PT
+PT: ônibus
++var: PT-BR
+EN: bus
+def: a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.
+
+PT: trator
+EN: tractor
+def: a powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.
+
+PT: autocarava
++var: PT-PT
+PT: motorhome
++var: PT-BR
+EN: motorhome
+def: a motor vehicle equipped like a caravan for living in.
+
+==== transportes leves
+
+PT: motociclo
++var: PT-PT
+PT: motocicleta
++var: PT-BR
+EN: motorcycle
+def: a two-wheeled vehicle that is powered by a motor and has no pedals.
+
+PT: triciclo
+EN: tricycle
+def: a vehicle similar to a bicycle, but having three wheels, two at the back and one at the front.
+
+PT: quadriciclo
+EN: motorhome
+def: a motor vehicle equipped like a caravan for living in.
+
+PT: carro
+EN: car
+def: a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people.
+
+PT: ciclomotor
+EN: moped
+def: a light motor cycle, especially one with an engine capacity of not more than 50 cc.
+
+PT: bicicleta
+EN: bicycle
+def: a vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.
+
+PT: trotinete
++var: PT-PT
+PT: patinete
++var: PT-BR
+EN: scooter
+def: a light two-wheeled open motor vehicle on which the driver sits over an enclosed engine with their legs together and their feet resting on a floorboard.
+
+
+
+
+
+
+

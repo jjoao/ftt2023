@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xdxf lang_from="POR" lang_to="DE" format="logical" revision="033">
+    <meta_info>
+        <title>Dicionário</title>
+        <full_title>Dicionário</full_title>
+        <file_ver>001</file_ver>
+        <creation_date>2023-10-11</creation_date>
+
+    </meta_info>
+<lexicon>
+
+<ar><k>abacateiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>avocado tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>abas</k><def>
+	<b>EN</b>: <dtrn>flaps</dtrn><br/>
+	<b>def</b>:
+		<def>é um dispositivo de alta sustentação que consiste em um painel articulado ou painéis montados no bordo de fuga da asa.</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>abelha</k><def>
+	<b>EN</b>: <dtrn>bee</dtrn><br/>
+
+  <img src='MEDIA/abelha.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def>
+⋄	<b>EN</b>: <dtrn>bee</dtrn><br/>
+	<b>def</b>:
+		<def>A abelha simboliza a imortalidade, a ordem, a diligência, a lealdade, a cooperação, a nobreza, a alma, o amor e a dor. Algumas características marcantes desses insetos os quais buscam o pólen das flores para produzir seu alimento, são: a organização, o labor e a disciplina.</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>bee</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Herbívoros</kref></def></def></ar>
+<ar><k>abóbora</k><def>
+	<b>EN</b>: <dtrn>pumpkin</dtrn><br/>
+	<b>def</b>:
+		<def>de cor alaranjada ou avermelhada, muito usado na culinária por sua polpa comestível</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>água</k><def>
+	<b>EN</b>: <dtrn>water</dtrn><br/>
+	<b>def</b>:
+		<def>líquido incolor, insípido e inodor, essencial para os seres vivos</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>água com gás</k><def>
+	<b>EN</b>: <dtrn>sparkling water</dtrn><br/>
+	<b>def</b>:
+		<def>água que contém dióxido de carbono dissolvido</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>alface</k><def>
+	<b>EN</b>: <dtrn>lettuce</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal de cor verde ou roxa frequentemente utlizado nas saladas</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def>
+⋄	<b>EN</b>: <dtrn>lettuce</dtrn><br/>
+	<b>def</b>:
+		<def>planta de cor verde usada para saladas</def>	
+	<b>dom</b>:
+		<def><kref>plantações</kref></def></def></ar>
+<ar><k>alho-francês</k><def>
+	<b>EN</b>: <dtrn>leek</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal que pertence à mesma família que as cebolas e os alhos</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>alimentos</k><def>
+	<b>subdom</b>:
+		<def><kref>bebidas</kref></def>
+		<def><kref>Frutas</kref></def>
+		<def><kref>Vegetais</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>ameixoeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>plum tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>árvore de ameixas</def>	
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>amendoeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>almond tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>anaconda</k><def>
+	<b>dom</b>:
+		<def><kref>cobra</kref></def></def></ar>
+<ar><k>ánanas</k><def>
+	<b>EN</b>: <dtrn>pineapple</dtrn><br/>
+	<b>def</b>:
+		<def>é um simbolo das regiões tropicais e sobtropicais</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>anfíbios</k><def>
+	<b>EN</b>: <dtrn>amphibians</dtrn><br/>
+	<b>ES</b>: <dtrn>anfibios</dtrn><br/>
+	<b>FR</b>: <dtrn>amphibiens</dtrn><br/>
+	<b>def</b>:
+		<def>that can live in land and in water.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>animals</kref></def></def></ar>
+<ar><k>animais</k><def>
+	<b>subdom</b>:
+		<def><kref>insectos</kref></def>
+		<def><kref>Peixes</kref></def>
+		<def><kref>répteis</kref></def>
+		<def><kref>tartaruga</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>animais de quinta</k><def>
+	<b>supdom</b>:
+		<def><kref>quinta</kref></def>	
+	<b>voc</b>:
+		<def><kref>bode</kref></def>
+		<def><kref>boi</kref></def>
+		<def><kref>cabra</kref></def>
+		<def><kref>ovelha</kref></def>
+		<def><kref>vaca</kref></def></def></ar>
+<ar><k>animals</k><def>
+	<b>hpn</b>:
+		<def><kref>anfíbios</kref></def>
+		<def><kref>insecto</kref></def>
+		<def><kref>mamíferos</kref></def>
+		<def><kref>répteis</kref></def></def></ar>
+<ar><k>antebraço</k><def>
+	<b>EN</b>: <dtrn>forearm</dtrn><br/>
+
+  	<b>def</b>:
+		<def>é uma região dos membros superiores que se estende
+     do cotovelo ao punho e consiste nas porções antebraquiais anterior e posterior, compostas pelo
+     rádio e ulna</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>árvore de kiwi</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>kiwi tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>árvores</k><def>
+	<b>supdom</b>:
+		<def><kref>plantas</kref></def>	
+	<b>voc</b>:
+		<def><kref>abacateiro</kref></def>
+		<def><kref>ameixoeira</kref></def>
+		<def><kref>amendoeira</kref></def>
+		<def><kref>árvore de kiwi</kref></def>
+		<def><kref>bananeira</kref></def>
+		<def><kref>carvalho</kref></def>
+		<def><kref>castanheiro</kref></def>
+		<def><kref>cerejeira</kref></def>
+		<def><kref>cipreste</kref></def>
+		<def><kref>coqueiro</kref></def>
+		<def><kref>eucalipto</kref></def>
+		<def><kref>figueira</kref></def>
+		<def><kref>laranjeira</kref></def>
+		<def><kref>limoeiro</kref></def>
+		<def><kref>macieira</kref></def>
+		<def><kref>nogueira</kref></def>
+		<def><kref>palemira</kref></def>
+		<def><kref>pereira</kref></def>
+		<def><kref>pessegueiro</kref></def>
+		<def><kref>pinheiro</kref></def>
+		<def><kref>plátano</kref></def>
+		<def><kref>romãzeira</kref></def>
+		<def><kref>sedro</kref></def>
+		<def><kref>sobreiro</kref></def>
+		<def><kref>videira</kref></def></def></ar>
+<ar><k>árvores de fruto</k><def>
+	<b>supdom</b>:
+		<def><kref>horta</kref></def>	
+	<b>voc</b>:
+		<def><kref>cerejeira</kref></def>
+		<def><kref>laranjeira</kref></def>
+		<def><kref>limoeiro</kref></def>
+		<def><kref>macieira</kref></def>
+		<def><kref>videira</kref></def></def></ar>
+<ar><k>asa</k><def>
+	<b>EN</b>: <dtrn>wing</dtrn><br/>
+
+  	<b>def</b>:
+		<def>dispositivo mecânico destinado à sustentação aerodinâmica</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>ataque</k><def>
+	<b>hpn</b>:
+		<def><kref>rapina</kref></def></def></ar>
+<ar><k>autocarava</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>motorhome</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>motorhome</dtrn><br/>
+	<b>def</b>:
+		<def>a motor vehicle equipped like a caravan for living in.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>autocarro</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>ônibus</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>bus</dtrn><br/>
+	<b>def</b>:
+		<def>a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>ave de rapina</k><def>
+	<b>hpn</b>:
+		<def><kref>falcão</kref></def></def></ar>
+<ar><k>ave doméstica</k><def>
+	<b>hpn</b>:
+		<def><kref>pombo</kref></def></def></ar>
+<ar><k>aves</k><def>
+	<b>subdom</b>:
+		<def><kref>aves não-voadoras</kref></def>
+		<def><kref>aves voadoras</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>pena</kref></def></def></ar>
+<ar><k>aves de rapina</k><def>
+	<b>supdom</b>:
+		<def><kref>aves voadoras</kref></def>	
+	<b>voc</b>:
+		<def><kref>falcão</kref></def>
+		<def><kref>rapina</kref></def></def></ar>
+<ar><k>aves não-voadoras</k><def>
+	<b>hpn</b>:
+		<def><kref>pinguim</kref></def>	
+	<b>supdom</b>:
+		<def><kref>aves</kref></def>	
+	<b>voc</b>:
+		<def><kref>pinguim</kref></def></def></ar>
+<ar><k>aves voadoras</k><def>
+	<b>subdom</b>:
+		<def><kref>aves de rapina</kref></def>	
+	<b>supdom</b>:
+		<def><kref>aves</kref></def>	
+	<b>voc</b>:
+		<def><kref>pombo</kref></def></def></ar>
+<ar><k>avião</k><def>
+	<b>subdom</b>:
+		<def><kref>partes do avião</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>bananeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>banana tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>árvore de bananas</def>	
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>Barbatana</k><def>
+	<def>-- var: Aleta</def>
+	<b>PT</b>: <dtrn>Nadadeira</dtrn><br/>
+	<b>EN</b>: <dtrn>Fin</dtrn><br/>
+	<b>def</b>:
+		<def>membros que ajudam os peixes a nadar.</def>	
+	<b>dom</b>:
+		<def><kref>Partes dos peixes</kref></def></def></ar>
+<ar><k>batata</k><def>
+	<b>EN</b>: <dtrn>potato</dtrn><br/>
+	<b>def</b>:
+		<def>tubérculo que tem a sua origem na América do Sul mas que, hoje em dia, se cultiva em diversas regiões do planeta</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def>
+⋄	<b>EN</b>: <dtrn>potato</dtrn><br/>
+	<b>def</b>:
+		<def>acastanhado e geralmente com formato oval ou redondo, é usado como acompanhamento de vários pratos</def>	
+	<b>dom</b>:
+		<def><kref>plantações</kref></def></def></ar>
+<ar><k>bebidas</k><def>
+	<b>supdom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>voc</b>:
+		<def><kref>água</kref></def>
+		<def><kref>água com gás</kref></def>
+		<def><kref>café</kref></def>
+		<def><kref>cerveja</kref></def>
+		<def><kref>coca-cola</kref></def>
+		<def><kref>laranjada</kref></def>
+		<def><kref>limonada</kref></def>
+		<def><kref>refrigerante</kref></def>
+		<def><kref>rum</kref></def>
+		<def><kref>tequila</kref></def>
+		<def><kref>vinho</kref></def></def></ar>
+<ar><k>bexiga</k><def>
+	<b>EN</b>: <dtrn>bladder</dtrn><br/>
+	<b>def</b>:
+		<def>espécie de saco em que se acumula a urina até ser expulsa.</def>	
+	<b>dom</b>:
+		<def><kref>Sistema urinário</kref></def></def></ar>
+<ar><k>bicicleta</k><def>
+	<b>EN</b>: <dtrn>bicycle</dtrn><br/>
+	<b>def</b>:
+		<def>a vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>biólogo molecular</k><def>
+	<b>EN</b>: <dtrn>molecular biologist</dtrn><br/>
+	<b>def</b>:
+		<def>estuda estruturas e funções moleculares para entender processos biológicos</def>	
+	<b>dom</b>:
+		<def><kref>profissionais de laboratório</kref></def></def></ar>
+<ar><k>boca</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>mouth</dtrn><br/>
+	<b>def</b>:
+		<def>abertura e cavidade que se situa na parte interior da face, por onde se ingerem os alimentos e se emitem sons da fala</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>bochecha</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>cheek</dtrn><br/>
+	<b>def</b>:
+		<def>parte saliente e carnuda de cada uma das faces</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>bode</k><def>
+	<b>EN</b>: <dtrn>goat</dtrn><br/>
+	<b>def</b>:
+		<def>ruminante cavicórneo, macho da cabra</def>	
+	<b>dom</b>:
+		<def><kref>animais de quinta</kref></def></def></ar>
+<ar><k>boi</k><def>
+	<b>EN</b>: <dtrn>ox</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Herbívoros</kref></def>
+⋄	<b>EN</b>: <dtrn>bull</dtrn><br/>
+	<b>def</b>:
+		<def>mamífero ruminante da família dos bovídeos, com raças domesticadas, muito usado na produção de carne, couro ou em tarefas agrícolas</def>	
+	<b>dom</b>:
+		<def><kref>animais de quinta</kref></def></def></ar>
+<ar><k>borboleta</k><def>
+	<b>EN</b>: <dtrn>butterfly</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>insectos</kref></def>
+⋄	<b>EN</b>: <dtrn>butterfly</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>butterfly</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Herbívoros</kref></def></def></ar>
+<ar><k>braços</k><def>
+	<b>EN</b>: <dtrn>arms</dtrn><br/>
+
+  	<b>def</b>:
+		<def>região do membro superior que se estende do ombro
+     até à articulação do cotovelo e que se conecta inferiormente ao antebraço através da fossa cubital</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>brônquios</k><def>
+	<b>EN</b>: <dtrn>bronchus</dtrn><br/>
+	<b>def</b>:
+		<def>vias que levam o ar aos pulmões</def>	
+	<b>dom</b>:
+		<def><kref>Sistema respiratório</kref></def></def></ar>
+<ar><k>cabeça</k><def>
+	<b>supdom</b>:
+		<def><kref>corpo humano</kref></def>	
+	<b>voc</b>:
+		<def><kref>boca</kref></def>
+		<def><kref>bochecha</kref></def>
+		<def><kref>cabelo</kref></def>
+		<def><kref>cérebro</kref></def>
+		<def><kref>dentes</kref></def>
+		<def><kref>língua</kref></def>
+		<def><kref>nariz</kref></def>
+		<def><kref>nuca</kref></def>
+		<def><kref>olhos</kref></def>
+		<def><kref>orelha</kref></def>
+		<def><kref>pálpebra</kref></def>
+		<def><kref>pestanas</kref></def>
+		<def><kref>queixo</kref></def>
+		<def><kref>sobrancelhas</kref></def>
+		<def><kref>testa</kref></def></def></ar>
+<ar><k>cabelo</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>hair</dtrn><br/>
+	<b>def</b>:
+		<def>conjunto de pelos que revestem normalmente a parte superior e posterior da cabeça</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>cabine</k><def>
+	<b>EN</b>: <dtrn>cabin</dtrn><br/>
+	<b>def</b>:
+		<def>secção de uma aeronave na qual os passageiros viajam</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>cabine de comando</k><def>
+	<b>EN</b>: <dtrn>cockpit</dtrn><br/>
+	<b>def</b>:
+		<def>é uma área usualmente situada na parte dianteira de uma aeronave, de onde os pilotos a controlam</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>cabra</k><def>
+	<b>EN</b>: <dtrn>goat</dtrn><br/>
+	<b>def</b>:
+		<def>animal mamífero do género Capra, da família dos bovídeos, com chifres ocos, arqueados para trás, que compreende várias espécies; fêmea do bode.</def>	
+	<b>dom</b>:
+		<def><kref>animais de quinta</kref></def></def></ar>
+<ar><k>café</k><def>
+	<b>EN</b>: <dtrn>coffee</dtrn><br/>
+	<b>def</b>:
+		<def>bebida produzida a partir dos grãos torrados do fruto do cafeeiro</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>cágado</k><def>
+	<b>dom</b>:
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>camélia</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>camellia</dtrn><br/>
+
+  <img src='MEDIA/camelia.jpg' alt='grande'/>	<b>def</b>:
+		<def>Arbusto ornamental (Camellia japonica), da família das teáceas, de folhas ovais e lustrosas e flores geralmente de cor vermelha, rosa ou branca.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>camellia</dtrn><br/>
+
+  	<b>def</b>:
+		<def>Arbusto ornamental (Camellia japonica), da família das teáceas, de folhas ovais e lustrosas e flores geralmente de cor vermelha, rosa ou branca.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>camelo</k><def>
+	<b>EN</b>: <dtrn>camel</dtrn><br/>
+	<b>def</b>:
+		<def>mamífero quadrúpede, da família dos Camelídeos, de origem asiática, de grande porte, ruminante, com pelagem castanha, pescoço comprido e duas corcovas dorsais, muito utilizado como meio de transporte e animal de carga nas regiões áridas</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>camel</dtrn><br/>
+	<b>def</b>:
+		<def>Um camelo é um grande animal que vive em regiões áridas e tem uma ou duas bossas nas costas. Eles são conhecidos por sua capacidade de armazenar gordura nessas bossas para sobreviver em desertos.</def>	
+	<b>dom</b>:
+		<def><kref>sub Herbívoros</kref></def></def></ar>
+<ar><k>camião</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>caminhão</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>truck</dtrn><br/>
+	<b>def</b>:
+		<def>a large, heavy road vehicle used for carrying goods, materials, or troops; a lorry.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>caminhão</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>camião</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>truck</dtrn><br/>
+	<b>def</b>:
+		<def>a large, heavy road vehicle used for carrying goods, materials, or troops; a lorry.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>Cantarilho</k><def>
+	<b>EN</b>: <dtrn>Redfish</dtrn><br/>
+	<b>def</b>:
+		<def>peixe vermelho muito pequeno.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>Carapau</k><def>
+	<b>EN</b>: <dtrn>horse mackerel</dtrn><br/>
+	<b>def</b>:
+		<def>peixe muito pequeno.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>cardiologista</k><def>
+	<b>EN</b>: <dtrn>cardiologist</dtrn><br/>
+	<b>def</b>:
+		<def>médico especializado em diagnosticar e tratar doenças do coração</def>	
+	<b>dom</b>:
+		<def><kref>médicos</kref></def></def></ar>
+<ar><k>carro</k><def>
+	<b>EN</b>: <dtrn>car</dtrn><br/>
+	<b>def</b>:
+		<def>a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>carvalho</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>oak tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>castanheiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>chestnut tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>cauda</k><def>
+	<b>EN</b>: <dtrn>tail</dtrn><br/>
+	<b>def</b>:
+		<def>parte traseira de um avião</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>cebola</k><def>
+	<b>EN</b>: <dtrn>onion</dtrn><br/>
+	<b>def</b>:
+		<def>é um bulbo de folhas concêntricas que apresenta boa proteção contra a desidratação</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>cenoura</k><def>
+	<b>EN</b>: <dtrn>carrot</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal alaranjado, cozidas em sopas e refogados</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def>
+⋄	<b>EN</b>: <dtrn>carrot</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal alaranjado, cozidas em sopas e refogados</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>cérebro</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>brain</dtrn><br/>
+	<b>def</b>:
+		<def>órgão principal e centro do sistema nervoso</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def>
+⋄	<b>EN</b>: <dtrn>brain</dtrn><br/>
+
+  <img src='MEDIA/cerebro.jpg' alt='grande'/>	<b>def</b>:
+		<def>substância que forma a parte anterior e superior do encéfalo</def>	
+	<b>dom</b>:
+		<def><kref>Sistema nervoso</kref></def></def></ar>
+<ar><k>cerejeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>cherry tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def>
+⋄	<b>EN</b>: <dtrn>cherry tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore que dá cerejas</def>	
+	<b>dom</b>:
+		<def><kref>árvores de fruto</kref></def></def></ar>
+<ar><k>cerveja</k><def>
+	<b>EN</b>: <dtrn>beer</dtrn><br/>
+	<b>def</b>:
+		<def>bebida alcoólica obtida por meio da fermentação do malte de cevada, ou de outros cereais</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>chimpanzé</k><def>
+	<b>EN</b>: <dtrn>chimpanzee</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Onívoros</kref></def></def></ar>
+<ar><k>chuva</k><def>
+	<b>EN</b>: <dtrn>rain</dtrn><br/>
+	<b>ES</b>: <dtrn>lluvia</dtrn><br/>
+	<b>FR</b>: <dtrn>pluie</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>water falling from the clouds.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>water</kref></def></def></ar>
+<ar><k>ciclomotor</k><def>
+	<b>EN</b>: <dtrn>moped</dtrn><br/>
+	<b>def</b>:
+		<def>a light motor cycle, especially one with an engine capacity of not more than 50 cc.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>cigarra</k><def>
+	<b>EN</b>: <dtrn>cicada</dtrn><br/>
+
+  <img src='MEDIA/cigarra.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>cipreste</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>cypress tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>cirugião</k><def>
+	<b>EN</b>: <dtrn>surgeon</dtrn><br/>
+	<b>def</b>:
+		<def>médico que realiza cirurgias para tratar diversas condições médicas</def>	
+	<b>dom</b>:
+		<def><kref>médicos</kref></def></def></ar>
+<ar><k>citotécnico</k><def>
+	<b>EN</b>: <dtrn>cytotechnologist</dtrn><br/>
+	<b>def</b>:
+		<def>realiza exames de citologia para detectar anomalias celulares que possam indicar doenças</def>	
+	<b>dom</b>:
+		<def><kref>profissionais de laboratório</kref></def></def></ar>
+<ar><k>Clima</k><def>
+	<b>supdom</b>:
+		<def><kref>Geografia Física</kref></def>	
+	<b>voc</b>:
+		<def><kref>clima</kref></def>
+		<def><kref>clima polar</kref></def>
+		<def><kref>clima tropical</kref></def>
+		<def><kref>pressão atmosférica</kref></def>
+		<def><kref>tempo</kref></def></def></ar>
+<ar><k>clima</k><def>
+	<b>EN</b>: <dtrn>climate</dtrn><br/>
+	<b>def</b>:
+		<def>estudo médio do tempo para o determinado período ou mês em uma certa localidade</def>	
+	<b>dom</b>:
+		<def><kref>Clima</kref></def></def></ar>
+<ar><k>clima polar</k><def>
+	<b>EN</b>: <dtrn>polar climate</dtrn><br/>
+	<b>def</b>:
+		<def>ocorre em áreas de grande altitude, é caracterizado por registos de temperaturas muito baixas e recorrente presença de neve</def>	
+	<b>dom</b>:
+		<def><kref>Clima</kref></def></def></ar>
+<ar><k>clima tropical</k><def>
+	<b>EN</b>: <dtrn>tropical climate</dtrn><br/>
+	<b>def</b>:
+		<def>ocorre nas faixas intermediárias do planeta e é marcado por ocorrência de estações bem definidas, uma quente e húmida e outra mais fria e seca</def>	
+	<b>dom</b>:
+		<def><kref>Clima</kref></def></def></ar>
+<ar><k>cobra</k><def>
+	<b>EN</b>: <dtrn>snake</dtrn><br/>
+
+  <img src='MEDIA/cobra.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>cobra</kref></def>	
+	<b>supdom</b>:
+		<def><kref>répteis</kref></def>	
+	<b>voc</b>:
+		<def><kref>anaconda</kref></def>
+		<def><kref>cobra</kref></def>
+		<def><kref>cobra coral</kref></def>
+		<def><kref>cobra de escada</kref></def>
+		<def><kref>cobra rateira</kref></def>
+		<def><kref>vibora</kref></def></def></ar>
+<ar><k>cobra coral</k><def>
+	<b>dom</b>:
+		<def><kref>cobra</kref></def></def></ar>
+<ar><k>cobra de escada</k><def>
+	<b>dom</b>:
+		<def><kref>cobra</kref></def></def></ar>
+<ar><k>cobra rateira</k><def>
+	<b>dom</b>:
+		<def><kref>cobra</kref></def></def></ar>
+<ar><k>coca-cola</k><def>
+	<b>PT</b>: <dtrn>cola</dtrn><br/>
+	<b>EN</b>: <dtrn>coke</dtrn><br/>
+	<b>def</b>:
+		<def>bebida gasosa adocicada</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>cola</k><def>
+	<b>PT</b>: <dtrn>coca-cola</dtrn><br/>
+	<b>EN</b>: <dtrn>coke</dtrn><br/>
+	<b>def</b>:
+		<def>bebida gasosa adocicada</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>Congro</k><def>
+	<b>EN</b>: <dtrn>Conger eel</dtrn><br/>
+	<b>def</b>:
+		<def>peixe castanho muito comprido, semelhante a uma cobra.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>coqueiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>coconut tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>coração</k><def>
+	<b>EN</b>: <dtrn>heart</dtrn><br/>
+	<b>def</b>:
+		<def>órgão musculoso, centro do sistema de circulação do sangue</def>	
+	<b>dom</b>:
+		<def><kref>Sistema circulatório</kref></def></def></ar>
+<ar><k>corgete</k><def>
+	<b>EN</b>: <dtrn>courgette</dtrn><br/>
+	<b>def</b>:
+		<def>variedade de abóbora, usada na alimentação humana, de forma alongada, casca verde e polpa branca ou amarelada</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>corpo humano</k><def>
+	<b>subdom</b>:
+		<def><kref>cabeça</kref></def>
+		<def><kref>membros superiores e inferiores</kref></def>
+		<def><kref>Orgãos</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>couve</k><def>
+	<b>EN</b>: <dtrn>cabbage</dtrn><br/>
+	<b>def</b>:
+		<def>legume verde muito utilizado em sopas e também como acompanhamento de pratos</def>	
+	<b>dom</b>:
+		<def><kref>plantações</kref></def></def></ar>
+<ar><k>coxas</k><def>
+	<b>EN</b>: <dtrn>thighs</dtrn><br/>
+	<b>def</b>:
+		<def>parte da perna compreendida entre o quadril e o joelho</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>crescimento migratório</k><def>
+	<b>EN</b>: <dtrn>migration growth</dtrn><br/>
+	<b>def</b>:
+		<def>taxa de crescimento de um local medido a partir da diminuição da taxa de imigração pela taxa de emigração</def>	
+	<b>dom</b>:
+		<def><kref>Geografia da população</kref></def></def></ar>
+<ar><k>dentes</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>teeth</dtrn><br/>
+	<b>def</b>:
+		<def>estrutura de origem óssea cuja função é cortar, rasgar e moer os alimentos, sendo também importantes na articulação de sons e de palavras</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>depressão</k><def>
+	<b>EN</b>: <dtrn>depression</dtrn><br/>
+	<b>def</b>:
+		<def>porção de relevo que possiu altitude mais baixa do que as áreas em seu entrono</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>dermatologista</k><def>
+	<b>EN</b>: <dtrn>dermatologist</dtrn><br/>
+	<b>def</b>:
+		<def>médico especializado em tratar doenças da pele</def>	
+	<b>dom</b>:
+		<def><kref>médicos</kref></def></def></ar>
+<ar><k>Detetives</k><def>
+	<b>EN</b>: <dtrn>Detectives</dtrn><br/>
+	<b>def</b>:
+		<def>Investigam crimes, coletam evidências e trabalham na resolução de casos complexos.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>dragão barbudo</k><def>
+	<b>dom</b>:
+		<def><kref>lagarto</kref></def></def></ar>
+<ar><k>elevador</k><def>
+	<b>EN</b>: <dtrn>elevator</dtrn><br/>
+	<b>def</b>:
+		<def>superfície de controlo móvel horizontal</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>Escamas</k><def>
+	<b>EN</b>: <dtrn>Scales</dtrn><br/>
+	<b>def</b>:
+		<def>lâminas finas e com reflexos que revestem a pele de muitos peixes.</def>	
+	<b>dom</b>:
+		<def><kref>Partes dos peixes</kref></def></def></ar>
+<ar><k>escaravelho</k><def>
+	<b>EN</b>: <dtrn>beetle</dtrn><br/>
+
+  <img src='MEDIA/escaravelho.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>esôfago</k><def>
+	<def>-- var: esôfago</def>
+	<b>PT</b>: <dtrn>esófago</dtrn><br/>
+	<def>-- var: esófago</def>
+	<b>EN</b>: <dtrn>esophagus</dtrn><br/>
+	<b>def</b>:
+		<def>canal que liga a faringe ao estômago</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>esófago</k><def>
+	<def>-- var: esófago</def>
+	<b>PT</b>: <dtrn>esôfago</dtrn><br/>
+	<def>-- var: esôfago</def>
+	<b>EN</b>: <dtrn>esophagus</dtrn><br/>
+	<b>def</b>:
+		<def>canal que liga a faringe ao estômago</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>Espadarte</k><def>
+	<b>EN</b>: <dtrn>Swordfish</dtrn><br/>
+	<b>def</b>:
+		<def>peixe que tem o nariz muito comprido, com forma de espada.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>Espécies de peixe</k><def>
+	<b>supdom</b>:
+		<def><kref>Peixes</kref></def>	
+	<b>voc</b>:
+		<def><kref>Cantarilho</kref></def>
+		<def><kref>Carapau</kref></def>
+		<def><kref>Congro</kref></def>
+		<def><kref>Espadarte</kref></def>
+		<def><kref>Golfinho</kref></def>
+		<def><kref>Povo</kref></def>
+		<def><kref>Raia</kref></def>
+		<def><kref>Salmão</kref></def>
+		<def><kref>Tamboril</kref></def>
+		<def><kref>Tubarão</kref></def></def></ar>
+<ar><k>esquilo</k><def>
+	<b>EN</b>: <dtrn>squirrel</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>squirrel</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Onívoros</kref></def></def></ar>
+<ar><k>estabilizador horizontal</k><def>
+	<b>EN</b>: <dtrn>elevator</dtrn><br/>
+
+  	<b>def</b>:
+		<def>estrutura móvel fixada no estabilizador Horizontal que controla o movimento do avião para cima ou para baixo, ou a sua subida ou descida</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>estabilizador vertical</k><def>
+	<b>EN</b>: <dtrn>rudder</dtrn><br/>
+
+  	<b>def</b>:
+		<def>estrutura aerodinâmica móvel incluída na empenagem do avião, cujo objectivo é controlar a estabilidade longitudinal (arfagem) e direcional(guinada)</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>estômago</k><def>
+	<b>EN</b>: <dtrn>stomach</dtrn><br/>
+
+  <img src='MEDIA/sistema digestivo.png' alt='grande'/>	<b>def</b>:
+		<def>órgão do aparelho digestivo, em forma de bolsa, onde o bolo alimentar é digerido</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>eucalipto</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>eucalyptus</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>falcão</k><def>
+	<b>EN</b>: <dtrn>falcon</dtrn><br/>
+	<b>def</b>:
+		<def>ave de cabeça pequena, bico forte e curvo e garras robustas.</def>	
+	<b>dom</b>:
+		<def><kref>aves de rapina</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave de rapina</kref></def></def></ar>
+<ar><k>faringe</k><def>
+	<b>EN</b>: <dtrn>pharynx</dtrn><br/>
+	<b>def</b>:
+		<def>órgão constituído por tecido muscular e membranoso, e que estabelece a ligação do nariz e da boca com a laringe e o esófago</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>fígado</k><def>
+	<b>EN</b>: <dtrn>liver</dtrn><br/>
+	<b>def</b>:
+		<def>segundo maior órgão do corpo humano, responsável pela secreção da bile e também atua em outros processos, como no armazenamento de glicogênio e desintoxicação</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>figueira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>fig tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>árvore de figos</def>	
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>flapes</k><def>
+	<b>EN</b>: <dtrn>flaps</dtrn><br/>
+	<b>def</b>:
+		<def>auxiliar na sustentação para o avião levantar voo</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>flores</k><def>
+	<b>supdom</b>:
+		<def><kref>plantas</kref></def>	
+	<b>voc</b>:
+		<def><kref>camélia</kref></def>
+		<def><kref>girassol</kref></def>
+		<def><kref>margarida</kref></def>
+		<def><kref>orquídea</kref></def>
+		<def><kref>rosa</kref></def>
+		<def><kref>tulipa</kref></def></def></ar>
+<ar><k>fossas nasais</k><def>
+	<b>EN</b>: <dtrn>nasal cavities</dtrn><br/>
+	<b>def</b>:
+		<def>conjunto de duas porções do sistema respiratório e responsáveis pela percepção do olfato</def>	
+	<b>dom</b>:
+		<def><kref>Sistema respiratório</kref></def></def></ar>
+<ar><k>Frutas</k><def>
+	<b>supdom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>voc</b>:
+		<def><kref>ánanas</kref></def>
+		<def><kref>laranja</kref></def>
+		<def><kref>lichia</kref></def>
+		<def><kref>maçã</kref></def>
+		<def><kref>maracujá</kref></def>
+		<def><kref>melancia</kref></def>
+		<def><kref>morango</kref></def>
+		<def><kref>pera</kref></def>
+		<def><kref>physalis</kref></def>
+		<def><kref>romã</kref></def></def></ar>
+<ar><k>fuselagem</k><def>
+	<b>EN</b>: <dtrn>fuselage</dtrn><br/>
+	<b>def</b>:
+		<def>estrutura fuselada para abrigar a tripulação</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>gafanhoto</k><def>
+	<b>EN</b>: <dtrn>grasshopper</dtrn><br/>
+
+  <img src='MEDIA/gafanhoto.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>gambá</k><def>
+	<b>EN</b>: <dtrn>possum</dtrn><br/>
+	<b>def</b>:
+		<def>Gambá é um mamífero marsupial, assim como coala e canguru. O termo gambá é usado para se referir a diferentes espécies da família Didelphidae. Esses animais se destacam por ter um corpo maciço, focinho alongado, membros curtos, orelhas desenvolvidas e uma cauda preênsil, semelhante ao corpo de um roedor.</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>possum</dtrn><br/>
+	<b>def</b>:
+		<def>Um gambá é um pequeno mamífero marsupial encontrado nas Américas, conhecido por sua pelagem cinza e preta, cauda longa e pelo cheiro desagradável que emite quando ameaçado.</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros</kref></def></def></ar>
+<ar><k>geeko</k><def>
+	<b>dom</b>:
+		<def><kref>lagarto</kref></def></def></ar>
+<ar><k>Geografia</k><def>
+	<b>subdom</b>:
+		<def><kref>Geografia Física</kref></def>
+		<def><kref>Geografia Humana</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>Geografia da população</k><def>
+	<b>supdom</b>:
+		<def><kref>Geografia Humana</kref></def>	
+	<b>voc</b>:
+		<def><kref>crescimento migratório</kref></def>
+		<def><kref>população absoluta</kref></def>
+		<def><kref>taxa de emmigração</kref></def>
+		<def><kref>taxa de immigração</kref></def></def></ar>
+<ar><k>Geografia Física</k><def>
+	<b>subdom</b>:
+		<def><kref>Clima</kref></def>
+		<def><kref>relevo</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Geografia</kref></def></def></ar>
+<ar><k>Geografia Humana</k><def>
+	<b>subdom</b>:
+		<def><kref>Geografia da população</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Geografia</kref></def></def></ar>
+<ar><k>girassol</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>sunflower</dtrn><br/>
+	<b>def</b>:
+		<def>Planta da família das compostas cujas flores, grandes e amarelas, se voltam para o sol.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>sunflower</dtrn><br/>
+	<b>def</b>:
+		<def>Planta da família das compostas cujas flores, grandes e amarelas, se voltam para o sol.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>Golfinho</k><def>
+	<b>EN</b>: <dtrn>Dolphin</dtrn><br/>
+	<b>def</b>:
+		<def>parece um peixe mas é um mamífero. São muito inteligentes.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>gorila</k><def>
+	<b>EN</b>: <dtrn>gorilla</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Herbívoros</kref></def></def></ar>
+<ar><k>gorilla</k><def>
+	<b>EN</b>: <dtrn>gorilla</dtrn><br/>
+	<b>def</b>:
+		<def>Gorilla, diurnos e esp. vegetarianos, com uma única sp. (Gorilla gorilla) encontrada nas florestas tropicais da África equatorial, onde vive esp. no chão, em grupos de até 30 indivíduos; com até 1,75 m de altura, pelagem curta e predominantemente negra, focinho curto, orelhas muito pequenas e membros anteriores maiores que os posteriores; gorilha [Espécie ameaçada de extinção.]</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def></def></ar>
+<ar><k>Guelras</k><def>
+	<def>-- var: Brânquias</def>
+	<b>EN</b>: <dtrn>Gills</dtrn><br/>
+	<b>def</b>:
+		<def>órgão que permite aos peixes respirar.</def>	
+	<b>dom</b>:
+		<def><kref>Partes dos peixes</kref></def></def></ar>
+<ar><k>horta</k><def>
+	<b>subdom</b>:
+		<def><kref>árvores de fruto</kref></def>
+		<def><kref>plantações</kref></def>	
+	<b>supdom</b>:
+		<def><kref>quinta</kref></def></def></ar>
+<ar><k>iguana</k><def>
+	<b>dom</b>:
+		<def><kref>lagarto</kref></def></def></ar>
+<ar><k>insecto</k><def>
+	<b>EN</b>: <dtrn>insect</dtrn><br/>
+	<b>ES</b>: <dtrn>insecto</dtrn><br/>
+	<b>FR</b>: <dtrn>insecte</dtrn><br/>
+	<b>def</b>:
+		<def>small articulated animal, with six legs, that breaths through tracheas and undergoes metammorphoses.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>animals</kref></def></def></ar>
+<ar><k>insectos</k><def>
+	<b>EN</b>: <dtrn>insects</dtrn><br/>
+
+  <img src='MEDIA/insectos.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>animais</kref></def>	
+	<b>supdom</b>:
+		<def><kref>animais</kref></def>	
+	<b>voc</b>:
+		<def><kref>abelha</kref></def>
+		<def><kref>borboleta</kref></def>
+		<def><kref>cigarra</kref></def>
+		<def><kref>escaravelho</kref></def>
+		<def><kref>gafanhoto</kref></def>
+		<def><kref>joaninha</kref></def>
+		<def><kref>libélula</kref></def>
+		<def><kref>louva-a-deus</kref></def>
+		<def><kref>mosca</kref></def>
+		<def><kref>vespa</kref></def></def></ar>
+<ar><k>instestino grosso</k><def>
+	<b>EN</b>: <dtrn>large intestine</dtrn><br/>
+	<b>def</b>:
+		<def>formado pelo cólon, ceco e reto, responsável pela reabsorção da água e formação do bolo fecal</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>intestino delgado</k><def>
+	<b>EN</b>: <dtrn>small intestine</dtrn><br/>
+	<b>def</b>:
+		<def>canal que vai do piloro ao ceco e compreende o duodeno, o jejuno e o íleo</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>joaninha</k><def>
+	<b>EN</b>: <dtrn>ladybug</dtrn><br/>
+
+  <img src='MEDIA/joaninha.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>lagarto</k><def>
+	<b>EN</b>: <dtrn>lizard</dtrn><br/>
+
+  <img src='MEDIA/lagarto.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>lagarto</kref></def>	
+	<b>supdom</b>:
+		<def><kref>répteis</kref></def>	
+	<b>voc</b>:
+		<def><kref>dragão barbudo</kref></def>
+		<def><kref>geeko</kref></def>
+		<def><kref>iguana</kref></def>
+		<def><kref>lagarto</kref></def>
+		<def><kref>lagarto de língua azul</kref></def>
+		<def><kref>salamandra</kref></def></def></ar>
+<ar><k>lagarto de língua azul</k><def>
+	<b>dom</b>:
+		<def><kref>lagarto</kref></def></def></ar>
+<ar><k>laranja</k><def>
+	<b>EN</b>: <dtrn>orange</dtrn><br/>
+	<b>def</b>:
+		<def>de forma esférica, dividida em gomos, pertence ao grupo dos Citrus</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>laranjada</k><def>
+	<b>EN</b>: <dtrn>orange juice</dtrn><br/>
+	<b>def</b>:
+		<def>bebida feita com sumo de laranja</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>laranjeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>orange tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def>
+⋄	<b>EN</b>: <dtrn>orange tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore que dá laranjas</def>	
+	<b>dom</b>:
+		<def><kref>árvores de fruto</kref></def></def></ar>
+<ar><k>laringe</k><def>
+	<b>EN</b>: <dtrn>larynx</dtrn><br/>
+	<b>def</b>:
+		<def>parte superior da traqueia</def>	
+	<b>dom</b>:
+		<def><kref>Sistema respiratório</kref></def></def></ar>
+<ar><k>leão</k><def>
+	<b>EN</b>: <dtrn>lion</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros</kref></def></def></ar>
+<ar><k>libélula</k><def>
+	<b>EN</b>: <dtrn>dragonfly</dtrn><br/>
+
+  <img src='MEDIA/libelula.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>lichia</k><def>
+	<b>EN</b>: <dtrn>lychee</dtrn><br/>
+	<b>def</b>:
+		<def>tem uma casca avermelhada, rugosa e um interior branco, possuindo um sabor levemente ácido</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>limoeiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>lemon tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def>
+⋄	<b>EN</b>: <dtrn>lemon tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore que dá limões</def>	
+	<b>dom</b>:
+		<def><kref>árvores de fruto</kref></def></def></ar>
+<ar><k>limonada</k><def>
+	<b>EN</b>: <dtrn>limonade</dtrn><br/>
+	<b>def</b>:
+		<def>bebida feita de sumo de limão; ácido</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>língua</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>tongue</dtrn><br/>
+	<b>def</b>:
+		<def>órgão móvel da cavidade bocal</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>louva-a-deus</k><def>
+	<b>EN</b>: <dtrn>mantis</dtrn><br/>
+
+  <img src='MEDIA/louva-a-deus.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>maçã</k><def>
+	<b>EN</b>: <dtrn>apple</dtrn><br/>
+	<b>def</b>:
+		<def>com propriedade adstringente, sendo excelente para a granganta e as cordas vocais</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>macieira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>apple tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>árvore de maçãs</def>	
+	<b>dom</b>:
+		<def><kref>árvores</kref></def>	
+	<b>obs</b>:
+		<def>podem ser vermelhas, amarelas ou verdes</def>
+⋄	<b>EN</b>: <dtrn>apple tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore que dá maçãs</def>	
+	<b>dom</b>:
+		<def><kref>árvores de fruto</kref></def></def></ar>
+<ar><k>mamíferos</k><def>
+	<b>EN</b>: <dtrn>mammals</dtrn><br/>
+	<b>ES</b>: <dtrn>mamíferos</dtrn><br/>
+	<b>FR</b>: <dtrn>mammifères</dtrn><br/>
+	<b>def</b>:
+		<def>class of vertebrate animals characterized by the presence of breasts.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>animals</kref></def>	
+	<b>subdom</b>:
+		<def><kref>sub Carnívoros</kref></def>
+		<def><kref>sub Carnívoros 1</kref></def>
+		<def><kref>sub Herbívoros</kref></def>
+		<def><kref>sub Onívoros</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>mão</k><def>
+	<b>EN</b>: <dtrn>hand</dtrn><br/>
+	<b>def</b>:
+		<def>é a parte final de cada extremidade superior</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>maracujá</k><def>
+	<b>EN</b>: <dtrn>passion fruit</dtrn><br/>
+	<b>def</b>:
+		<def>tem uma polpa com pequenas sementes pretas, é usado para fazer sumos e doces</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>margarida</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>daisy</dtrn><br/>
+	<b>def</b>:
+		<def>Designação dada a várias plantas da família das asteráceas, entre as quais a margarida-dos-prados ou bonina ou o malmequer.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>daisy</dtrn><br/>
+	<b>def</b>:
+		<def>Designação dada a várias plantas da família das asteráceas, entre as quais a margarida-dos-prados ou bonina ou o malmequer.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>médicos</k><def>
+	<b>supdom</b>:
+		<def><kref>profissionais de saúde</kref></def>	
+	<b>voc</b>:
+		<def><kref>cardiologista</kref></def>
+		<def><kref>cirugião</kref></def>
+		<def><kref>dermatologista</kref></def>
+		<def><kref>pediatra</kref></def></def></ar>
+<ar><k>melancia</k><def>
+	<b>EN</b>: <dtrn>watermelon</dtrn><br/>
+	<b>def</b>:
+		<def>constituída por 93 por cento de agua, ela tem um sabor doce e é refrescante</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>membros superiores e inferiores</k><def>
+	<b>supdom</b>:
+		<def><kref>corpo humano</kref></def>	
+	<b>voc</b>:
+		<def><kref>anfíbios</kref></def>
+		<def><kref>antebraço</kref></def>
+		<def><kref>braços</kref></def>
+		<def><kref>chuva</kref></def>
+		<def><kref>coxas</kref></def>
+		<def><kref>insecto</kref></def>
+		<def><kref>mamíferos</kref></def>
+		<def><kref>mão</kref></def>
+		<def><kref>ombro</kref></def>
+		<def><kref>pernas</kref></def>
+		<def><kref>pés</kref></def>
+		<def><kref>quadril</kref></def>
+		<def><kref>répteis</kref></def>
+		<def><kref>sol</kref></def></def></ar>
+<ar><k>microbiologista</k><def>
+	<b>EN</b>: <dtrn>medical laboratory technician</dtrn><br/>
+	<b>def</b>:
+		<def>realiza testes de laboratório clínico para auxiliar no diagnóstico de doenças</def>	
+	<b>dom</b>:
+		<def><kref>profissionais de laboratório</kref></def></def></ar>
+<ar><k>milho</k><def>
+	<b>EN</b>: <dtrn>corn</dtrn><br/>
+	<b>def</b>:
+		<def>cereal usado para fazer pipocas</def>	
+	<b>dom</b>:
+		<def><kref>plantações</kref></def></def></ar>
+<ar><k>montanha</k><def>
+	<b>EN</b>: <dtrn>mountain</dtrn><br/>
+	<b>EN</b>: <dtrn>hill</dtrn><br/>
+	<b>def</b>:
+		<def>forma de relevo que apresenta as mais elevadas altitudes</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>morango</k><def>
+	<b>EN</b>: <dtrn>strawberry</dtrn><br/>
+	<b>def</b>:
+		<def>vem de uma planta da família das Rosacéas</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>mosca</k><def>
+	<b>EN</b>: <dtrn>fly</dtrn><br/>
+
+  <img src='MEDIA/mosca.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>motocicleta</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>motociclo</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>motorcycle</dtrn><br/>
+	<b>def</b>:
+		<def>a two-wheeled vehicle that is powered by a motor and has no pedals.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>motociclo</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>motocicleta</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>motorcycle</dtrn><br/>
+	<b>def</b>:
+		<def>a two-wheeled vehicle that is powered by a motor and has no pedals.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>motorhome</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>autocarava</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>motorhome</dtrn><br/>
+	<b>def</b>:
+		<def>a motor vehicle equipped like a caravan for living in.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>nabo</k><def>
+	<b>EN</b>: <dtrn>turnip</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal com raízes brancas ou arroxeadas comestíveis</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>Nadadeira</k><def>
+	<b>PT</b>: <dtrn>Barbatana</dtrn><br/>
+	<def>-- var: Aleta</def>
+	<b>EN</b>: <dtrn>Fin</dtrn><br/>
+	<b>def</b>:
+		<def>membros que ajudam os peixes a nadar.</def>	
+	<b>dom</b>:
+		<def><kref>Partes dos peixes</kref></def></def></ar>
+<ar><k>nariz</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>nose</dtrn><br/>
+	<b>def</b>:
+		<def>parte saliente do rosto que corresponde ao órgão do olfato</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>nogueira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>wallnut tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>nuca</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>nape</dtrn><br/>
+	<b>def</b>:
+		<def>parte superior e posterior do pescoço</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>olhos</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>eyes</dtrn><br/>
+	<b>def</b>:
+		<def>órgão responsável pela visão do ser humano</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>Olhos</k><def>
+	<b>EN</b>: <dtrn>Eyes</dtrn><br/>
+	<b>def</b>:
+		<def>órgãos que permitem aos peixes ver.</def>	
+	<b>dom</b>:
+		<def><kref>Partes dos peixes</kref></def></def></ar>
+<ar><k>ombro</k><def>
+	<b>EN</b>: <dtrn>shoulder</dtrn><br/>
+
+  	<b>def</b>:
+		<def>articulação mais flexível de todo o corpo humano sendo
+      composto por duas articulações separadas: as articulações glenoumeral e acromioclavicular</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>ônibus</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>autocarro</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>bus</dtrn><br/>
+	<b>def</b>:
+		<def>a large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>orelha</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>ear</dtrn><br/>
+	<b>def</b>:
+		<def>parte externa do órgão do ouvido</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>Orgãos</k><def>
+	<b>subdom</b>:
+		<def><kref>Sistema circulatório</kref></def>
+		<def><kref>Sistema digestivo</kref></def>
+		<def><kref>Sistema nervoso</kref></def>
+		<def><kref>Sistema respiratório</kref></def>
+		<def><kref>Sistema urinário</kref></def>	
+	<b>supdom</b>:
+		<def><kref>corpo humano</kref></def></def></ar>
+<ar><k>orquídea</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>orchid</dtrn><br/>
+
+  <img src='MEDIA/orquidea.jpg' alt='grande'/>	<b>def</b>:
+		<def>Designação genérica das flores e das plantas da família das orquidáceas, de flores notáveis pela sua beleza, colorido e forma.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>orchid</dtrn><br/>
+
+  	<b>def</b>:
+		<def>Designação genérica das flores e das plantas da família das orquidáceas, de flores notáveis pela sua beleza, colorido e forma.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>ovelha</k><def>
+	<b>EN</b>: <dtrn>sheep</dtrn><br/>
+	<b>def</b>:
+		<def>a fêmea do carneiro, mamífero da família dos bovídeos, utilizado para o fornecimento de lã e de carne</def>	
+	<b>dom</b>:
+		<def><kref>animais de quinta</kref></def></def></ar>
+<ar><k>palemira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>palm tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>pálpebra</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>eyelid</dtrn><br/>
+	<b>def</b>:
+		<def>véu ou túnica exterior que cobre e resguarda o olho</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>partes do avião</k><def>
+	<b>supdom</b>:
+		<def><kref>avião</kref></def>	
+	<b>voc</b>:
+		<def><kref>abas</kref></def>
+		<def><kref>asa</kref></def>
+		<def><kref>cabine</kref></def>
+		<def><kref>cabine de comando</kref></def>
+		<def><kref>cauda</kref></def>
+		<def><kref>elevador</kref></def>
+		<def><kref>estabilizador horizontal</kref></def>
+		<def><kref>estabilizador vertical</kref></def>
+		<def><kref>flapes</kref></def>
+		<def><kref>fuselagem</kref></def>
+		<def><kref>turbina</kref></def></def></ar>
+<ar><k>Partes dos peixes</k><def>
+	<b>supdom</b>:
+		<def><kref>Peixes</kref></def>	
+	<b>voc</b>:
+		<def><kref>Barbatana</kref></def>
+		<def><kref>Escamas</kref></def>
+		<def><kref>Guelras</kref></def>
+		<def><kref>Olhos</kref></def></def></ar>
+<ar><k>patinete</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>trotinete</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>scooter</dtrn><br/>
+	<b>def</b>:
+		<def>a light two-wheeled open motor vehicle on which the driver sits over an enclosed engine with their legs together and their feet resting on a floorboard.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>pediatra</k><def>
+	<b>EN</b>: <dtrn>pediatrician</dtrn><br/>
+	<b>def</b>:
+		<def>médico que cuida da saúde de crianças e adolescentes.</def>	
+	<b>dom</b>:
+		<def><kref>médicos</kref></def></def></ar>
+<ar><k>Peixes</k><def>
+	<b>subdom</b>:
+		<def><kref>Espécies de peixe</kref></def>
+		<def><kref>Partes dos peixes</kref></def>	
+	<b>supdom</b>:
+		<def><kref>animais</kref></def></def></ar>
+<ar><k>pena</k><def>
+	<b>EN</b>: <dtrn>feather</dtrn><br/>
+	<b>def</b>:
+		<def>estrutura da pele formada por queratina que permite o voo e auxilía no isolamento térmico.</def>	
+	<b>dom</b>:
+		<def><kref>aves</kref></def>	
+	<b>hpr</b>:
+		<def><kref>revestimento da pele</kref></def></def></ar>
+<ar><k>pera</k><def>
+	<b>EN</b>: <dtrn>pear</dtrn><br/>
+	<b>def</b>:
+		<def>é considerada a fruta por exelência para dar a um bébé</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>pereira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>pear tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>def</b>:
+		<def>árvore de peras</def>	
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>pernas</k><def>
+	<b>EN</b>: <dtrn>legs</dtrn><br/>
+	<b>def</b>:
+		<def>membro inferior do corpo humano, desde o quadril até
+     o tornozelo o tornozelo, ioncluindo as coxas, os joelhos e as panturrilhas</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>pés</k><def>
+	<b>EN</b>: <dtrn>feet</dtrn><br/>
+	<b>def</b>:
+		<def>parte do corpo humano que se articula com a
+     inferior da perna</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>pessegueiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>peach tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>pestanas</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>eyelashes</dtrn><br/>
+	<b>def</b>:
+		<def>pelos da pálpebra</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>physalis</k><def>
+	<b>EN</b>: <dtrn>physalis</dtrn><br/>
+	<b>def</b>:
+		<def>sabor refrescante e possui uma leve acidez, sendo parecido a um tomate e envolvido em folhas</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>pimento</k><def>
+	<b>EN</b>: <dtrn>pepper</dtrn><br/>
+	<b>def</b>:
+		<def>planta solanácea cujo fruto, mais ou menos picante, é empregado como condimento</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>pinguim</k><def>
+	<b>EN</b>: <dtrn>penguin</dtrn><br/>
+	<b>def</b>:
+		<def>aves semi-aquáticas que geralmente habitam em ambientes extremamente frios.</def>	
+	<b>dom</b>:
+		<def><kref>aves não-voadoras</kref></def>	
+	<b>hpr</b>:
+		<def><kref>aves não-voadoras</kref></def></def></ar>
+<ar><k>pinheiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>pine tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>Planalto</k><def>
+	<b>EN</b>: <dtrn>tableland</dtrn><br/>
+	<b>EN</b>: <dtrn>plateau</dtrn><br/>
+	<b>def</b>:
+		<def>forma de relevo plano e mais alto que as planícies com altitude em média superior a 300m</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>planície</k><def>
+	<b>EN</b>: <dtrn>plain</dtrn><br/>
+	<b>EN</b>: <dtrn>flatland</dtrn><br/>
+	<b>def</b>:
+		<def>forma de relevo relativamente palana que se localiza a baixa altitude</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>plantações</k><def>
+	<b>supdom</b>:
+		<def><kref>horta</kref></def>	
+	<b>voc</b>:
+		<def><kref>alface</kref></def>
+		<def><kref>batata</kref></def>
+		<def><kref>couve</kref></def>
+		<def><kref>milho</kref></def>
+		<def><kref>tomate</kref></def></def></ar>
+<ar><k>plantas</k><def>
+	<b>subdom</b>:
+		<def><kref>árvores</kref></def>
+		<def><kref>flores</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>plataforma continental</k><def>
+	<b>EN</b>: <dtrn>continental shelf</dtrn><br/>
+
+  	<b>def</b>:
+		<def>prolongamento da planície costeira em direção ao fundo dos oceanos</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>plátano</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>plane tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>Polícia Comunitária</k><def>
+	<b>EN</b>: <dtrn>Community Police</dtrn><br/>
+	<b>def</b>:
+		<def>Estabelecem relações positivas com a comunidade e resolvem problemas locais de segurança.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>Polícia Marítima</k><def>
+	<b>EN</b>: <dtrn>Maritime Police</dtrn><br/>
+	<b>def</b>:
+		<def>Patrulham áreas aquáticas, como portos e praias, para garantir a segurança marítima.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>Polícia Montada</k><def>
+	<b>EN</b>: <dtrn>Mounted Police</dtrn><br/>
+	<b>def</b>:
+		<def>Patrulham a cavalo em áreas urbanas e parques para manter a ordem pública.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>Polícia Patrulha</k><def>
+	<b>EN</b>: <dtrn>Patrol Police</dtrn><br/>
+	<b>def</b>:
+		<def>Responsável pela aplicação da lei nas ruas e pela manutenção da segurança pública.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>polícias</k><def>
+	<b>supdom</b>:
+		<def><kref>profissionais de justiça</kref></def>	
+	<b>voc</b>:
+		<def><kref>Detetives</kref></def>
+		<def><kref>Polícia Comunitária</kref></def>
+		<def><kref>Polícia Marítima</kref></def>
+		<def><kref>Polícia Montada</kref></def>
+		<def><kref>Polícia Patrulha</kref></def>
+		<def><kref>Polícias de Trânsito</kref></def>
+		<def><kref>Tecnologia Forense</kref></def>
+		<def><kref>Unidades Especiais</kref></def></def></ar>
+<ar><k>Polícias de Trânsito</k><def>
+	<b>EN</b>: <dtrn>Traffic police</dtrn><br/>
+	<b>def</b>:
+		<def>Aplicam as leis de trânsito, monitoram o tráfego e investigam acidentes de trânsito.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>pombo</k><def>
+	<b>EN</b>: <dtrn>pigeon</dtrn><br/>
+	<b>def</b>:
+		<def>ave de pequeno porte, geralmente cinza claro, com uma mancha púrpura e uma mancha verde na lateral do pescoço. O seu bico é cinzento e os pés são laranja avermelhados</def>	
+	<b>dom</b>:
+		<def><kref>aves voadoras</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave doméstica</kref></def></def></ar>
+<ar><k>população absoluta</k><def>
+	<b>EN</b>: <dtrn>absolute population</dtrn><br/>
+	<b>def</b>:
+		<def>índice geral da população de um determinado local</def>	
+	<b>dom</b>:
+		<def><kref>Geografia da população</kref></def></def></ar>
+<ar><k>porco</k><def>
+	<b>EN</b>: <dtrn>pig</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Onívoros</kref></def></def></ar>
+<ar><k>Povo</k><def>
+	<b>EN</b>: <dtrn>Octopus</dtrn><br/>
+	<b>def</b>:
+		<def>tem oito pernas com ventosas.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>pressão atmosférica</k><def>
+	<b>EN</b>: <dtrn>atmos</dtrn><br/>
+	<b>def</b>:
+		<def>medida que aponta o peso que o ar exerce sobre a superfície terrestre</def>	
+	<b>dom</b>:
+		<def><kref>Clima</kref></def></def></ar>
+<ar><k>profissionais de justiça</k><def>
+	<b>subdom</b>:
+		<def><kref>polícias</kref></def>	
+	<b>supdom</b>:
+		<def><kref>profissões</kref></def></def></ar>
+<ar><k>profissionais de laboratório</k><def>
+	<b>supdom</b>:
+		<def><kref>profissionais de saúde</kref></def>	
+	<b>voc</b>:
+		<def><kref>biólogo molecular</kref></def>
+		<def><kref>citotécnico</kref></def>
+		<def><kref>microbiologista</kref></def>
+		<def><kref>tecnólogo em radiologia</kref></def></def></ar>
+<ar><k>profissionais de saúde</k><def>
+	<b>subdom</b>:
+		<def><kref>médicos</kref></def>
+		<def><kref>profissionais de laboratório</kref></def>
+		<def><kref>terapeutas</kref></def>	
+	<b>supdom</b>:
+		<def><kref>profissões</kref></def></def></ar>
+<ar><k>profissões</k><def>
+	<b>subdom</b>:
+		<def><kref>profissionais de justiça</kref></def>
+		<def><kref>profissionais de saúde</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>quadriciclo</k><def>
+	<b>EN</b>: <dtrn>motorhome</dtrn><br/>
+	<b>def</b>:
+		<def>a motor vehicle equipped like a caravan for living in.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>quadril</k><def>
+	<b>EN</b>: <dtrn>hip</dtrn><br/>
+	<b>def</b>:
+		<def>termo utilizado para denominar a articulação
+     formada pela união entre a parte proximal do fêmur
+     e o acetábulo</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def></def></ar>
+<ar><k>queixo</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>chin</dtrn><br/>
+	<b>def</b>:
+		<def>região saliente por baixo lábio inferior</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>quinta</k><def>
+	<b>subdom</b>:
+		<def><kref>animais de quinta</kref></def>
+		<def><kref>horta</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>Raia</k><def>
+	<b>EN</b>: <dtrn>Ray fish</dtrn><br/>
+	<b>def</b>:
+		<def>peixe com a cara por baixo e que parece um cobertor.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>rapina</k><def>
+	<b>EN</b>: <dtrn>plunder</dtrn><br/>
+	<b>def</b>:
+		<def>ato de roubar astuciosa e violentamente.</def>	
+	<b>dom</b>:
+		<def><kref>aves de rapina</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ataque</kref></def></def></ar>
+<ar><k>raposa</k><def>
+	<b>EN</b>: <dtrn>fox</dtrn><br/>
+	<b>def</b>:
+		<def>Uma raposa é um mamífero carnívoro pertencente à família dos canídeos. Ela é conhecida por sua aparência elegante e astúcia, sendo considerada um dos animais mais inteligentes do reino animal. Existem várias espécies de raposas, sendo a raposa vermelha a mais comum e conhecida.</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>fox</dtrn><br/>
+	<b>def</b>:
+		<def>Uma raposa é um animal selvagem parecido com um cão, conhecido por sua astúcia e cauda felpuda.</def>	
+	<b>dom</b>:
+		<def><kref>sub Carnívoros</kref></def></def></ar>
+<ar><k>rato</k><def>
+	<b>EN</b>: <dtrn>rat</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros 1</kref></def>
+⋄	<b>EN</b>: <dtrn>rat</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Onívoros</kref></def></def></ar>
+<ar><k>reboque</k><def>
+	<b>EN</b>: <dtrn>tow truck</dtrn><br/>
+	<b>def</b>:
+		<def>a truck with special equipment for pulling a vehicle that is not working to a place where it can be repaired</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>recto</k><def>
+	<def>-- var: recto</def>
+	<b>PT</b>: <dtrn>reto</dtrn><br/>
+	<def>-- var: reto</def>
+	<b>EN</b>: <dtrn>rectum</dtrn><br/>
+	<b>def</b>:
+		<def>última parte do intestino grosso que termina no ânus</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>refrigerante</k><def>
+	<b>EN</b>: <dtrn>soda</dtrn><br/>
+	<b>def</b>:
+		<def>bebida gasosa, com sabor adocicado</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>região plágica</k><def>
+	<b>PT</b>: <dtrn>zona abissal</dtrn><br/>
+	<b>EN</b>: <dtrn>abyssal zone</dtrn><br/>
+	<b>def</b>:
+		<def>porção mais profunda do modelado oceânico, onde são encontradas diversas formas de relvo</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>relevo</k><def>
+	<b>supdom</b>:
+		<def><kref>Geografia Física</kref></def>	
+	<b>voc</b>:
+		<def><kref>depressão</kref></def>
+		<def><kref>montanha</kref></def>
+		<def><kref>Planalto</kref></def>
+		<def><kref>planície</kref></def>
+		<def><kref>plataforma continental</kref></def>
+		<def><kref>talude</kref></def>
+		<def><kref>zona abissal</kref></def></def></ar>
+<ar><k>repolho</k><def>
+	<b>EN</b>: <dtrn>cabbage</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal pertencente ao gênero Brassica, o mesmo do brócolo, da couve-flor e da couve</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>répteis</k><def>
+	<b>EN</b>: <dtrn>reptiles</dtrn><br/>
+	<b>ES</b>: <dtrn>reptiles</dtrn><br/>
+	<b>FR</b>: <dtrn>reptiles</dtrn><br/>
+	<b>def</b>:
+		<def>that crawls and  moves by pushing the belly.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>animals</kref></def>	
+	<b>subdom</b>:
+		<def><kref>cobra</kref></def>
+		<def><kref>lagarto</kref></def>	
+	<b>supdom</b>:
+		<def><kref>animais</kref></def>	
+	<b>voc</b>:
+		<def><kref>répteis</kref></def>
+⋄	<b>EN</b>: <dtrn>reptile</dtrn><br/>
+
+  <img src='MEDIA/repteis.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>répteis</kref></def></def></ar>
+<ar><k>reto</k><def>
+	<def>-- var: reto</def>
+	<b>PT</b>: <dtrn>recto</dtrn><br/>
+	<def>-- var: recto</def>
+	<b>EN</b>: <dtrn>rectum</dtrn><br/>
+	<b>def</b>:
+		<def>última parte do intestino grosso que termina no ânus</def>	
+	<b>dom</b>:
+		<def><kref>Sistema digestivo</kref></def></def></ar>
+<ar><k>revestimento da pele</k><def>
+	<b>hpn</b>:
+		<def><kref>pena</kref></def></def></ar>
+<ar><k>rim</k><def>
+	<b>EN</b>: <dtrn>kidney</dtrn><br/>
+	<b>def</b>:
+		<def>órgão duplo que segrega a urina</def>	
+	<b>dom</b>:
+		<def><kref>Sistema urinário</kref></def></def></ar>
+<ar><k>romã</k><def>
+	<b>EN</b>: <dtrn>pomegranate</dtrn><br/>
+	<b>def</b>:
+		<def>simboliza fecundidade, esperança e riqueza, ela é cultivada em clima tropical</def>	
+	<b>dom</b>:
+		<def><kref>Frutas</kref></def></def></ar>
+<ar><k>romãzeira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>pomegranate tree</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>rosa</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>rose</dtrn><br/>
+
+  <img src='MEDIA/rosa.jpg' alt='grande'/>	<b>def</b>:
+		<def>Flor da roseira.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>rose</dtrn><br/>
+
+  	<b>def</b>:
+		<def>Flor da roseira.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>rum</k><def>
+	<b>EN</b>: <dtrn>rum</dtrn><br/>
+	<b>def</b>:
+		<def>aguardente obtida por fermentação e destilação simples do caldo ou do melaço da cana-de-açúcar</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>salamandra</k><def>
+	<b>dom</b>:
+		<def><kref>lagarto</kref></def></def></ar>
+<ar><k>Salmão</k><def>
+	<b>EN</b>: <dtrn>Salmon</dtrn><br/>
+	<b>def</b>:
+		<def>peixe cor-de-rosa</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>salsa</k><def>
+	<b>EN</b>: <dtrn>parsley</dtrn><br/>
+	<b>def</b>:
+		<def>vegetal esverdeado condimentar e medicinal, utilizada desde a antiguidade e difundida em todas as áreas de clima temperado e subtropical</def>	
+	<b>dom</b>:
+		<def><kref>Vegetais</kref></def></def></ar>
+<ar><k>sedro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>cedar tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>semi-reboque</k><def>
+	<b>EN</b>: <dtrn>semi-tow trucking</dtrn><br/>
+
+  	<b>def</b>:
+		<def>To tow semi-trucks, we use our heavy-duty towing equipment and technology. Because semi-trucks are so large and heavy, they require specialized equipment and expertise. With heavy-duty hauling equipment, we are able to handle the biggest tow jobs including containers, loaded trailers, and semi-trucks.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>ser humano</k><def>
+	<b>EN</b>: <dtrn>human being</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Onívoros</kref></def></def></ar>
+<ar><k>Sistema circulatório</k><def>
+	<b>supdom</b>:
+		<def><kref>Orgãos</kref></def>	
+	<b>voc</b>:
+		<def><kref>coração</kref></def></def></ar>
+<ar><k>Sistema digestivo</k><def>
+	<b>supdom</b>:
+		<def><kref>Orgãos</kref></def>	
+	<b>voc</b>:
+		<def><kref>esófago</kref></def>
+		<def><kref>estômago</kref></def>
+		<def><kref>faringe</kref></def>
+		<def><kref>fígado</kref></def>
+		<def><kref>instestino grosso</kref></def>
+		<def><kref>intestino delgado</kref></def>
+		<def><kref>recto</kref></def></def></ar>
+<ar><k>Sistema nervoso</k><def>
+	<b>supdom</b>:
+		<def><kref>Orgãos</kref></def>	
+	<b>voc</b>:
+		<def><kref>cérebro</kref></def></def></ar>
+<ar><k>Sistema respiratório</k><def>
+	<b>supdom</b>:
+		<def><kref>Orgãos</kref></def>	
+	<b>voc</b>:
+		<def><kref>brônquios</kref></def>
+		<def><kref>fossas nasais</kref></def>
+		<def><kref>laringe</kref></def>
+		<def><kref>traqueia</kref></def></def></ar>
+<ar><k>Sistema urinário</k><def>
+	<b>supdom</b>:
+		<def><kref>Orgãos</kref></def>	
+	<b>voc</b>:
+		<def><kref>bexiga</kref></def>
+		<def><kref>rim</kref></def></def></ar>
+<ar><k>sobrancelhas</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>eyebrows</dtrn><br/>
+	<b>def</b>:
+		<def>conjunto de pelos em forma de arco em cima de cada olho</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>sobreiro</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: m</def>
+	<b>EN</b>: <dtrn>cork oat tree</dtrn><br/>
+	<def>-- G: m</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def></def></ar>
+<ar><k>sol</k><def>
+	<b>EN</b>: <dtrn>sun</dtrn><br/>
+	<b>ES</b>: <dtrn>sol</dtrn><br/>
+	<b>FR</b>: <dtrn>soleil</dtrn><br/>
+	<def>-- G: m</def>
+	<b>def</b>:
+		<def>It is the central star of the solar system.</def>	
+	<b>dom</b>:
+		<def><kref>membros superiores e inferiores</kref></def>	
+	<b>hpr</b>:
+		<def><kref>star</kref></def></def></ar>
+<ar><k>star</k><def>
+	<b>hpn</b>:
+		<def><kref>sol</kref></def></def></ar>
+<ar><k>sub Carnívoros</k><def>
+	<b>supdom</b>:
+		<def><kref>mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>gambá</kref></def>
+		<def><kref>leão</kref></def>
+		<def><kref>raposa</kref></def>
+		<def><kref>tigre</kref></def>
+		<def><kref>urso polar</kref></def></def></ar>
+<ar><k>sub Carnívoros 1</k><def>
+	<b>supdom</b>:
+		<def><kref>mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>abelha</kref></def>
+		<def><kref>borboleta</kref></def>
+		<def><kref>camelo</kref></def>
+		<def><kref>esquilo</kref></def>
+		<def><kref>gambá</kref></def>
+		<def><kref>gorilla</kref></def>
+		<def><kref>raposa</kref></def>
+		<def><kref>rato</kref></def></def></ar>
+<ar><k>sub Herbívoros</k><def>
+	<b>supdom</b>:
+		<def><kref>mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>abelha</kref></def>
+		<def><kref>boi</kref></def>
+		<def><kref>borboleta</kref></def>
+		<def><kref>camelo</kref></def>
+		<def><kref>gorila</kref></def></def></ar>
+<ar><k>sub Onívoros</k><def>
+	<b>supdom</b>:
+		<def><kref>mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>chimpanzé</kref></def>
+		<def><kref>esquilo</kref></def>
+		<def><kref>porco</kref></def>
+		<def><kref>rato</kref></def>
+		<def><kref>ser humano</kref></def></def></ar>
+<ar><k>talude</k><def>
+	<b>EN</b>: <dtrn>continental slope</dtrn><br/>
+
+  <img src='MEDIA/talude.jpeg' alt='grande'/>	<b>def</b>:
+		<def>porção de relevo submarino que se caracteriza por uma inclinação acentuada e estreita</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+<ar><k>Tamboril</k><def>
+	<b>EN</b>: <dtrn>Monkfish</dtrn><br/>
+	<b>def</b>:
+		<def>peixe castanho que parece esmagado e com barbatanas pequenas.</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>tartaruga</k><def>
+	<b>EN</b>: <dtrn>turtle</dtrn><br/>
+
+  <img src='MEDIA/tartaruga.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>tartaruga</kref></def>	
+	<b>supdom</b>:
+		<def><kref>animais</kref></def>	
+	<b>voc</b>:
+		<def><kref>cágado</kref></def>
+		<def><kref>tartaruga</kref></def>
+		<def><kref>tartaruga cabeçuda</kref></def>
+		<def><kref>tartaruga da florida</kref></def>
+		<def><kref>tartaruga da lama</kref></def>
+		<def><kref>tartaruga pintada</kref></def></def></ar>
+<ar><k>tartaruga cabeçuda</k><def>
+	<b>dom</b>:
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>tartaruga da florida</k><def>
+	<b>dom</b>:
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>tartaruga da lama</k><def>
+	<b>dom</b>:
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>tartaruga pintada</k><def>
+	<b>dom</b>:
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>taxa de emmigração</k><def>
+	<b>EN</b>: <dtrn>emigration tax</dtrn><br/>
+	<b>def</b>:
+		<def>número de pessoas que sai de um país para o outro</def>	
+	<b>dom</b>:
+		<def><kref>Geografia da população</kref></def></def></ar>
+<ar><k>taxa de immigração</k><def>
+	<b>EN</b>: <dtrn>imigration tax</dtrn><br/>
+	<b>def</b>:
+		<def>número de pessoas que entra para um país</def>	
+	<b>dom</b>:
+		<def><kref>Geografia da população</kref></def></def></ar>
+<ar><k>Tecnologia Forense</k><def>
+	<b>EN</b>: <dtrn>Forensic Technology</dtrn><br/>
+	<b>def</b>:
+		<def>Coletam e analisam evidências digitais em casos de crimes cibernéticos.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>tecnólogo em radiologia</k><def>
+	<b>EN</b>: <dtrn>radiologic technologist</dtrn><br/>
+	<b>def</b>:
+		<def>opera equipamentos de imagem médica, como raios-X e ressonância magnética, para auxiliar no diagnóstico médico</def>	
+	<b>dom</b>:
+		<def><kref>profissionais de laboratório</kref></def></def></ar>
+<ar><k>tempo</k><def>
+	<b>EN</b>: <dtrn>weather</dtrn><br/>
+	<b>def</b>:
+		<def>estado físico das condições atmosféricas em determindado momento e local</def>	
+	<b>dom</b>:
+		<def><kref>Clima</kref></def></def></ar>
+<ar><k>tequila</k><def>
+	<b>EN</b>: <dtrn>tequila</dtrn><br/>
+	<b>def</b>:
+		<def>tipo de aguardente mexicano produzida pela destilação do agave</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>terapeuta da fala</k><def>
+	<b>EN</b>: <dtrn>speech therapist</dtrn><br/>
+	<b>def</b>:
+		<def>trabalha com pacientes para melhorar a comunicação, linguagem e habilidades de deglutição</def>	
+	<b>dom</b>:
+		<def><kref>terapeutas</kref></def></def></ar>
+<ar><k>terapeuta físico</k><def>
+	<b>EN</b>: <dtrn>physical therapist</dtrn><br/>
+	<b>def</b>:
+		<def>ajuda pacientes a recuperar a função física após lesões ou cirurgias</def>	
+	<b>dom</b>:
+		<def><kref>terapeutas</kref></def></def></ar>
+<ar><k>terapeuta ocupacional</k><def>
+	<b>EN</b>: <dtrn>occupational therapist</dtrn><br/>
+	<b>def</b>:
+		<def>ajuda pacientes a desenvolver habilidades para realizar atividades diárias</def>	
+	<b>dom</b>:
+		<def><kref>terapeutas</kref></def></def></ar>
+<ar><k>terapeuta respiratório</k><def>
+	<b>EN</b>: <dtrn>respiratory therapist</dtrn><br/>
+	<b>def</b>:
+		<def>trata pacientes com distúrbios respiratórios, ajudando-os a respirar melhor</def>	
+	<b>dom</b>:
+		<def><kref>terapeutas</kref></def></def></ar>
+<ar><k>terapeutas</k><def>
+	<b>supdom</b>:
+		<def><kref>profissionais de saúde</kref></def>	
+	<b>voc</b>:
+		<def><kref>terapeuta da fala</kref></def>
+		<def><kref>terapeuta físico</kref></def>
+		<def><kref>terapeuta ocupacional</kref></def>
+		<def><kref>terapeuta respiratório</kref></def></def></ar>
+<ar><k>testa</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>forehead</dtrn><br/>
+	<b>def</b>:
+		<def>parte da cara compreendida entre os olhos e a raiz dos cabelos anteriores da cabeça</def>	
+	<b>dom</b>:
+		<def><kref>cabeça</kref></def></def></ar>
+<ar><k>tigre</k><def>
+	<b>EN</b>: <dtrn>tiger</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros</kref></def></def></ar>
+<ar><k>tomate</k><def>
+	<b>EN</b>: <dtrn>tomato</dtrn><br/>
+	<b>def</b>:
+		<def>fruto vermelho muito usado em saladas</def>	
+	<b>dom</b>:
+		<def><kref>plantações</kref></def></def></ar>
+<ar><k>TOP</k><def>
+	<b>dom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>subdom</b>:
+		<def><kref>alimentos</kref></def>
+		<def><kref>animais</kref></def>
+		<def><kref>aves</kref></def>
+		<def><kref>avião</kref></def>
+		<def><kref>corpo humano</kref></def>
+		<def><kref>Geografia</kref></def>
+		<def><kref>mamíferos</kref></def>
+		<def><kref>plantas</kref></def>
+		<def><kref>profissões</kref></def>
+		<def><kref>quinta</kref></def>
+		<def><kref>transporte</kref></def></def></ar>
+<ar><k>transporte</k><def>
+	<b>subdom</b>:
+		<def><kref>transporte rodoviário</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>transporte rodoviário</k><def>
+	<b>subdom</b>:
+		<def><kref>transportes leves</kref></def>
+		<def><kref>transportes pesados</kref></def>	
+	<b>supdom</b>:
+		<def><kref>transporte</kref></def></def></ar>
+<ar><k>transportes leves</k><def>
+	<b>supdom</b>:
+		<def><kref>transporte rodoviário</kref></def>	
+	<b>voc</b>:
+		<def><kref>bicicleta</kref></def>
+		<def><kref>carro</kref></def>
+		<def><kref>ciclomotor</kref></def>
+		<def><kref>motociclo</kref></def>
+		<def><kref>quadriciclo</kref></def>
+		<def><kref>triciclo</kref></def>
+		<def><kref>trotinete</kref></def></def></ar>
+<ar><k>transportes pesados</k><def>
+	<b>supdom</b>:
+		<def><kref>transporte rodoviário</kref></def>	
+	<b>voc</b>:
+		<def><kref>autocarava</kref></def>
+		<def><kref>autocarro</kref></def>
+		<def><kref>camião</kref></def>
+		<def><kref>reboque</kref></def>
+		<def><kref>semi-reboque</kref></def>
+		<def><kref>trator</kref></def>
+		<def><kref>veículo articulado</kref></def></def></ar>
+<ar><k>traqueia</k><def>
+	<b>EN</b>: <dtrn>trachea</dtrn><br/>
+	<b>def</b>:
+		<def>órgão responsável por conduzir o ar que entra no corpo até os brônquios</def>	
+	<b>dom</b>:
+		<def><kref>Sistema respiratório</kref></def></def></ar>
+<ar><k>trator</k><def>
+	<b>EN</b>: <dtrn>tractor</dtrn><br/>
+	<b>def</b>:
+		<def>a powerful motor vehicle with large rear wheels, used chiefly on farms for hauling equipment and trailers.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>triciclo</k><def>
+	<b>EN</b>: <dtrn>tricycle</dtrn><br/>
+	<b>def</b>:
+		<def>a vehicle similar to a bicycle, but having three wheels, two at the back and one at the front.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>trotinete</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>patinete</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>scooter</dtrn><br/>
+	<b>def</b>:
+		<def>a light two-wheeled open motor vehicle on which the driver sits over an enclosed engine with their legs together and their feet resting on a floorboard.</def>	
+	<b>dom</b>:
+		<def><kref>transportes leves</kref></def></def></ar>
+<ar><k>Tubarão</k><def>
+	<b>EN</b>: <dtrn>Shark</dtrn><br/>
+	<b>def</b>:
+		<def>peixe perigoso com presas muito grandes</def>	
+	<b>dom</b>:
+		<def><kref>Espécies de peixe</kref></def></def></ar>
+<ar><k>tulipa</k><def>
+	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>tulipe</dtrn><br/>
+
+  <img src='MEDIA/tulipa.jpg' alt='grande'/>	<b>def</b>:
+		<def>Género de plantas liliáceas.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def>
+⋄	<def>-- var: PT-BR</def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>tulipe</dtrn><br/>
+
+  	<b>def</b>:
+		<def>Género de plantas liliáceas.</def>	
+	<b>dom</b>:
+		<def><kref>flores</kref></def></def></ar>
+<ar><k>turbina</k><def>
+	<b>EN</b>: <dtrn>turbine</dtrn><br/>
+
+  	<b>def</b>:
+		<def>parte do avião encarregue de gerar tração</def>	
+	<b>dom</b>:
+		<def><kref>partes do avião</kref></def></def></ar>
+<ar><k>Unidades Especiais</k><def>
+	<b>EN</b>: <dtrn>Special Units</dtrn><br/>
+	<b>def</b>:
+		<def>Realizam operações especiais, como SWAT, negociações de reféns e combate ao crime de alto risco.</def>	
+	<b>dom</b>:
+		<def><kref>polícias</kref></def></def></ar>
+<ar><k>urso polar</k><def>
+	<b>EN</b>: <dtrn>polar bear</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>sub Carnívoros</kref></def></def></ar>
+<ar><k>vaca</k><def>
+	<b>EN</b>: <dtrn>cow</dtrn><br/>
+	<b>def</b>:
+		<def>animal mamífero e herbívoro que pertence à família dos bovídeos.</def>	
+	<b>dom</b>:
+		<def><kref>animais de quinta</kref></def></def></ar>
+<ar><k>Vegetais</k><def>
+	<b>supdom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>voc</b>:
+		<def><kref>abóbora</kref></def>
+		<def><kref>alface</kref></def>
+		<def><kref>alho-francês</kref></def>
+		<def><kref>batata</kref></def>
+		<def><kref>cebola</kref></def>
+		<def><kref>cenoura</kref></def>
+		<def><kref>corgete</kref></def>
+		<def><kref>nabo</kref></def>
+		<def><kref>pimento</kref></def>
+		<def><kref>repolho</kref></def>
+		<def><kref>salsa</kref></def></def></ar>
+<ar><k>veículo articulado</k><def>
+	<b>EN</b>: <dtrn>articulated vehicle</dtrn><br/>
+	<b>def</b>:
+		<def>An articulated vehicle is a vehicle which has a permanent or semi-permanent pivot joint in its construction, allowing it to turn more sharply.</def>	
+	<b>dom</b>:
+		<def><kref>transportes pesados</kref></def></def></ar>
+<ar><k>vespa</k><def>
+	<b>EN</b>: <dtrn>wasp</dtrn><br/>
+
+  <img src='MEDIA/vespa.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>insectos</kref></def></def></ar>
+<ar><k>vibora</k><def>
+	<b>dom</b>:
+		<def><kref>cobra</kref></def></def></ar>
+<ar><k>videira</k><def>
+	<def>-- var: ptpt</def>
+	<def>-- G: f</def>
+	<b>EN</b>: <dtrn>grape vine</dtrn><br/>
+	<def>-- G: f</def>
+	<b>dom</b>:
+		<def><kref>árvores</kref></def>
+⋄	<b>EN</b>: <dtrn>grapevine</dtrn><br/>
+	<b>def</b>:
+		<def>árvore que dá uvas</def>	
+	<b>dom</b>:
+		<def><kref>árvores de fruto</kref></def></def></ar>
+<ar><k>vinho</k><def>
+	<b>EN</b>: <dtrn>wine</dtrn><br/>
+	<b>def</b>:
+		<def>bebida que resulta da fermentação alcoólica com uvas</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>water</k><def>
+	<b>hpn</b>:
+		<def><kref>chuva</kref></def></def></ar>
+<ar><k>zona abissal</k><def>
+	<b>PT</b>: <dtrn>região plágica</dtrn><br/>
+	<b>EN</b>: <dtrn>abyssal zone</dtrn><br/>
+	<b>def</b>:
+		<def>porção mais profunda do modelado oceânico, onde são encontradas diversas formas de relvo</def>	
+	<b>dom</b>:
+		<def><kref>relevo</kref></def></def></ar>
+
+</lexicon>
+
+</xdxf>

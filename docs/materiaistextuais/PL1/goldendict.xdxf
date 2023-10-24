@@ -1,0 +1,2199 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xdxf lang_from="POR" lang_to="DE" format="logical" revision="033">
+    <meta_info>
+        <title>Dicionário</title>
+        <full_title>Dicionário</full_title>
+        <file_ver>001</file_ver>
+        <creation_date>2023-10-10</creation_date>
+
+    </meta_info>
+<lexicon>
+
+<ar><k>abacate</k><def>
+	<b>EN</b>: <dtrn>avocado</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do abacateiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>abacaxi</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>ananas</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>pineapple</dtrn><br/>
+	<b>def</b>:
+		<def>planta bromeliácea originária da América Tropical, muito cultivada nas regiões quentes pelos seus grandes frutos de polpa açucarada</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Abelha</k><def>
+	<b>EN</b>: <dtrn>Bee</dtrn><br/>
+	<b>def</b>:
+		<def>comum aos insetos himenópteros; solitárias, sociais ou parasitas, que se distinguem das vespas por apresentarem pelos; Desempenham papel importante na polinização de muitas plantas.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>abóbora</k><def>
+	<b>EN</b>: <dtrn>pumpkin</dtrn><br/>
+	<b>1img</b>:
+		<def>abobora.jpg</def>	
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>abrunho</k><def>
+	<b>EN</b>: <dtrn>brun</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do abrunheiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>abutre</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>urubu</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>vulture</dtrn><br/>
+
+  <img src='MEDIA/abutre.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>aeródromo</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>aerodrome</dtrn><br/>
+	<b>def</b>:
+		<def>é um local que oferece as condições necessárias de segurança para realização de voos</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>aerofolios</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>airfoil</dtrn><br/>
+	<b>def</b>:
+		<def>produz uma reação aerodinamica normal à direção do movimento relativo</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>aeroporto</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>aeroport</dtrn><br/>
+	<b>def</b>:
+		<def>é um aeródromo público dotado de edificações, instalações e equipamentos para apoio ás operações de aviões.</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>água</k><def>
+	<b>EN</b>: <dtrn>water</dtrn><br/>
+	<b>def</b>:
+		<def>Líquido natural (H2O), transparente, incolor, geralmente insípido e inodoro, indispensável para a sobrevivência da maior parte dos seres vivos</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def>
+⋄	<b>EN</b>: <dtrn>water</dtrn><br/>
+
+  <img src='MEDIA/natureza-agua.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>águia</k><def>
+	<b>EN</b>: <dtrn>eagle</dtrn><br/>
+
+  <img src='MEDIA/aguia.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>ailerão</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>aileron</dtrn><br/>
+	<b>def</b>:
+		<def>é imprimir o movimento de rolamento</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>alface</k><def>
+	<b>EN</b>: <dtrn>lettuce</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>alho</k><def>
+	<b>EN</b>: <dtrn>garlic</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>alho francês</k><def>
+	<b>EN</b>: <dtrn>leek</dtrn><br/>
+
+  <img src='MEDIA/alho.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>alimentos</k><def>
+	<b>EN</b>: <dtrn>food</dtrn><br/>
+	<b>def</b>:
+		<def>substância digerível que sirva para alimentar ou nutrir</def>	
+	<b>dom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>subdom</b>:
+		<def><kref>bebidas</kref></def>
+		<def><kref>frutas</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>alimentos</kref></def></def></ar>
+<ar><k>altimetro</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>altimeter</dtrn><br/>
+	<b>def</b>:
+		<def>indica a altura em relação a um determinado nível de referência</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>alvéola</k><def>
+	<b>PT</b>: <dtrn>lavandisca</dtrn><br/>
+	<b>EN</b>: <dtrn>wagtail</dtrn><br/>
+
+  <img src='MEDIA/alveola.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>ameixa</k><def>
+	<b>EN</b>: <dtrn>plum</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da ameixeira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>amora</k><def>
+	<b>EN</b>: <dtrn>blackberry</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da amoreira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>anaconda</k><def>
+	<b>EN</b>: <dtrn>anaconda</dtrn><br/>
+	<b>def</b>:
+		<def>réptil ofídio da América do Sul, o qual atinge grandes dimensões.</def>	
+	<b>dom</b>:
+		<def><kref>ofídios</kref></def></def></ar>
+<ar><k>ananas</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>abacaxi</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>pineapple</dtrn><br/>
+	<b>def</b>:
+		<def>planta bromeliácea originária da América Tropical, muito cultivada nas regiões quentes pelos seus grandes frutos de polpa açucarada</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>ancinho</k><def>
+	<b>EN</b>: <dtrn>rake</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>andorinha</k><def>
+	<b>EN</b>: <dtrn>swallow</dtrn><br/>
+
+  <img src='MEDIA/andorinha.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>anfíbios</k><def>
+	<b>supdom</b>:
+		<def><kref>répteis</kref></def>	
+	<b>voc</b>:
+		<def><kref>cágado</kref></def>
+		<def><kref>camaleão</kref></def>
+		<def><kref>crocodilo</kref></def>
+		<def><kref>iguana</kref></def>
+		<def><kref>jabuti</kref></def>
+		<def><kref>lagarto</kref></def>
+		<def><kref>tartaruga</kref></def></def></ar>
+<ar><k>Animais</k><def>
+	<b>subdom</b>:
+		<def><kref>Aves</kref></def>
+		<def><kref>Inscetos</kref></def>
+		<def><kref>répteis</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>animais</k><def>
+	<b>EN</b>: <dtrn>animals</dtrn><br/>
+
+  <img src='MEDIA/natureza-animais.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>seres vivos</kref></def></def></ar>
+<ar><k>Animais da quinta</k><def>
+	<b>supdom</b>:
+		<def><kref>Quinta</kref></def>	
+	<b>voc</b>:
+		<def><kref>animais da quinta</kref></def>
+		<def><kref>burro</kref></def>
+		<def><kref>cabra</kref></def>
+		<def><kref>cavalo</kref></def>
+		<def><kref>coelho</kref></def>
+		<def><kref>galinha</kref></def>
+		<def><kref>galo</kref></def>
+		<def><kref>ovelha</kref></def>
+		<def><kref>pato</kref></def>
+		<def><kref>porco</kref></def>
+		<def><kref>vaca</kref></def></def></ar>
+<ar><k>animais da quinta</k><def>
+	<b>EN</b>: <dtrn>farm animals</dtrn><br/>
+	<b>def</b>:
+		<def>ser vivo multicelular, com capacidade de locomoção e de resposta a estímulos, que se nutre de outros seres vivos.</def>	
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Antropoides</k><def>
+	<b>EN</b>: <dtrn>Anthropoids</dtrn><br/>
+	<b>def</b>:
+		<def>Espécies da ordem dos primatas atuais e extintos mais próximos evolutivamente do homem: os gorilas, chimpanzés, bonobos e orangotangos (chamados grandes símios) e os gibões (chamados símios menores). Os macacos antropoides são os animais mais semelhantes ao ser humano.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>arado</k><def>
+	<b>EN</b>: <dtrn>plow</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>arara</k><def>
+	<b>EN</b>: <dtrn>macaw</dtrn><br/>
+
+  <img src='MEDIA/arara.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>Artiodactyla</k><def>
+	<b>EN</b>: <dtrn>Artiodactyla</dtrn><br/>
+	<b>def</b>:
+		<def>Caracterizados pela ordem dos mamíferos que possuem um número par de dedos nas patas.</def>	
+	<b>dom</b>:
+		<def><kref>Artiodactyla</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Artiodactyla</kref></def>
+		<def><kref>Porco</kref></def></def></ar>
+<ar><k>árvore</k><def>
+	<b>EN</b>: <dtrn>tree</dtrn><br/>
+
+  <img src='MEDIA/natureza-arvore.jpg' alt='grande'/>	<b>def</b>:
+		<def>planta de grande porte</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>planta</kref></def></def></ar>
+<ar><k>Árvores</k><def>
+	<b>supdom</b>:
+		<def><kref>Plantas</kref></def>	
+	<b>voc</b>:
+		<def><kref>bananeira</kref></def>
+		<def><kref>carvalho</kref></def>
+		<def><kref>castanheiro</kref></def>
+		<def><kref>laranjeira</kref></def>
+		<def><kref>limoeiro</kref></def>
+		<def><kref>oliveira</kref></def>
+		<def><kref>pinheiro</kref></def>
+		<def><kref>sobreiro</kref></def></def></ar>
+<ar><k>asas</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>wings</dtrn><br/>
+	<b>def</b>:
+		<def>é um artefato mecânico destinado à sustentação aerodinamica</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>ave</k><def>
+	<b>hpn</b>:
+		<def><kref>abutre</kref></def>
+		<def><kref>águia</kref></def>
+		<def><kref>alvéola</kref></def>
+		<def><kref>andorinha</kref></def>
+		<def><kref>arara</kref></def>
+		<def><kref>avestruz</kref></def>
+		<def><kref>codorniz</kref></def>
+		<def><kref>galinha</kref></def>
+		<def><kref>galinha d'angola</kref></def>
+		<def><kref>melro</kref></def>
+		<def><kref>peru</kref></def>
+		<def><kref>pombo</kref></def></def></ar>
+<ar><k>aves</k><def>
+	<b>EN</b>: <dtrn>birds</dtrn><br/>
+
+  <img src='MEDIA/aves.jpg' alt='grande'/>	<b>def</b>:
+		<def>classe de seres vivos vertebrados caracterizada pela presença de penas e bico</def>	
+	<b>dom</b>:
+		<def><kref>Aves</kref></def>	
+	<b>hpr</b>:
+		<def><kref>classe de animais</kref></def></def></ar>
+<ar><k>Aves</k><def>
+	<b>subdom</b>:
+		<def><kref>Aves que não voam</kref></def>
+		<def><kref>Aves que voam</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Animais</kref></def>	
+	<b>voc</b>:
+		<def><kref>aves</kref></def></def></ar>
+<ar><k>Aves que não voam</k><def>
+	<b>supdom</b>:
+		<def><kref>Aves</kref></def>	
+	<b>voc</b>:
+		<def><kref>avestruz</kref></def>
+		<def><kref>codorniz</kref></def>
+		<def><kref>galinha</kref></def>
+		<def><kref>galinha d'angola</kref></def>
+		<def><kref>peru</kref></def></def></ar>
+<ar><k>Aves que voam</k><def>
+	<b>supdom</b>:
+		<def><kref>Aves</kref></def>	
+	<b>voc</b>:
+		<def><kref>abutre</kref></def>
+		<def><kref>águia</kref></def>
+		<def><kref>alvéola</kref></def>
+		<def><kref>andorinha</kref></def>
+		<def><kref>arara</kref></def>
+		<def><kref>melro</kref></def>
+		<def><kref>pombo</kref></def></def></ar>
+<ar><k>avestruz</k><def>
+	<b>EN</b>: <dtrn>ostrich</dtrn><br/>
+
+  <img src='MEDIA/avestruz.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>aviao</k><def>
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>aeródromo</kref></def>
+		<def><kref>aerofolios</kref></def>
+		<def><kref>aeroporto</kref></def>
+		<def><kref>ailerão</kref></def>
+		<def><kref>altimetro</kref></def>
+		<def><kref>asas</kref></def>
+		<def><kref>cabine de comando</kref></def>
+		<def><kref>caixa negra</kref></def>
+		<def><kref>cauda</kref></def>
+		<def><kref>check-in</kref></def>
+		<def><kref>comissário de bordo</kref></def>
+		<def><kref>copiloto</kref></def>
+		<def><kref>envergadura</kref></def>
+		<def><kref>estabilizador horizontal</kref></def>
+		<def><kref>estabilizador vertical</kref></def>
+		<def><kref>flapes</kref></def>
+		<def><kref>fuselagem</kref></def>
+		<def><kref>horizonte artificial</kref></def>
+		<def><kref>leme</kref></def>
+		<def><kref>manche</kref></def>
+		<def><kref>manete</kref></def>
+		<def><kref>motor</kref></def>
+		<def><kref>nariz</kref></def>
+		<def><kref>piloto</kref></def>
+		<def><kref>porão</kref></def>
+		<def><kref>profundor</kref></def>
+		<def><kref>slats</kref></def>
+		<def><kref>spoilers</kref></def>
+		<def><kref>velocimetro</kref></def>
+		<def><kref>winglet</kref></def></def></ar>
+<ar><k>Baleia</k><def>
+	<b>EN</b>: <dtrn>Whale</dtrn><br/>
+	<b>def</b>:
+		<def>As baleias são animais aquáticos que se destacam por seu grande porte.</def>	
+	<b>dom</b>:
+		<def><kref>Cetacea</kref></def></def></ar>
+<ar><k>banana</k><def>
+	<b>EN</b>: <dtrn>banana</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da bananeira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>bananeira</k><def>
+	<b>EN</b>: <dtrn>banana tree</dtrn><br/>
+	<b>def</b>:
+		<def>designação comum, extensiva às plantas de género Musa.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>Barata</k><def>
+	<b>EN</b>: <dtrn>Cockroach</dtrn><br/>
+	<b>def</b>:
+		<def>comum a todos os insetos ortópteros da família dos blatídeos; as de hábitos domésticos, por nutrirem-se de toda sorte de produtos, contaminam alimentos, têm odor desagradável e tornam-se pragas sérias.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>batata</k><def>
+	<b>EN</b>: <dtrn>potato</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>bebidas</k><def>
+	<b>supdom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>voc</b>:
+		<def><kref>água</kref></def>
+		<def><kref>café</kref></def>
+		<def><kref>cerveja</kref></def>
+		<def><kref>chá</kref></def>
+		<def><kref>leite</kref></def>
+		<def><kref>licor</kref></def>
+		<def><kref>refrigerante</kref></def>
+		<def><kref>sumo</kref></def>
+		<def><kref>vinho</kref></def></def></ar>
+<ar><k>Besouro</k><def>
+	<b>EN</b>: <dtrn>Beetle</dtrn><br/>
+	<b>def</b>:
+		<def>comum a todos os insetos coleópteros; distribuem-se por uma infinidade de habitat e variam em tamanho de 1 mm até 15 cm de comprimento.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>beterraba</k><def>
+	<b>EN</b>: <dtrn>beet</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>biodiversidade</k><def>
+	<b>EN</b>: <dtrn>biodivesity</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>biologia</k><def>
+	<b>EN</b>: <dtrn>biology</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>bioma</k><def>
+	<b>EN</b>: <dtrn>biome</dtrn><br/>
+
+  <img src='MEDIA/natureza-bioma.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>tipo de ecossistema</kref></def></def></ar>
+<ar><k>biota</k><def>
+	<b>hpn</b>:
+		<def><kref>fauna</kref></def>
+		<def><kref>flora</kref></def></def></ar>
+<ar><k>Borboleta</k><def>
+	<b>EN</b>: <dtrn>Butterfly</dtrn><br/>
+
+  <img src='MEDIA/borboleta.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos lepidópteros; da subordem dos ropalóceros; geralmente diurnos, possuem antenas com as extremidades apicais dilatadas e asas sem frênulos.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>brócolo</k><def>
+	<b>EN</b>: <dtrn>broccoli</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>burro</k><def>
+	<b>EN</b>: <dtrn>donkey</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>cabine de comando</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>cockpit</dtrn><br/>
+	<b>def</b>:
+		<def>é uma área usualmente situada na parte dianteira do aviao, de onde os pilotos a controlam</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>cabra</k><def>
+	<b>EN</b>: <dtrn>goat</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>cacau</k><def>
+	<b>EN</b>: <dtrn>cocoa</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do cacaueiro, com polpa adocicada, comestível</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Cachorro</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>Cão</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>Dog</dtrn><br/>
+	<b>def</b>:
+		<def>Animal mamífero doméstico da família dos canídeos, do gênero Canis familiaris, da qual existem diversas raças adestradas</def>	
+	<b>dom</b>:
+		<def><kref>Carnivora</kref></def></def></ar>
+<ar><k>café</k><def>
+	<b>EN</b>: <dtrn>coffee</dtrn><br/>
+	<b>def</b>:
+		<def>bebida preparada com o pó dessa semente, depois de torrada e moída</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>cágado</k><def>
+	<b>EN</b>: <dtrn>tortoise</dtrn><br/>
+	<b>def</b>:
+		<def>réptil anfíbio quelônio de água doce.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>caixa negra</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>black box</dtrn><br/>
+	<b>def</b>:
+		<def>aparelho usado para registrar mensagens enviadas e recebidas à torre</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>camaleão</k><def>
+	<b>EN</b>: <dtrn>chameleon</dtrn><br/>
+	<b>def</b>:
+		<def>réptil sáurio, de olhos grandes e salientes e língua protrátil e pegajosa com que caça os insetos de que se alimenta. (A sua pele pode mudar de cor).</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>Canguru</k><def>
+	<b>EN</b>: <dtrn>Kangaroo</dtrn><br/>
+
+  <img src='MEDIA/canguru.jpg' alt='grande'/>	<b>def</b>:
+		<def>Marsupial herbívoro da família dos macropodídeos, de que existem diversas espécies na Austrália, Tasmânia, Nova Guiné e ilhas vizinhas; os cangurus apresentam as pernas posteriores, os pés e a cauda muito desenvolvidos, o que lhes faculta a locomoção aos saltos.</def>	
+	<b>dom</b>:
+		<def><kref>Metatérios (Marssupiais)</kref></def></def></ar>
+<ar><k>Cão</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>Cachorro</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>Dog</dtrn><br/>
+	<b>def</b>:
+		<def>Animal mamífero doméstico da família dos canídeos, do gênero Canis familiaris, da qual existem diversas raças adestradas</def>	
+	<b>dom</b>:
+		<def><kref>Carnivora</kref></def></def></ar>
+<ar><k>Capivara</k><def>
+	<b>EN</b>: <dtrn>Capybara</dtrn><br/>
+	<b>def</b>:
+		<def>Animal mamífero que vive em grupos. Destaca-se por possuir corpo robusto, musculoso e coberto por uma pelagem, geralmente, marrom. As capivaras (Hydrochoerus hydrochaeris) são mamíferos herbívoros que se destacam por levarem o título de maior roedor do mundo.</def>	
+	<b>dom</b>:
+		<def><kref>Rodentia</kref></def></def></ar>
+<ar><k>Carnivora</k><def>
+	<b>EN</b>: <dtrn>Carnivora</dtrn><br/>
+	<b>def</b>:
+		<def>Apresentam pés com quatro ou cinco dedos, com garras, caninos fortes e dentes adaptados para cortar suas presas.</def>	
+	<b>dom</b>:
+		<def><kref>Carnivora</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Cão</kref></def>
+		<def><kref>Carnivora</kref></def>
+		<def><kref>Gato</kref></def></def></ar>
+<ar><k>carrinho de mão</k><def>
+	<b>EN</b>: <dtrn>wheelbarrow</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>carvalho</k><def>
+	<b>EN</b>: <dtrn>oak</dtrn><br/>
+	<b>def</b>:
+		<def>árvore de folha caduca, que pode atingir uma altura de 30-40 metros.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>castanheiro</k><def>
+	<b>EN</b>: <dtrn>chestnut</dtrn><br/>
+	<b>def</b>:
+		<def>árvore lenhosa que pode atingir mais de um milhar de anos.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>cauda</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>tail</dtrn><br/>
+	<b>def</b>:
+		<def>é a parte traseira do avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>caule</k><def>
+	<b>EN</b>: <dtrn>stem</dtrn><br/>
+	<b>def</b>:
+		<def>órgão da planta responsável pela sustentação das folhas e as estruturas de reprodução, além da condução de nutrientes, estabelecendo um contato entre as folhas e as raízes.</def>	
+	<b>dom</b>:
+		<def><kref>Plantas</kref></def></def></ar>
+<ar><k>cavalo</k><def>
+	<b>EN</b>: <dtrn>horse</dtrn><br/>
+
+  <img src='MEDIA/cavalo.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Cavalo</k><def>
+	<b>EN</b>: <dtrn>Horse</dtrn><br/>
+	<b>def</b>:
+		<def>Mamíferos quadrúpedes, do gênero Equus, que podem apresentar mais de 1,50 m de altura e pesar mais de 500 quilos. O cavalo é um animal mamífero que apresenta grande importância na história do ser humano.</def>	
+	<b>dom</b>:
+		<def><kref>Perissodactyla</kref></def></def></ar>
+<ar><k>cebola</k><def>
+	<b>EN</b>: <dtrn>onion</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>cebolinho</k><def>
+	<b>EN</b>: <dtrn>chives</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>cenoura</k><def>
+	<b>EN</b>: <dtrn>carrot</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>cereja</k><def>
+	<b>EN</b>: <dtrn>cherry</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da cerejeira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>cerveja</k><def>
+	<b>EN</b>: <dtrn>beer</dtrn><br/>
+	<b>def</b>:
+		<def>bebida alcoólica feita a partir da fermentação de cevada e lúpulo</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>Cetacea</k><def>
+	<b>EN</b>: <dtrn>Cetacea</dtrn><br/>
+	<b>def</b>:
+		<def>Subclasse de animais predominantemente marinhos, com formações aerodinâmicas perfeitamente adaptadas ao ambiente aquático, atualmente se dividem em duas subordens: Odontocetos e misticetos.</def>	
+	<b>dom</b>:
+		<def><kref>Cetacea</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Baleia</kref></def>
+		<def><kref>Cetacea</kref></def>
+		<def><kref>Golfinho</kref></def></def></ar>
+<ar><k>chá</k><def>
+	<b>EN</b>: <dtrn>tea</dtrn><br/>
+	<b>def</b>:
+		<def>Conjunto de folhas da planta do chá que são secas, mas não oxidadas, usado para infusão; infusão feita com essas folhas, geralmente de cor amarelada</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>check-in</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>check-in</dtrn><br/>
+	<b>def</b>:
+		<def>é o procedimento obrigatório a todos os passageiros confirmando a sua presença</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Chimpanzé</k><def>
+	<b>EN</b>: <dtrn>Chimpanzee</dtrn><br/>
+	<b>def</b>:
+		<def>Macaco que habita as florestas tropicais da África Central e está distribuído por toda a região.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>Chiroptera</k><def>
+	<b>EN</b>: <dtrn>Chiroptera</dtrn><br/>
+	<b>def</b>:
+		<def>São os únicos mamíferos voadores.</def>	
+	<b>dom</b>:
+		<def><kref>Chiroptera</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Chiroptera</kref></def>
+		<def><kref>Morcego</kref></def></def></ar>
+<ar><k>choco</k><def>
+	<b>EN</b>: <dtrn>cuttlefish</dtrn><br/>
+
+  <img src='MEDIA/dominiodepeixes_choco_jpg.jpg' alt='grande'/>	<b>def</b>:
+		<def>possui um corpo oval e achatado com oito braços e dois tentáculos longos</def>	
+	<b>dom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>nome_científico</b>:
+		<def>sepia officinalis</def></def></ar>
+<ar><k>chuva</k><def>
+	<b>EN</b>: <dtrn>rain</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>ciclo natural</k><def>
+	<b>EN</b>: <dtrn>natural cycle</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>Cigarra</k><def>
+	<b>EN</b>: <dtrn>Cicada</dtrn><br/>
+	<b>def</b>:
+		<def>comum aos insetos homópteros da família dos cicadídeos, notáveis pela cantoria entoada pelos machos; possui um canto característico que é ouvido frequentemente no período quente do ano.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>classe de animais</k><def>
+	<b>hpn</b>:
+		<def><kref>aves</kref></def></def></ar>
+<ar><k>clima</k><def>
+	<b>EN</b>: <dtrn>climate</dtrn><br/>
+	<b>def</b>:
+		<def>as condições meteorológicas típicas de uma determinada zona ao longo do tempo</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>condições atmosféricas</kref></def></def></ar>
+<ar><k>Coala</k><def>
+	<b>EN</b>: <dtrn>Koala</dtrn><br/>
+	<b>def</b>:
+		<def>animal vertebrado, mamífero e originário da Austrália. É herbívoro, alimenta-se de folhas de eucalipto e passa a maior parte de sua vida sobre as árvores.</def>	
+	<b>dom</b>:
+		<def><kref>Xenartros</kref></def></def></ar>
+<ar><k>cobra</k><def>
+	<b>EN</b>: <dtrn>snake</dtrn><br/>
+	<b>def</b>:
+		<def>espécies de répteis ofídios rastejantes, corpo cilíndrico e alongado, com escamas.</def>	
+	<b>dom</b>:
+		<def><kref>ofídios</kref></def></def></ar>
+<ar><k>cobra-d'água</k><def>
+	<b>EN</b>: <dtrn>water snake</dtrn><br/>
+	<b>def</b>:
+		<def>Cobra que vive na água.</def>	
+	<b>dom</b>:
+		<def><kref>ofídios</kref></def></def></ar>
+<ar><k>coco</k><def>
+	<b>EN</b>: <dtrn>coconut</dtrn><br/>
+	<b>def</b>:
+		<def>fruto produzido pelo coqueiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>codorna</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>codorniz</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>quail</dtrn><br/>
+
+  <img src='MEDIA/codorniz.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>codorniz</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>codorna</dtrn><br/>
+	<def>-- var: PT-BR</def>
+	<b>EN</b>: <dtrn>quail</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>Coelho</k><def>
+	<b>EN</b>: <dtrn>Rabbit</dtrn><br/>
+	<b>def</b>:
+		<def>Trata-se de um mamífero herbívoro que se destaca por suas longas orelhas e pernas traseiras.</def>	
+	<b>dom</b>:
+		<def><kref>Lagomorpha</kref></def></def></ar>
+<ar><k>coelho</k><def>
+	<b>EN</b>: <dtrn>rabbit</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>coentros</k><def>
+	<b>EN</b>: <dtrn>coriander</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>colheitadora</k><def>
+	<b>EN</b>: <dtrn>harvester</dtrn><br/>
+
+  <img src='MEDIA/colheitadora.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>comissário de bordo</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>flight attendant</dtrn><br/>
+	<b>def</b>:
+		<def>funcionário incumbido, a borodo de aviões comerciais de vários serviços indespensáveis</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>condições atmosféricas</k><def>
+	<b>hpn</b>:
+		<def><kref>clima</kref></def></def></ar>
+<ar><k>copiloto</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>copilot</dtrn><br/>
+	<b>def</b>:
+		<def>é um individuo que ajuda o piloto a afetuar a condução</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>couve</k><def>
+	<b>EN</b>: <dtrn>cabbage</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>couve-flor</k><def>
+	<b>EN</b>: <dtrn>cauliflower</dtrn><br/>
+
+  <img src='MEDIA/couve.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>crocodilo</k><def>
+	<b>EN</b>: <dtrn>crocodile</dtrn><br/>
+	<b>def</b>:
+		<def>grande réptil anfíbio carnívoro e muito voraz.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>dália</k><def>
+	<b>EN</b>: <dtrn>dahlia</dtrn><br/>
+	<b>def</b>:
+		<def>planta herbácea da família das asteráceas, pertencente ao género Dahlia.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>damasco</k><def>
+	<b>EN</b>: <dtrn>damascus</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do damasqueiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>dente-de-leão</k><def>
+	<b>EN</b>: <dtrn>dandelion</dtrn><br/>
+	<b>def</b>:
+		<def>planta herbácea com raízes fundas e folhas muito dentadas.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>deserto</k><def>
+	<b>EN</b>: <dtrn>desert</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>ecossistema</k><def>
+	<b>EN</b>: <dtrn>ecosystem</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>envergadura</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>wingspan</dtrn><br/>
+	<b>def</b>:
+		<def>é a máxima distancia medida paralela ao eixo lateral, de uma pinta a outra do avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>enxada</k><def>
+	<b>EN</b>: <dtrn>hoe</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>Equidna</k><def>
+	<b>EN</b>: <dtrn>Echidna</dtrn><br/>
+	<b>def</b>:
+		<def>Mamífero ovípero monotremo, originário da Oceânia, cobertos de espinhos, sem dentes e com focinho comprido.</def>	
+	<b>dom</b>:
+		<def><kref>Prototérios (Monotremados)</kref></def></def></ar>
+<ar><k>equipamentos agrícolas</k><def>
+	<b>EN</b>: <dtrn>agricultural equipment</dtrn><br/>
+	<b>def</b>:
+		<def>equipamentos de auxílio nas tarefas do campo, aumentando a agilidade e eficiência das atividades.</def>	
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>Equipamentos agrícolas</k><def>
+	<b>supdom</b>:
+		<def><kref>Quinta</kref></def>	
+	<b>voc</b>:
+		<def><kref>ancinho</kref></def>
+		<def><kref>arado</kref></def>
+		<def><kref>carrinho de mão</kref></def>
+		<def><kref>colheitadora</kref></def>
+		<def><kref>enxada</kref></def>
+		<def><kref>equipamentos agrícolas</kref></def>
+		<def><kref>grade</kref></def>
+		<def><kref>semeador</kref></def>
+		<def><kref>trator</kref></def></def></ar>
+<ar><k>ervilha</k><def>
+	<b>EN</b>: <dtrn>pea</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>Escaravelho</k><def>
+	<b>EN</b>: <dtrn>Scarab</dtrn><br/>
+
+  <img src='MEDIA/escaravelho.png' alt='grande'/>	<b>def</b>:
+		<def>nome comum a vários besouros esterqueiros, de cor negra ou escura, comumente algo grandes, que têm o clípeo expandido de modo a cobrir as partes bucais. Constituem a família dos Escarabeídeos</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>estabilizador horizontal</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>horizontal stabilizer</dtrn><br/>
+	<b>def</b>:
+		<def>fica na parte de trás da fuselagem e atua na estabilidade longitudinal da aeronave</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>estabilizador vertical</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>vertical stabilizer</dtrn><br/>
+	<b>def</b>:
+		<def>é uma estrutura aerodinamica movel incluida na empenagem do avião. Controla a estabilidade longitudinal e direcional</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Eutérios</k><def>
+	<b>EN</b>: <dtrn>Eutherians</dtrn><br/>
+	<b>def</b>:
+		<def>Mamíferos que se destacam pela presença de placentas complexas. A placenta é um órgão que surge durante a gestação e possui, entre outras, a função de garantir a troca de nutrientes entre a mãe e o filhote.</def>	
+	<b>dom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def></def></ar>
+<ar><k>Eutérios (Placentários)</k><def>
+	<b>subdom</b>:
+		<def><kref>Artiodactyla</kref></def>
+		<def><kref>Carnivora</kref></def>
+		<def><kref>Cetacea</kref></def>
+		<def><kref>Chiroptera</kref></def>
+		<def><kref>Insectivora</kref></def>
+		<def><kref>Lagomorpha</kref></def>
+		<def><kref>Perissodactyla</kref></def>
+		<def><kref>Primata</kref></def>
+		<def><kref>Rodentia</kref></def>
+		<def><kref>Sirenia</kref></def>
+		<def><kref>Xenartros</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>Eutérios</kref></def></def></ar>
+<ar><k>fauna</k><def>
+	<b>EN</b>: <dtrn>fauna</dtrn><br/>
+
+  <img src='MEDIA/natureza-fauna.jpg' alt='grande'/>	<b>def</b>:
+		<def>conjunto de animais de uma determinada região ou período</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>biota</kref></def></def></ar>
+<ar><k>feijão</k><def>
+	<b>EN</b>: <dtrn>bean</dtrn><br/>
+
+  <img src='MEDIA/feijoeiro.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Horta</kref></def>	
+	<b>hol</b>:
+		<def><kref>feijoeiro</kref></def>	
+	<b>hpm</b>:
+		<def>feijão branco</def>
+		<def>feijão frade</def>
+		<def>feijão preto</def>
+		<def>feijão verde</def>
+		<def>feijão vermelho</def></def></ar>
+<ar><k>feijoeiro</k><def>
+	<b>mer</b>:
+		<def><kref>feijão</kref></def></def></ar>
+<ar><k>fertilizante</k><def>
+	<b>EN</b>: <dtrn>fertilizer</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>flapes</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>flaps</dtrn><br/>
+	<b>def</b>:
+		<def>é uma especie de extensão das asas e servem para dar maior sustentação ao avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>flora</k><def>
+	<b>EN</b>: <dtrn>flora</dtrn><br/>
+
+  <img src='MEDIA/natureza-flora.jpg' alt='grande'/>	<b>def</b>:
+		<def>conjunto de plantas de uma determinada região ou período</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>biota</kref></def></def></ar>
+<ar><k>flores</k><def>
+	<b>EN</b>: <dtrn>flowers</dtrn><br/>
+
+  <img src='MEDIA/natureza-flores.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>Flores</k><def>
+	<b>supdom</b>:
+		<def><kref>Plantas</kref></def>	
+	<b>voc</b>:
+		<def><kref>dália</kref></def>
+		<def><kref>dente-de-leão</kref></def>
+		<def><kref>girassol</kref></def>
+		<def><kref>margarida</kref></def>
+		<def><kref>orquídea</kref></def>
+		<def><kref>rosa</kref></def>
+		<def><kref>tulipa</kref></def></def></ar>
+<ar><k>floresta</k><def>
+	<b>EN</b>: <dtrn>forest</dtrn><br/>
+
+  <img src='MEDIA/natureza-floresta.jpg' alt='grande'/>	<b>def</b>:
+		<def>uma extensa área da terra coberta por árvores</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>vegetação densa</kref></def></def></ar>
+<ar><k>folha</k><def>
+	<b>EN</b>: <dtrn>leaf</dtrn><br/>
+
+  <img src='MEDIA/folhas.jpg' alt='grande'/>	<b>def</b>:
+		<def>estrutura vegetal de crescimento limitado e de cor verde. São especializadas, principalmente, na realização da fotossíntese.</def>	
+	<b>dom</b>:
+		<def><kref>Plantas</kref></def></def></ar>
+<ar><k>Formiga</k><def>
+	<b>EN</b>: <dtrn>Ant</dtrn><br/>
+
+  <img src='MEDIA/formiga.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos himenópteros; com três pares de patas articuladas e o corpo dividido em três partes: cabeça, tórax e abdómen. Relativamente ao tamanho podem variar entre 2 mm e 25 mm.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto sem asas</kref></def></def></ar>
+<ar><k>fotossíntese</k><def>
+	<b>EN</b>: <dtrn>photosynthesis</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>framboesa</k><def>
+	<b>EN</b>: <dtrn>raspberry</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da framboeseira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>frutas</k><def>
+	<b>supdom</b>:
+		<def><kref>alimentos</kref></def>	
+	<b>voc</b>:
+		<def><kref>abacate</kref></def>
+		<def><kref>abrunho</kref></def>
+		<def><kref>ameixa</kref></def>
+		<def><kref>amora</kref></def>
+		<def><kref>ananas</kref></def>
+		<def><kref>banana</kref></def>
+		<def><kref>cacau</kref></def>
+		<def><kref>cereja</kref></def>
+		<def><kref>coco</kref></def>
+		<def><kref>damasco</kref></def>
+		<def><kref>framboesa</kref></def>
+		<def><kref>groselha</kref></def>
+		<def><kref>kiwi</kref></def>
+		<def><kref>laranja</kref></def>
+		<def><kref>lichia</kref></def>
+		<def><kref>lima</kref></def>
+		<def><kref>maçã</kref></def>
+		<def><kref>manga</kref></def>
+		<def><kref>maracujá</kref></def>
+		<def><kref>marmelo</kref></def>
+		<def><kref>melancia</kref></def>
+		<def><kref>melão</kref></def>
+		<def><kref>meloa</kref></def>
+		<def><kref>mirtilo</kref></def>
+		<def><kref>morango</kref></def>
+		<def><kref>noz</kref></def>
+		<def><kref>pêra</kref></def>
+		<def><kref>pêssego</kref></def>
+		<def><kref>romã</kref></def>
+		<def><kref>tangerina</kref></def>
+		<def><kref>uva</kref></def></def></ar>
+<ar><k>fuselagem</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>fuselage</dtrn><br/>
+	<b>def</b>:
+		<def>abriga a tripulação, passageiros ou carga</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Gafanhoto</k><def>
+	<b>EN</b>: <dtrn>Locust</dtrn><br/>
+	<b>def</b>:
+		<def>os gafanhotos são artrópodes e, portanto, apresentam o corpo revestido por um exoesqueleto. Essa estrutura, que atua na proteção do animal, impede seu crescimento, portanto, deve ser trocada de tempos em tempos.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>galinha</k><def>
+	<b>EN</b>: <dtrn>chicken</dtrn><br/>
+
+  <img src='MEDIA/galinha.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def>
+⋄	<b>EN</b>: <dtrn>chicken</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>galinha d'angola</k><def>
+	<b>EN</b>: <dtrn>guinea fowl</dtrn><br/>
+
+  <img src='MEDIA/galinhadangola.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>galo</k><def>
+	<b>EN</b>: <dtrn>bump</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Gambá</k><def>
+	<b>EN</b>: <dtrn>Opossum</dtrn><br/>
+	<b>def</b>:
+		<def>Esses animais se destacam por ter um corpo maciço, focinho alongado, membros curtos, orelhas desenvolvidas e uma cauda preênsil, semelhante ao corpo de um roedor. Gambás são animais solitários, arborícolas ou terrestres e de hábitos noturnos.</def>	
+	<b>dom</b>:
+		<def><kref>Metatérios (Marssupiais)</kref></def></def></ar>
+<ar><k>gás de efeito estufa</k><def>
+	<b>EN</b>: <dtrn>greenhouse gas</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>Gato</k><def>
+	<b>EN</b>: <dtrn>Cat</dtrn><br/>
+	<b>def</b>:
+		<def>Mamífero carnívoro de pequeno porte ( Felis catus ), da família dos felídeos, originário da África e da Ásia, digitígrado, de unhas retráteis, descendente do gato selvagem, domesticado pelo homem há milhares de anos, considerado de grande utilidade para a destruição dos ratos.</def>	
+	<b>dom</b>:
+		<def><kref>Carnivora</kref></def></def></ar>
+<ar><k>geologia</k><def>
+	<b>EN</b>: <dtrn>geology</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>girassol</k><def>
+	<b>EN</b>: <dtrn>sunflower</dtrn><br/>
+	<b>def</b>:
+		<def>planta originária da América do Norte que possui a particularidade de ser heliotrópica.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>Golfinho</k><def>
+	<b>EN</b>: <dtrn>Dolphin</dtrn><br/>
+	<b>def</b>:
+		<def>Mamífero marinho da família dos cetáceos, que vive em cardumes em todos os mares e se alimenta de peixes.</def>	
+	<b>dom</b>:
+		<def><kref>Cetacea</kref></def></def></ar>
+<ar><k>Gorila</k><def>
+	<b>EN</b>: <dtrn>Gorilla</dtrn><br/>
+	<b>def</b>:
+		<def>Mamíferos primatas pertencentes ao gênero Gorilla, endêmicos das florestas tropicais do centro da África.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>grade</k><def>
+	<b>EN</b>: <dtrn>grid</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>Grilo</k><def>
+	<b>EN</b>: <dtrn>Cricket</dtrn><br/>
+
+  <img src='MEDIA/grilo.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos ortópteros da família dos grilídeos, que geralmente possuem coloração escura e produzem som através de aparelho musical formado pelas nervuras das asas anteriores dos machos.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>groselha</k><def>
+	<b>EN</b>: <dtrn>gooseberry</dtrn><br/>
+	<b>def</b>:
+		<def>fruto de várias plantas conhecidas como groselheira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>horizonte artificial</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>artificial horizont</dtrn><br/>
+	<b>def</b>:
+		<def>é um instrumento que mostra a altitude</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>horta</k><def>
+	<b>EN</b>: <dtrn>vegetable garden</dtrn><br/>
+	<b>def</b>:
+		<def>terreno onde se cultivam hortaliças, legumes e etc.</def>	
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>Horta</k><def>
+	<b>supdom</b>:
+		<def><kref>Quinta</kref></def>	
+	<b>voc</b>:
+		<def><kref>abóbora</kref></def>
+		<def><kref>alface</kref></def>
+		<def><kref>alho</kref></def>
+		<def><kref>alho francês</kref></def>
+		<def><kref>batata</kref></def>
+		<def><kref>beterraba</kref></def>
+		<def><kref>brócolo</kref></def>
+		<def><kref>cebola</kref></def>
+		<def><kref>cebolinho</kref></def>
+		<def><kref>cenoura</kref></def>
+		<def><kref>coentros</kref></def>
+		<def><kref>couve</kref></def>
+		<def><kref>couve-flor</kref></def>
+		<def><kref>ervilha</kref></def>
+		<def><kref>feijão</kref></def>
+		<def><kref>horta</kref></def>
+		<def><kref>hortelã</kref></def>
+		<def><kref>manjericão</kref></def>
+		<def><kref>milho</kref></def>
+		<def><kref>nabo</kref></def>
+		<def><kref>oregãos</kref></def>
+		<def><kref>pepino</kref></def>
+		<def><kref>pimento</kref></def>
+		<def><kref>salsa</kref></def>
+		<def><kref>tomate</kref></def>
+		<def><kref>tomilho</kref></def></def></ar>
+<ar><k>hortelã</k><def>
+	<b>EN</b>: <dtrn>mint</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>iguana</k><def>
+	<b>EN</b>: <dtrn>iguana</dtrn><br/>
+	<b>def</b>:
+		<def>réptil sáurio herbívoro, encontrado na América Central e Meridional, que chega a atingir 1,50 m de comprimento, e que tem uma crista dorsal com escamas pontiaguda.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>Inscetos</k><def>
+	<b>supdom</b>:
+		<def><kref>Animais</kref></def>	
+	<b>voc</b>:
+		<def><kref>Abelha</kref></def>
+		<def><kref>Barata</kref></def>
+		<def><kref>Besouro</kref></def>
+		<def><kref>Borboleta</kref></def>
+		<def><kref>Cigarra</kref></def>
+		<def><kref>Escaravelho</kref></def>
+		<def><kref>Formiga</kref></def>
+		<def><kref>Gafanhoto</kref></def>
+		<def><kref>Grilo</kref></def>
+		<def><kref>Joaninha</kref></def>
+		<def><kref>Libelinha</kref></def>
+		<def><kref>Minhoca</kref></def>
+		<def><kref>Mosca</kref></def>
+		<def><kref>Mosquito</kref></def>
+		<def><kref>Saltão</kref></def>
+		<def><kref>Traça</kref></def>
+		<def><kref>Vespa</kref></def>
+		<def><kref>Vespa Asiática</kref></def></def></ar>
+<ar><k>Insectivora</k><def>
+	<b>EN</b>: <dtrn>Insectivora</dtrn><br/>
+	<b>def</b>:
+		<def>Animal que se nutre de insetos.</def>	
+	<b>dom</b>:
+		<def><kref>Insectivora</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Insectivora</kref></def>
+		<def><kref>Papa-formigas</kref></def></def></ar>
+<ar><k>Insecto com asas</k><def>
+	<b>hpn</b>:
+		<def><kref>Abelha</kref></def>
+		<def><kref>Barata</kref></def>
+		<def><kref>Besouro</kref></def>
+		<def><kref>Borboleta</kref></def>
+		<def><kref>Cigarra</kref></def>
+		<def><kref>Escaravelho</kref></def>
+		<def><kref>Gafanhoto</kref></def>
+		<def><kref>Grilo</kref></def>
+		<def><kref>Joaninha</kref></def>
+		<def><kref>Libelinha</kref></def>
+		<def><kref>Mosca</kref></def>
+		<def><kref>Mosquito</kref></def>
+		<def><kref>Traça</kref></def>
+		<def><kref>Vespa</kref></def>
+		<def><kref>Vespa Asiática</kref></def></def></ar>
+<ar><k>Insecto sem asas</k><def>
+	<b>hpn</b>:
+		<def><kref>Formiga</kref></def>
+		<def><kref>Minhoca</kref></def>
+		<def><kref>Saltão</kref></def></def></ar>
+<ar><k>jabuti</k><def>
+	<b>EN</b>: <dtrn>tortoise</dtrn><br/>
+	<b>def</b>:
+		<def>tartarugas terrestres encontradas na América do Sul.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>Joaninha</k><def>
+	<b>EN</b>: <dtrn>Ladybug</dtrn><br/>
+	<b>def</b>:
+		<def>comum aos besouros da família dos coccinelídeos, de pequeno tamanho, corpo semiesférico, cabeça escondida pelo protórax e élitros de cores vivas em desenhos variados.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>kiwi</k><def>
+	<b>EN</b>: <dtrn>kiwi</dtrn><br/>
+	<b>def</b>:
+		<def>fruto tropical, de origem asiática, de formato oval, cor castanha e casca pilosa, de polpa comestível, geralmente verde, de sabor agridoce e com pequenas sementes pretas</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>lagarto</k><def>
+	<b>EN</b>: <dtrn>lizard</dtrn><br/>
+	<b>def</b>:
+		<def>réptil sáurio, de cabeça oval e corpo quase cilíndrico, muito ágil, e de muita utilidade para a agricultura, por se alimentar de insetos.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>Lagomorpha</k><def>
+	<b>EN</b>: <dtrn>Lagomorpha</dtrn><br/>
+	<b>def</b>:
+		<def>Estão no grupo dos coelhos, se diferenciando dos demais roedores por possuírem quatro dentes incisivos superiores.</def>	
+	<b>dom</b>:
+		<def><kref>Lagomorpha</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Coelho</kref></def>
+		<def><kref>Lagomorpha</kref></def>
+		<def><kref>Lebre</kref></def></def></ar>
+<ar><k>laranja</k><def>
+	<b>EN</b>: <dtrn>orange</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da laranjeira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>laranjeira</k><def>
+	<b>EN</b>: <dtrn>orange tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore cítrica da família das rutáceas.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>lavandisca</k><def>
+	<b>PT</b>: <dtrn>alvéola</dtrn><br/>
+	<b>EN</b>: <dtrn>wagtail</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>Lebre</k><def>
+	<b>EN</b>: <dtrn>Hare</dtrn><br/>
+	<b>def</b>:
+		<def>Designação dada a diversos mamíferos lagomorfos da família dos leporídeos, semelhantes aos coelhos, mas de maior dimensão, com orelhas compridas e de extremidade preta, extremamente velozes na corrida.</def>	
+	<b>dom</b>:
+		<def><kref>Lagomorpha</kref></def></def></ar>
+<ar><k>leite</k><def>
+	<b>EN</b>: <dtrn>milk</dtrn><br/>
+	<b>def</b>:
+		<def>líquido fisiológico branco, opaco, secretado pelas glândulas mamárias das fêmeas dos mamíferos</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>leme</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>rudder</dtrn><br/>
+	<b>def</b>:
+		<def>é um dispositivo de controlo de direção do avião e consiste em desviar o fluxo de ar</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Lémure</k><def>
+	<b>EN</b>: <dtrn>Lemur</dtrn><br/>
+	<b>def</b>:
+		<def>Primatas de Madagascar da ordem Lemuriforme. Sendo primata, tem características semelhantes aos macacos. Existem espécies de lêmures herbívoros e onívoros. Todos possuem polegar opositor e unhas em vez de garras.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>Libelinha</k><def>
+	<b>EN</b>: <dtrn>Dragonfly</dtrn><br/>
+
+  <img src='MEDIA/libelinha.png' alt='grande'/>	<b>def</b>:
+		<def>designação dada a várias espécies de insectos carnívoros da ordem dos odonatos, cujos adultos têm cabeça arredondada, olhos grandes, corpo estreito e dois pares de asas transparentes e alongadas.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>lichia</k><def>
+	<b>EN</b>: <dtrn>lichee</dtrn><br/>
+	<b>def</b>:
+		<def>fruta de origem chinesa e é uma excelente fonte de vitamina C, ferro, cálcio, fibras e potássio.</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>licor</k><def>
+	<b>EN</b>: <dtrn>liquor</dtrn><br/>
+	<b>def</b>:
+		<def>bebida açucarada que não é fermentada, cuja base é o álcool ou a aguardente</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>lima</k><def>
+	<b>EN</b>: <dtrn>lime</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da limeira, arredondado e esverdeado.</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>limoeiro</k><def>
+	<b>EN</b>: <dtrn>lemon tree</dtrn><br/>
+	<b>def</b>:
+		<def>planta relativamente pequena e de copa arredondada.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>lula</k><def>
+	<b>EN</b>: <dtrn>squid</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_lula_jpg.jpg' alt='grande'/>	<b>def</b>:
+		<def>possui um corpo alongado e cilíndrico</def>	
+	<b>dom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>nome_científico</b>:
+		<def>loligo vulgaris</def></def></ar>
+<ar><k>maçã</k><def>
+	<b>EN</b>: <dtrn>apple</dtrn><br/>
+	<b>def</b>:
+		<def>Fruto da macieira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Mamífero</k><def>
+	<b>EN</b>: <dtrn>Mammal</dtrn><br/>
+	<b>def</b>:
+		<def>Animais que, entre outras características, destacam-se pela presença de pelos em seu corpo e pela capacidade de produzir leite para alimentar seus filhotes. Os mamíferos são animais vertebrados que se destacam pela presença de pelos e glândulas mamárias.</def>	
+	<b>dom</b>:
+		<def><kref>Mamíferos</kref></def></def></ar>
+<ar><k>Mamíferos</k><def>
+	<b>subdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>
+		<def><kref>Metatérios (Marssupiais)</kref></def>
+		<def><kref>Prototérios (Monotremados)</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>Mamífero</kref></def></def></ar>
+<ar><k>manche</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>joystick</dtrn><br/>
+	<b>def</b>:
+		<def>é uma alavanca que controla a subida e a descida</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>manete</k><def>
+	<b>PT</b>: <dtrn>manete de avião</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>airplane handle</dtrn><br/>
+	<b>def</b>:
+		<def>pequena alavanca de comando para acionar certas partes de uma máquina</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>manete de avião</k><def>
+	<def>-- var: PT-PT</def>
+	<b>PT</b>: <dtrn>manete</dtrn><br/>
+	<b>EN</b>: <dtrn>airplane handle</dtrn><br/>
+	<b>def</b>:
+		<def>pequena alavanca de comando para acionar certas partes de uma máquina</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>manga</k><def>
+	<b>EN</b>: <dtrn>mango</dtrn><br/>
+	<b>def</b>:
+		<def>fruta da mangueira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>manjericão</k><def>
+	<b>EN</b>: <dtrn>basil</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>maracujá</k><def>
+	<b>EN</b>: <dtrn>passionfruit</dtrn><br/>
+	<b>def</b>:
+		<def>designação comum a várias plantas trepadeiras da família das passifloráceas; fruto comestível dessa planta</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>maré</k><def>
+	<b>EN</b>: <dtrn>tide</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>margarida</k><def>
+	<b>EN</b>: <dtrn>daisy</dtrn><br/>
+	<b>def</b>:
+		<def>uma planta vivaz da família das Asteraceae.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>marmelo</k><def>
+	<b>EN</b>: <dtrn>quince</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do marmeleiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>melancia</k><def>
+	<b>EN</b>: <dtrn>watermelon</dtrn><br/>
+	<b>def</b>:
+		<def>Planta cucurbitácea cultivada nos países mediterrânicos pelo seu fruto, de polpa vermelha muito suculenta e refrescante</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>melão</k><def>
+	<b>EN</b>: <dtrn>melon</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do meloeiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>meloa</k><def>
+	<b>EN</b>: <dtrn>melon</dtrn><br/>
+	<b>def</b>:
+		<def>melão pequeno e arredondado, de casca rugosa e polpa vermelha alaranjada, muito doce</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>melro</k><def>
+	<b>EN</b>: <dtrn>blackbird</dtrn><br/>
+
+  <img src='MEDIA/melro.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>Metatérios</k><def>
+	<b>EN</b>: <dtrn>Metatheries</dtrn><br/>
+	<b>def</b>:
+		<def>Os metatérios, ou mamíferos de bolsa, são caracterizados pela presença de uma bolsa materna (marsúpio) ventral ou posterior, onde os filhotes completam o seu desenvolvimento.</def>	
+	<b>dom</b>:
+		<def><kref>Metatérios (Marssupiais)</kref></def></def></ar>
+<ar><k>Metatérios (Marssupiais)</k><def>
+	<b>supdom</b>:
+		<def><kref>Mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>Canguru</kref></def>
+		<def><kref>Gambá</kref></def>
+		<def><kref>Metatérios</kref></def></def></ar>
+<ar><k>mexilhão</k><def>
+	<b>EN</b>: <dtrn>mussel</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_mexilhao_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>nome_científico</b>:
+		<def>mytilus edulis</def></def></ar>
+<ar><k>microorganismos</k><def>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>milho</k><def>
+	<b>EN</b>: <dtrn>corn</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>Minhoca</k><def>
+	<b>EN</b>: <dtrn>Worm</dtrn><br/>
+
+  <img src='MEDIA/minhoca.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos animais anelídeos, da classe dos oligoquetas, os quais são cavadores incessantes de túneis e galerias e apresentam colorido cinzento ou róseo.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto sem asas</kref></def></def></ar>
+<ar><k>mirtilo</k><def>
+	<b>EN</b>: <dtrn>blueberry</dtrn><br/>
+	<b>def</b>:
+		<def>subarbusto de até 60 cm e pequenas bagas globosas, azuladas</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Moluscos</k><def>
+	<b>supdom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>voc</b>:
+		<def><kref>choco</kref></def>
+		<def><kref>lula</kref></def>
+		<def><kref>mexilhão</kref></def>
+		<def><kref>ostra</kref></def>
+		<def><kref>polvo-comum</kref></def></def></ar>
+<ar><k>montanha</k><def>
+	<b>EN</b>: <dtrn>mountain</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>morango</k><def>
+	<b>EN</b>: <dtrn>strawberry</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do morangueiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Morcego</k><def>
+	<b>EN</b>: <dtrn>Bat</dtrn><br/>
+
+  <img src='MEDIA/morcego.jpg' alt='grande'/>	<b>def</b>:
+		<def>Mamíferos quirópteros nocturnos , insectívoros , parecidos com o rato, mas com os dedos das mãos muito compridos e unidos por uma membrana que lhe permite voar.</def>	
+	<b>dom</b>:
+		<def><kref>Chiroptera</kref></def></def></ar>
+<ar><k>Mosca</k><def>
+	<b>EN</b>: <dtrn>Fly</dtrn><br/>
+
+  <img src='MEDIA/mosca.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos dípteros; esquizóforos da subordem dos ciclórrafos, dividem se em caliptrados e acaliptrados e numerosas famílias.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>Mosquito</k><def>
+	<b>EN</b>: <dtrn>Mosquito</dtrn><br/>
+
+  <img src='MEDIA/mosquito.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos dípteros, de pequeno tamanho, são da família dos culicídeos, geralmente vetores de conhecidas doenças do homem; bicuda, carapaná, carapanã, fincão, fincudo, meruçoca, moroçoca, mosquito-pernilongo, muriçoca, muruçoca, perereca, pernilongo, sovela.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>motor</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>engine</dtrn><br/>
+	<b>def</b>:
+		<def>é utilizado para a propulsão do avião mediante a geração de uma força de empuxo</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>nabo</k><def>
+	<b>EN</b>: <dtrn>turnip</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>nariz</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>nose</dtrn><br/>
+	<b>def</b>:
+		<def>parte da fuselagem que se projeta além do bordo de ataque da asa</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Natureza</k><def>
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>água</kref></def>
+		<def><kref>animais</kref></def>
+		<def><kref>árvore</kref></def>
+		<def><kref>biodiversidade</kref></def>
+		<def><kref>biologia</kref></def>
+		<def><kref>bioma</kref></def>
+		<def><kref>chuva</kref></def>
+		<def><kref>ciclo natural</kref></def>
+		<def><kref>clima</kref></def>
+		<def><kref>deserto</kref></def>
+		<def><kref>ecossistema</kref></def>
+		<def><kref>fauna</kref></def>
+		<def><kref>fertilizante</kref></def>
+		<def><kref>flora</kref></def>
+		<def><kref>flores</kref></def>
+		<def><kref>floresta</kref></def>
+		<def><kref>fotossíntese</kref></def>
+		<def><kref>gás de efeito estufa</kref></def>
+		<def><kref>geologia</kref></def>
+		<def><kref>maré</kref></def>
+		<def><kref>microorganismos</kref></def>
+		<def><kref>montanha</kref></def>
+		<def><kref>neve</kref></def>
+		<def><kref>oceano</kref></def>
+		<def><kref>plantas</kref></def>
+		<def><kref>poluição</kref></def>
+		<def><kref>rio</kref></def>
+		<def><kref>rochas</kref></def>
+		<def><kref>sol</kref></def>
+		<def><kref>solo</kref></def>
+		<def><kref>tempestade</kref></def>
+		<def><kref>terremoto</kref></def>
+		<def><kref>trovoada</kref></def></def></ar>
+<ar><k>neve</k><def>
+	<b>EN</b>: <dtrn>snow</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>noz</k><def>
+	<b>EN</b>: <dtrn>nut</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da nogueira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>oceano</k><def>
+	<b>EN</b>: <dtrn>ocean</dtrn><br/>
+
+  <img src='MEDIA/natureza-oceano.jpg' alt='grande'/>	<b>def</b>:
+		<def>a vasta extensão de água salgada que cobre a maior parte da superfície da terra</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>ofídios</k><def>
+	<b>supdom</b>:
+		<def><kref>répteis</kref></def>	
+	<b>voc</b>:
+		<def><kref>anaconda</kref></def>
+		<def><kref>cobra</kref></def>
+		<def><kref>cobra-d'água</kref></def>
+		<def><kref>serpente</kref></def>
+		<def><kref>víbora</kref></def></def></ar>
+<ar><k>oliveira</k><def>
+	<b>EN</b>: <dtrn>olive tree</dtrn><br/>
+	<b>def</b>:
+		<def>árvore da família das oleáceas.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>Orangotango</k><def>
+	<b>EN</b>: <dtrn>Orangutan</dtrn><br/>
+	<b>def</b>:
+		<def>Género de exclusivamente três espécies asiáticas de hominídeos. Nativos da Indonésia e da Malásia, os orangotangos são encontrados somente nas florestas tropicais de Bornéu e da Sumatra.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>oregãos</k><def>
+	<b>EN</b>: <dtrn>oregano</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>Ornitorrinco</k><def>
+	<b>EN</b>: <dtrn>Platypus</dtrn><br/>
+
+  <img src='MEDIA/ornitorrinco.jpg' alt='grande'/>	<b>def</b>:
+		<def>mamífero australiano com características bem peculiares, como a postura de ovos e a presença de um bico e de ferrões nas patas ligados à glândula de veneno.</def>	
+	<b>dom</b>:
+		<def><kref>Prototérios (Monotremados)</kref></def></def></ar>
+<ar><k>orquídea</k><def>
+	<b>EN</b>: <dtrn>orchid</dtrn><br/>
+	<b>def</b>:
+		<def>plantas que compõem a família Orchidaceae.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>ostra</k><def>
+	<b>EN</b>: <dtrn>oyster</dtrn><br/>
+
+  <img src='MEDIA/domiopeixes_ostra_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>nome_científico</b>:
+		<def>ostreidae</def></def></ar>
+<ar><k>ovelha</k><def>
+	<b>EN</b>: <dtrn>sheep</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Papa-formigas</k><def>
+	<b>EN</b>: <dtrn>Anteater</dtrn><br/>
+	<b>def</b>:
+		<def>Apresenta um focinho que termina por uma pequena boca circular no interior da qual se encontra uma comprida língua retráctil. Tem o corpo longitudinalmente alongado, uma grande cauda com pelos fortes e compridos e patas com grandes e poderosas garras nas extremidades anteriores.</def>	
+	<b>dom</b>:
+		<def><kref>Insectivora</kref></def></def></ar>
+<ar><k>pato</k><def>
+	<b>EN</b>: <dtrn>duck</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Peixe-boi-marinho</k><def>
+	<b>EN</b>: <dtrn>Marine manatee</dtrn><br/>
+	<b>def</b>:
+		<def>Mamífero aquático da ordem dos Sirênios, da família Trichechidae. Num ambiente saudável e livre de ameaças, ele pode viver de 50 a 60 anos.</def>	
+	<b>dom</b>:
+		<def><kref>Sirenia</kref></def></def></ar>
+<ar><k>Peixes</k><def>
+	<b>subdom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>Peixes de Portugal</k><def>
+	<b>subdom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Peixes</kref></def>	
+	<b>voc</b>:
+		<def><kref>pescada branca</kref></def>
+		<def><kref>robalo</kref></def>
+		<def><kref>salmonete</kref></def>
+		<def><kref>sardinha</kref></def>
+		<def><kref>sargo</kref></def>
+		<def><kref>tamboril</kref></def></def></ar>
+<ar><k>pepino</k><def>
+	<b>EN</b>: <dtrn>cucumber</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>pêra</k><def>
+	<b>EN</b>: <dtrn>pear</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da pereira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>Perissodactyla</k><def>
+	<b>EN</b>: <dtrn>Perissodactyla</dtrn><br/>
+	<b>def</b>:
+		<def>São mamíferos terrestres, herbívoros e dotados de cascos, com um número ímpar de dedos nas patas.</def>	
+	<b>dom</b>:
+		<def><kref>Perissodactyla</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Cavalo</kref></def>
+		<def><kref>Perissodactyla</kref></def></def></ar>
+<ar><k>peru</k><def>
+	<b>EN</b>: <dtrn>turkey</dtrn><br/>
+
+  <img src='MEDIA/peru.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que não voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>pescada branca</k><def>
+	<b>EN</b>: <dtrn>hake</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>Merluccius merluccius</def></def></ar>
+<ar><k>pêssego</k><def>
+	<b>EN</b>: <dtrn>peach</dtrn><br/>
+	<b>def</b>:
+		<def>fruto do pessegueiro</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>piloto</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>pilot</dtrn><br/>
+	<b>def</b>:
+		<def>opera o avião, controlando todos os seus sistemas e navegando de um ponto ao outro</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>pimento</k><def>
+	<b>EN</b>: <dtrn>pepper</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>pinheiro</k><def>
+	<b>EN</b>: <dtrn>pine tree</dtrn><br/>
+	<b>def</b>:
+		<def>designação dada a várias árvores do género Pinus, da família das pináceas.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>planta</k><def>
+	<b>hpn</b>:
+		<def><kref>árvore</kref></def></def></ar>
+<ar><k>Plantas</k><def>
+	<b>subdom</b>:
+		<def><kref>Árvores</kref></def>
+		<def><kref>Flores</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>voc</b>:
+		<def><kref>caule</kref></def>
+		<def><kref>folha</kref></def>
+		<def><kref>raíz</kref></def>
+		<def><kref>ramo</kref></def></def></ar>
+<ar><k>plantas</k><def>
+	<b>EN</b>: <dtrn>plants</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>poluição</k><def>
+	<b>EN</b>: <dtrn>pollution</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>polvo-comum</k><def>
+	<b>EN</b>: <dtrn>octopus</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_polvo_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Moluscos</kref></def>	
+	<b>nome_científico</b>:
+		<def>octupus vulgar</def></def></ar>
+<ar><k>pombo</k><def>
+	<b>EN</b>: <dtrn>pigeon</dtrn><br/>
+
+  <img src='MEDIA/pombo.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>porão</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>basement</dtrn><br/>
+	<b>def</b>:
+		<def>é o local na parte inferior do avião onde se colocam as bagagens</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>porco</k><def>
+	<b>EN</b>: <dtrn>pig</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>Porco</k><def>
+	<b>EN</b>: <dtrn>Pig</dtrn><br/>
+	<b>def</b>:
+		<def>Quadrúpede mamífero doméstico da família dos suídeos, ordem dos artiodáctilos.</def>	
+	<b>dom</b>:
+		<def><kref>Artiodactyla</kref></def></def></ar>
+<ar><k>Preguiça</k><def>
+	<b>EN</b>: <dtrn>Sloth</dtrn><br/>
+	<b>def</b>:
+		<def>São animais mamíferos encontrados apenas na América do Sul e Central. Fazem parte da superordem Xenarthra (a qual é composta também pelos tatus e tamanduás) e destacam-se por apresentarem hábito bastante lento, daí seu nome.</def>	
+	<b>dom</b>:
+		<def><kref>Xenartros</kref></def></def></ar>
+<ar><k>Primata</k><def>
+	<b>EN</b>: <dtrn>Primate</dtrn><br/>
+	<b>def</b>:
+		<def>Ordem de animais da Classe dos mamíferos, que compreende os grupos popularmente chamados de macacos, e também os símios, os lêmures, os lóris, os tarsos e os humanos.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Antropoides</kref></def>
+		<def><kref>Chimpanzé</kref></def>
+		<def><kref>Gorila</kref></def>
+		<def><kref>Lémure</kref></def>
+		<def><kref>Orangotango</kref></def>
+		<def><kref>Primata</kref></def>
+		<def><kref>Prossímios</kref></def></def></ar>
+<ar><k>profundor</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>elevator</dtrn><br/>
+	<b>def</b>:
+		<def>permite que o avião se movimente para cima e para baixo. Ao defletir o profundor para bauixo, há uma elevação do nariz do avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Prossímios</k><def>
+	<b>EN</b>: <dtrn>Prosimians</dtrn><br/>
+	<b>def</b>:
+		<def>Os prossímios possuem pequeno porte, são animais noturnos com focinhos longos, cérebro menores quando comparados à outra subordem, podendo apresentar visão não completamente frontal (lêmures) e frontal (tarsos) e não fazem parte do grupo conhecido como macacos.</def>	
+	<b>dom</b>:
+		<def><kref>Primata</kref></def></def></ar>
+<ar><k>Prototérios</k><def>
+	<b>EN</b>: <dtrn>Prototheria</dtrn><br/>
+	<b>def</b>:
+		<def>Subclasse de animais mamíferos que compreendem várias ordens extintas e somente uma ordem vivente, que se destinguem dos demais mamíferos por serem ovíparos e não vivíparos.</def>	
+	<b>dom</b>:
+		<def><kref>Prototérios (Monotremados)</kref></def></def></ar>
+<ar><k>Prototérios (Monotremados)</k><def>
+	<b>supdom</b>:
+		<def><kref>Mamíferos</kref></def>	
+	<b>voc</b>:
+		<def><kref>Equidna</kref></def>
+		<def><kref>Ornitorrinco</kref></def>
+		<def><kref>Prototérios</kref></def></def></ar>
+<ar><k>Quinta</k><def>
+	<b>subdom</b>:
+		<def><kref>Animais da quinta</kref></def>
+		<def><kref>Equipamentos agrícolas</kref></def>
+		<def><kref>Horta</kref></def>	
+	<b>supdom</b>:
+		<def><kref>TOP</kref></def></def></ar>
+<ar><k>raíz</k><def>
+	<b>EN</b>: <dtrn>root</dtrn><br/>
+	<b>def</b>:
+		<def>órgão encontrado em plantas vasculares.</def>	
+	<b>dom</b>:
+		<def><kref>Plantas</kref></def></def></ar>
+<ar><k>ramo</k><def>
+	<b>EN</b>: <dtrn>branch</dtrn><br/>
+	<b>def</b>:
+		<def>parte que sai do tronco de uma árvore ou arbusto.</def>	
+	<b>dom</b>:
+		<def><kref>Plantas</kref></def></def></ar>
+<ar><k>Rato</k><def>
+	<b>EN</b>: <dtrn>Rat</dtrn><br/>
+	<b>def</b>:
+		<def>Mamífero roedor, da família dos murídeos, grandemente danoso às despensas e celeiros, de origem asiática.</def>	
+	<b>dom</b>:
+		<def><kref>Rodentia</kref></def></def></ar>
+<ar><k>refrigerante</k><def>
+	<b>EN</b>: <dtrn>soft drink</dtrn><br/>
+	<b>def</b>:
+		<def>bebida não alcoólica e não fermentada, fabricada industrialmente</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>répteis</k><def>
+	<b>subdom</b>:
+		<def><kref>anfíbios</kref></def>
+		<def><kref>ofídios</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Animais</kref></def></def></ar>
+<ar><k>rio</k><def>
+	<b>EN</b>: <dtrn>river</dtrn><br/>
+
+  <img src='MEDIA/natureza-rio.jpg' alt='grande'/>	<b>def</b>:
+		<def>um curso de água natural que flui em direção ao oceano, lago ou outro rio</def>	
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>robalo</k><def>
+	<b>EN</b>: <dtrn>sea bass</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_robalo_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>dicentrarchus labrax</def></def></ar>
+<ar><k>rochas</k><def>
+	<b>EN</b>: <dtrn>rocks</dtrn><br/>
+
+  <img src='MEDIA/natureza-rochas.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>Rodentia</k><def>
+	<b>EN</b>: <dtrn>Rodentia</dtrn><br/>
+	<b>def</b>:
+		<def>Possuem dois grandes dentes incisivos superiores e dois inferiores, com mandíbula não fusionada ao crânio, permitindo a mastigação em movimentos circulares.</def>	
+	<b>dom</b>:
+		<def><kref>Rodentia</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Capivara</kref></def>
+		<def><kref>Rato</kref></def>
+		<def><kref>Rodentia</kref></def></def></ar>
+<ar><k>romã</k><def>
+	<b>EN</b>: <dtrn>pomegranate</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da romãzeira, arredondado e de casca avermelhada ou acastanhada, com interior comestível dividido por uma membrana branca e composto por um conjunto de sementes envoltas numa polpa vermelha ou rosada</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>rosa</k><def>
+	<b>EN</b>: <dtrn>rose</dtrn><br/>
+
+  <img src='MEDIA/rosa.jpg' alt='grande'/>	<b>def</b>:
+		<def>arbustos ou trepadeiras, providos de acúleos.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>salmonete</k><def>
+	<b>EN</b>: <dtrn>red mullet</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_Salmonete_png.png' alt='grande'/>	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>mullus</def></def></ar>
+<ar><k>salsa</k><def>
+	<b>EN</b>: <dtrn>parsley</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>Saltão</k><def>
+	<b>EN</b>: <dtrn>Grasshopper</dtrn><br/>
+	<b>def</b>:
+		<def>Os gafanhotos são os insetos pertencentes à subordem Caelifera da ordem Orthoptera, caracterizados por terem o fémur das pernas posteriores muito grandes e fortes, o que lhes permite deslocarem-se aos saltos.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto sem asas</kref></def></def></ar>
+<ar><k>sardinha</k><def>
+	<b>EN</b>: <dtrn>sardine</dtrn><br/>
+
+  <img src='MEDIA/dominiopeixes_sardinha_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>sardina pilchardus</def></def></ar>
+<ar><k>sargo</k><def>
+	<b>EN</b>: <dtrn>sargo</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>diplodus sargus</def></def></ar>
+<ar><k>semeador</k><def>
+	<b>EN</b>: <dtrn>seeder</dtrn><br/>
+
+  <img src='MEDIA/semeador.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>seres vivos</k><def>
+	<b>hpn</b>:
+		<def><kref>animais</kref></def></def></ar>
+<ar><k>serpente</k><def>
+	<b>EN</b>: <dtrn>snake</dtrn><br/>
+	<b>def</b>:
+		<def>réptil ofídio</def>	
+	<b>dom</b>:
+		<def><kref>ofídios</kref></def></def></ar>
+<ar><k>Sirenia</k><def>
+	<b>EN</b>: <dtrn>Sirenia</dtrn><br/>
+	<b>def</b>:
+		<def>São os únicos mamíferos herbívoros e aquáticos, ocupando ambientes rasos de rios, estuários e mar.</def>	
+	<b>dom</b>:
+		<def><kref>Sirenia</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Peixe-boi-marinho</kref></def>
+		<def><kref>Sirenia</kref></def></def></ar>
+<ar><k>slats</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>slats</dtrn><br/>
+	<b>def</b>:
+		<def>são acionados antes do pouso e auxiliam na sustentação do avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>sobreiro</k><def>
+	<b>EN</b>: <dtrn>cork tree</dtrn><br/>
+
+  <img src='MEDIA/sobreiro.jpg' alt='grande'/>	<b>def</b>:
+		<def>árvore perene da família das Fagáceas.</def>	
+	<b>dom</b>:
+		<def><kref>Árvores</kref></def></def></ar>
+<ar><k>sol</k><def>
+	<b>EN</b>: <dtrn>sun</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>solo</k><def>
+	<b>EN</b>: <dtrn>soil</dtrn><br/>
+
+  <img src='MEDIA/natureza-terreno.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Natureza</kref></def>	
+	<b>hpr</b>:
+		<def><kref>terreno</kref></def></def></ar>
+<ar><k>spoilers</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>spoilers</dtrn><br/>
+	<b>def</b>:
+		<def>diminuir a sustentação do avião</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>sumo</k><def>
+	<b>EN</b>: <dtrn>juice</dtrn><br/>
+	<b>def</b>:
+		<def>Líquido orgânico extraído ou libertado de uma matéria vegetal ou animal</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>tamboril</k><def>
+	<b>EN</b>: <dtrn>monk fish</dtrn><br/>
+
+  <img src='MEDIA/dominiodepeixes_tamboril_jpg.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Peixes de Portugal</kref></def>	
+	<b>nome_científico</b>:
+		<def>lophius psicatorius</def></def></ar>
+<ar><k>tangerina</k><def>
+	<b>EN</b>: <dtrn>mandarin</dtrn><br/>
+	<b>def</b>:
+		<def>fruto mais pequeno que a laranja e bastante aromático</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>tartaruga</k><def>
+	<b>EN</b>: <dtrn>turtle</dtrn><br/>
+	<b>def</b>:
+		<def>réptil anfíbio quelónio caracterizado por dois escudos ósseos que lhe cobrem todo o corpo.</def>	
+	<b>dom</b>:
+		<def><kref>anfíbios</kref></def></def></ar>
+<ar><k>Tatu</k><def>
+	<b>EN</b>: <dtrn>Armadillo</dtrn><br/>
+	<b>def</b>:
+		<def>Mamíferos xenartros da América do Sul cujo corpo é revestido de uma couraça.</def>	
+	<b>dom</b>:
+		<def><kref>Xenartros</kref></def></def></ar>
+<ar><k>tempestade</k><def>
+	<b>EN</b>: <dtrn>storm</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>terremoto</k><def>
+	<b>EN</b>: <dtrn>earthquake</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>terreno</k><def>
+	<b>hpn</b>:
+		<def><kref>solo</kref></def></def></ar>
+<ar><k>tipo de ecossistema</k><def>
+	<b>hpn</b>:
+		<def><kref>bioma</kref></def></def></ar>
+<ar><k>tomate</k><def>
+	<b>EN</b>: <dtrn>tomato</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>tomilho</k><def>
+	<b>EN</b>: <dtrn>thyme</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Horta</kref></def></def></ar>
+<ar><k>TOP</k><def>
+	<b>dom</b>:
+		<def><kref>TOP</kref></def>	
+	<b>subdom</b>:
+		<def><kref>alimentos</kref></def>
+		<def><kref>Animais</kref></def>
+		<def><kref>aviao</kref></def>
+		<def><kref>Mamíferos</kref></def>
+		<def><kref>Natureza</kref></def>
+		<def><kref>Peixes</kref></def>
+		<def><kref>Plantas</kref></def>
+		<def><kref>Quinta</kref></def></def></ar>
+<ar><k>Traça</k><def>
+	<b>EN</b>: <dtrn>Moth</dtrn><br/>
+	<b>def</b>:
+		<def>comum às larvas, especialmente as da família dos tineídeos, originárias da Europa, que corroem artefatos de lã, seda ou peles e geralmente são observadas transportando o seu casulo</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>trator</k><def>
+	<b>EN</b>: <dtrn>tractor</dtrn><br/>
+
+  <img src='MEDIA/trator.jpg' alt='grande'/>	<b>dom</b>:
+		<def><kref>Equipamentos agrícolas</kref></def></def></ar>
+<ar><k>trovoada</k><def>
+	<b>EN</b>: <dtrn>thunderstorm</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Natureza</kref></def></def></ar>
+<ar><k>tulipa</k><def>
+	<b>EN</b>: <dtrn>tulip</dtrn><br/>
+	<b>def</b>:
+		<def>flor ornamental do gênero de plantas liliáceas.</def>	
+	<b>dom</b>:
+		<def><kref>Flores</kref></def></def></ar>
+<ar><k>urubu</k><def>
+	<def>-- var: PT-BR</def>
+	<b>PT</b>: <dtrn>abutre</dtrn><br/>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>vulture</dtrn><br/>
+
+  	<b>dom</b>:
+		<def><kref>Aves que voam</kref></def>	
+	<b>hpr</b>:
+		<def><kref>ave</kref></def></def></ar>
+<ar><k>uva</k><def>
+	<b>EN</b>: <dtrn>grapes</dtrn><br/>
+	<b>def</b>:
+		<def>fruto da videira</def>	
+	<b>dom</b>:
+		<def><kref>frutas</kref></def></def></ar>
+<ar><k>vaca</k><def>
+	<b>EN</b>: <dtrn>cow</dtrn><br/>
+	<b>dom</b>:
+		<def><kref>Animais da quinta</kref></def></def></ar>
+<ar><k>vegetação densa</k><def>
+	<b>hpn</b>:
+		<def><kref>floresta</kref></def></def></ar>
+<ar><k>velocimetro</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>speedometer</dtrn><br/>
+	<b>def</b>:
+		<def>indica a velocidade do avião em função do deslocamento do ar</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Vespa</k><def>
+	<b>EN</b>: <dtrn>Wasp</dtrn><br/>
+
+  <img src='MEDIA/vespa.png' alt='grande'/>	<b>def</b>:
+		<def>comum a todos os insetos himenópteros; seus representantes são geralmente alados, providos de ferrão na extremidade do abdome e com patas posteriores não achatadas.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>Vespa Asiática</k><def>
+	<b>EN</b>: <dtrn>Hornet</dtrn><br/>
+
+  <img src='MEDIA/vespa asiatica.png' alt='grande'/>	<b>def</b>:
+		<def>comum aos insetos himenópteros; é uma espécie de origem asiática; caracteriza-se por ter cabeça preta com face alaranjada e o corpo castanho-escuro ou preto, com faixas finas também alaranjadas.</def>	
+	<b>dom</b>:
+		<def><kref>Inscetos</kref></def>	
+	<b>hpr</b>:
+		<def><kref>Insecto com asas</kref></def></def></ar>
+<ar><k>víbora</k><def>
+	<b>EN</b>: <dtrn>viper</dtrn><br/>
+	<b>def</b>:
+		<def>Gênero de répteis ofídios ovovivíparos.</def>	
+	<b>dom</b>:
+		<def><kref>ofídios</kref></def></def></ar>
+<ar><k>vinho</k><def>
+	<b>EN</b>: <dtrn>wine</dtrn><br/>
+	<b>def</b>:
+		<def>Bebida alcoólica que se obtém da fermentação, total ou parcial, do sumo das uvas frescas</def>	
+	<b>dom</b>:
+		<def><kref>bebidas</kref></def></def></ar>
+<ar><k>winglet</k><def>
+	<def>-- var: PT-PT</def>
+	<b>EN</b>: <dtrn>winglet</dtrn><br/>
+	<b>def</b>:
+		<def>é uma superficie externa do avião, que se extende além da superficie de sustentação. Tem por função diminuir o arrasto induzido</def>	
+	<b>dom</b>:
+		<def><kref>aviao</kref></def></def></ar>
+<ar><k>Xenartros</k><def>
+	<b>EN</b>: <dtrn>Xenarthros</dtrn><br/>
+	<b>def</b>:
+		<def>Esses animais têm a distribuição geográfica que vai do Centro sul da América do Norte, passando pelas América Central até o sul da América do Sul. O nome da ordem advém da estrutura das vértebras destes animais, bastante distinta dos restantes mamíferos. As vértebras dorso-lombares apresentam, além das articulações comuns, uma articulação acessória (xenartria). De um modo geral, os membros do grupo têm os dentes molares pouco desenvolvidos, o que lhes deu o nome popular de desdentados.</def>	
+	<b>dom</b>:
+		<def><kref>Xenartros</kref></def>	
+	<b>supdom</b>:
+		<def><kref>Eutérios (Placentários)</kref></def>	
+	<b>voc</b>:
+		<def><kref>Coala</kref></def>
+		<def><kref>Preguiça</kref></def>
+		<def><kref>Tatu</kref></def>
+		<def><kref>Xenartros</kref></def></def></ar>
+
+</lexicon>
+
+</xdxf>

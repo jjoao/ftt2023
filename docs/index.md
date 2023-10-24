@@ -18,11 +18,33 @@ author:
 
 ## Fichas
 
-- [ficha1](Ficha1.pdf)
+- [Ficha1](Ficha1.pdf)
 
 ## Trabalhos Práticos
 
-- [TP1](TP1.pdf) - _Entrega até 29 de outubro_
+### TP1 _Entrega até 29 de outubro às 23:59_
+
+- [Enunciado TP1](TP1.pdf)
+- [Link de submissão](https://natura.di.uminho.pt/jjbin/tti2023-tp1)
+- **Relatório**
+  1. Capa (título, nome e número dos alunos, UC, data)
+  2. Índice automático
+  3. Estrutura
+     1. Microestrutura
+     ~~~
+      |__ PT/EN
+      |    |__ +var
+      |    |__ +obs
+      |____ hpr
+      |____ def
+      |____ obs
+      |____ !img
+      |____ etc....
+      ~~~
+     2. Macroestrutura (Árvore de domínios)
+     3. Estatísticas
+  4. Fontes de informação (bibliografia)
+  5. Extras
 
 ## Materiais
 
@@ -30,13 +52,25 @@ author:
   - [ficheiro de tradução](materiaistextuais/traducao) (exemplo)
 - [planoDeCurso.txt](materiaistextuais/plano-de-curso)
   - [ficheiro de tradução](materiaistextuais/plano_trad) (exemplo)
-- [xadrez.naterm](materiaistextuais/xadrez.naterm) (exemplo)
-  - [MEDIA.zip](materiaistextuais/MEDIA.zip)
+- [xadrez.naterm](materiaistextuais/xadrez.naterm) + [MEDIA.zip](materiaistextuais/MEDIA.zip) (exemplo)
+- [Exercício de domínios](materiaistextuais/dominios.naterm) + [MEDIA](materiaistextuais/MEDIA-dominios.zip) COMPLETO
+- [Exercício de domínios PL1](materiaistextuais/PL1/tudo.naterm) + [MEDIA](materiaistextuais/PL1/MEDIA.zip)
+  -  [XDXF gerado](materiaistextuais/PL1/goldendict.xdxf)
+  -  [HTML gerado](materiaistextuais/PL1/paginaweb.html)
+- [Exercício de domínios PL2](materiaistextuais/PL2/tudo.naterm) + [MEDIA](materiaistextuais/PL2/MEDIA.zip)
+  -  [XDXF gerado](materiaistextuais/PL2/goldendict.xdxf)
+  -  [HTML gerado](materiaistextuais/PL2/paginaweb.html)
+
+### Bi-Textos
+
+- Harry Potter e a Pedra Filosofal [PT](materiaistextuais/Harry_Potter_e_A_Pedra_Filosofal_PT.txt) [EN](materiaistextuais/Harry_Potter_e_A_Pedra_Filosofal_EN.txt) 
 
 ## Ferramentas
 
 - [Aplicação WEB substituição](https://colab.research.google.com/drive/1j-lL8bcJCE3q9sweK8A1xOd-IQZqU7lM?usp=sharing) - Google Colab
 - [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
+- [GoldenDict](http://goldendict.org)
+- [LF Aligner](https://sourceforge.net/projects/aligner/files/)
 
 ## Outros
 
@@ -48,8 +82,17 @@ author:
 
 # Aulas
 
+## 2023-10-24
+- Discussão do desafio de casa
+- Instalação do [LF Aligner](https://sourceforge.net/projects/aligner/files/)
+  - Descomprimir o ficheiro ZIP
+  - Enviar o `aligner` para o desktop
+  - Clicar na aplicação com o icon de `camelo`
+  
+---
+
 ## 2023-10-17
-- Download Golden Dict (ler ficheiros .xdxf)
+- Download GoldenDict (ler ficheiros .xdxf)
   - [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc2-372-gc3ff15f)
   - [MacOs](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X#150-rc2-372-gc3ff15f)
 
