@@ -42,9 +42,9 @@ author:
       |____ etc....
       ~~~
      2. Macroestrutura (Árvore de domínios)
-     3. Estatísticas
-  4. Fontes de informação (bibliografia)
-  5. Extras
+  4. Resultados e estatísticas
+  5. Fontes de informação (bibliografia)
+  6. Extras
 
 ## Materiais
 
