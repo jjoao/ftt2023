@@ -66,6 +66,7 @@ author:
 - [Exercício de domínios PL2](materiaistextuais/PL2/tudo.naterm) + [MEDIA](materiaistextuais/PL2/MEDIA.zip)
   -  [XDXF gerado](materiaistextuais/PL2/goldendict.xdxf)
   -  [HTML gerado](materiaistextuais/PL2/paginaweb.html)
+- [Principezinho](materiaistextuais/bilivros/princepezinho)
 
 ### Bi-Textos
 
