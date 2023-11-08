@@ -46,6 +46,12 @@ author:
   5. Fontes de informação (bibliografia)
   6. Extras
 
+### TP2 _Entrega até 26 de novembro às 23:59_
+
+- [Enunciado TP2](TP2.pdf)
+- [Link de submissão]() _A ANUNCIAR_
+
+
 ## Materiais
 
 - [caoEGato.txt](materiaistextuais/file1)
