@@ -81,6 +81,7 @@ author:
 - [NATerm](https://natura.di.uminho.pt/jjbin/naterm)
 - [GoldenDict](http://goldendict.org)
 - [LF Aligner](https://sourceforge.net/projects/aligner/files/)
+- [Smartcat](https://pt.smartcat.com)
 
 ## Outros
 
