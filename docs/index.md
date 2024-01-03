@@ -49,8 +49,11 @@ author:
 ### TP2 _Entrega até 26 de novembro às 23:59_
 
 - [Enunciado TP2](TP2.pdf)
-- [Link de submissão]() _A ANUNCIAR_
+- [Link de submissão](https://natura.di.uminho.pt/jjbin/tti2023-tp2)
 
+### TP3 _Entrega até 3 de janeiro às 23:59_
+
+- [Link de submissão](https://natura.di.uminho.pt/jjbin/tti2023-tp3)
 
 ## Materiais
 
