@@ -39,6 +39,6 @@ Opções:
 - =      Procurar e agrupar com contexto
 ```
 
-Selecionar + Ctr+F            (contar numero de ocorrências)
+Selecionar + Ctr+F            <span style="color:blue">(contar numero de ocorrências)</span>
 
-Selecionar + Ctr+Shift-F      (Procurar agrupar lista de linhas contendo padrão)
+Selecionar + Ctr+Shift-F      <span style="color:green">(Procurar agrupar lista de linhas contendo padrão)</span>
