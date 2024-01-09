@@ -18,7 +18,7 @@ author:
 - [Principezinho PT](materiaistextuais/bilivros/princepezinho/PT-PT-principezinho.txt)
 - [Principezinho FR](materiaistextuais/bilivros/princepezinho/FR-Le_petit_prince-Antoine_de_Saint-Exupery.txt)
 - [Sublime Text](sublime)
-- [Terminologia Inicial](matetiaistextuais/Terminologia.xlxs)
+- [Terminologia Inicial](materiaistextuais/Terminologia.xlsx)
 
 ----
 
