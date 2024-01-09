@@ -3,8 +3,8 @@
 ~~~ 
    Alt            Mostra o barra de menu
    Ctrl+F         procura
-   Ctrl+H         procura-substitui
-   Ctrl+Shift+F   procurar-agrupar (selecionar ou não o contexto)
+   Ctrl+H         procura e substitui
+   Ctrl+Shift+F   procurar e agrupar (selecionar ou não o contexto)
    Alt+F3         para selecionar várias ocurrências
    Ctrl+L         expande a seleção à linha
    Ctrl+G         vai para a linha
@@ -17,7 +17,7 @@ selecionar bloco = Shift + Botão Direito do Rato
 Preferências ▶ Definições – Livre de Distração
 
 
-# Abrir duas Tabs
+# Abrir dois separadores
 
 ~~~
 [Ver]→[Esquema]→[2 Colunas]   
