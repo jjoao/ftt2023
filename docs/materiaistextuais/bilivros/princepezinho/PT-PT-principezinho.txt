@@ -1,4 +1,4 @@
-Capítulo 1
+
 
 Os meninos que me perdoem por dedicar este livro a uma pessoa grande. Mas tenho uma desculpa de
 peso: essa pessoa grande é o melhor amigo que eu tenho no mundo inteiro. E tenho outra desculpa:
@@ -12,7 +12,7 @@ Portanto, a minha dedicatória vai passar a ser assim:
 
 Para Léon Werth quando ele era pequeno
 
-Capítulo 2
+Capítulo 1
 
 UMA VEZ, tinha eu seis anos, vi uma imagem magnífica num livro sobre a Floresta Virgem chamado
 «Histórias Vividas». Era uma jibóia a engolir uma fera. Copiei o desenho para vocês poderem ver
@@ -62,7 +62,7 @@ jibóias, de florestas virgens ou de estrelas. Punha-me era ao seu nível. Falav
 golfe, de política e de gravatas. E a pessoa grande lá ficava toda contente por ter conhecido um
 homem com tanto juízo.
 
-Capítulo 3
+Capítulo 2
 
 Foi assim que vivi sempre sozinho, sem ter ninguém com quem falar, mas falar a sério, até ao dia em
 que, há seis anos, tive uma avaria em pleno deserto do Saara. O motor tinha qualquer coisa partida.
@@ -169,7 +169,7 @@ Baixou a cabeça para o desenho:
 
 E foi assim que eu travei conhecimento com o principezinho.
 
-Capítulo 4
+Capítulo 3
 
 Demorei muito tempo a perceber de onde é que ele vinha. O principezinho, que passava o tempo a
 fazer perguntas, parecia nunca ouvir as minhas. Foi uma palavra aqui, uma frase ali, que, pouco a
@@ -233,7 +233,7 @@ E talvez com uma ponta de melancolia, acrescentou:
 
 fig - o principezinho no asteróide B 612
 
-Capítulo 5
+Capítulo 4
 
 Já sabia, portanto, duas coisas e a segunda, muito importante: o seu planeta de origem era pouco
 maior dó que uma casa!
@@ -307,7 +307,7 @@ não há remédio: vocês é que terão de me perdoar. O meu amigo nunca explica
 que eu era igual a ele. Infelizmente, eu não sei ver ovelhas através de caixas. Talvez esteja um
 bocado parecido com as pessoas grandes. Devo ter envelhecido.
 
-Capítulo 6
+Capítulo 5
 
 Todos os dias eu ficava a saber mais qualquer coisa sobre o planeta, sobre a sua partida, sobre a
 viagem. Eram coisas que emergiam de mansinho ao sabor dos seus pensamentos. Foi assim que, no
@@ -386,7 +386,7 @@ consegui. Desenhei os embondeiros inspirado por uma grande sensação de urgênc
 
 fig - Embondeiros no asteróide do principezinho
 
-Capítulo 7
+Capítulo 6
 
 Ah, principezinho! Assim, aos poucos, fui ficando a conhecer a tua melancólica vidinha! Durante
 muito tempo, a tua única distracção foi a beleza dos crepúsculos. Fiquei a sabê-lo na manhã do
@@ -421,7 +421,7 @@ E pouco depois, acrescentaste:
 
 Mas o principezinho não me respondeu.
 
-Capítulo 8
+Capítulo 7
 
 No quinto dia, ainda mais uma vez graças à ovelha, fiquei a saber um segredo da vida do
 principezinho. Perguntou-me de chofre, sem rodeios, como se fruto de um problema longamente
@@ -517,7 +517,7 @@ nenhum... Eu desenho-lhe um açaimo à tua ovelha... Eu desenho-te uma armadura 
 ... " Não sabia que mais lhe dizer. Sentia-me completamente desastrado. Não sabia como chegar até
 ele... É tão misterioso, o país das lágrimas!
 
-Capítulo 9
+Capítulo 8
 
 Não tardei a conhecer melhor essa flor. No planeta do principezinho sempre tinham existido flores
 muito simples, guarnecidas com uma única fiada de pétalas. Sabiam muito bem qual era o lugar delas
@@ -618,7 +618,7 @@ actos. Ela perfumava-me e dava-me luz! Eu nunca devia ter fugido! Devia era ter 
 perceber toda a ternura escondida naquelas suas pobres manhas. As flores são tão contraditórias!
 Mas eu era novo demais para a saber amar."
 
-Capítulo 10
+Capítulo 9
 
 Julgo que, para fugir, aproveitou uma migração de pássaros selvagens. No dia da partida, passou a
 manhã a arranjar o planeta, para deixar tudo em ordem. Varreu cuidadosamente por dentro os vulcões
@@ -670,7 +670,7 @@ E mais uma vez exibia ingenuamente os seus quatro espinhos. Depois, ainda disse:
 
 Porque ela não queria que ele a visse chorar. Era uma flor tão orgulhosa...
 
-Capítulo 11
+Capítulo 10
 
 Como se encontrava na zona dos asteróides 325, 326, 327, 328, 329, e 330, começou por ir
 visitá-los. Queria arranjar uma ocupação e instruir-se.
@@ -830,7 +830,7 @@ E arvorava uns ares de grande autoridade.
 "As pessoas grandes são mesmo muito esquisitas", foi o que principezinho foi a pensar durante a
 viagem.
 
-Capítulo 12
+Capítulo 11
 
 No segundo planeta vivia um vaidoso.
 
@@ -879,7 +879,7 @@ E o principezinho foi-se embora.
 "Não há dúvida de que as pessoas grandes são mesmo bastante esquisitas", foi o que foi muito
 simplesmente a pensar durante a viagem.
 
-Capítulo 13
+Capítulo 12
 
 No planeta seguinte vivia um bêbedo. Foi uma visita muito curta, mas que mergulhou o principezinho
 numa grande melancolia.
@@ -908,7 +908,7 @@ E o principezinho foi-se embora, perplexo.
 "Não há dúvida de que as pessoas grandes são mesmo muitíssimo esquisitas", foi o que ele foi a
 pensar, durante a viagem.
 
-Capítulo 14
+Capítulo 13
 
 O quarto planeta era o do homem de negócios. Estava tão atarefado que nem sequer levantou a cabeça
 quando o principezinho chegou.
@@ -1042,7 +1042,7 @@ principezinho foi-se embora.
 "As pessoas grandes são, de facto, extraordinárias", foi o que foi muito simplesmente a pensar
 durante a viagem.
 
-Capítulo 15
+Capítulo 14
 
 O quinto planeta era extremamente curioso. Era o mais pequeno de todos. Só lá havia espaço, à
 justa, para um candeeiro e um acendedor de candeeiros.
@@ -1146,7 +1146,7 @@ Mas o que o principezinho não ousava confessar a si próprio que, acima de tudo
 poder aproveitar os mil e quatrocentos pores do Sol em vinte e quatro horas daquele planeta
 abençoado!
 
-Capítulo 16
+Capítulo 15
 
 O sexto planeta era um planeta dez vezes maior.
 
@@ -1269,7 +1269,7 @@ Foi a primeira vez que se arrependeu de ter partido. Mas logo recobrou o ânimo:
 
 E o principezinho foi-se embora, sempre a pensar na sua flor.
 
-Capítulo 17
+Capítulo 16
 
 O sétimo planeta foi, portanto, a Terra.
 
@@ -1292,7 +1292,7 @@ nenhum trocava a ordem de entrada em cena. Era um espectáculo grandioso.
 Só o acendedor do único candeeiro do pólo Norte e o seu confrade do único candeeiro do pólo Sul
 tinham uma vida calma e regalada: não trabalhavam senão duas vezes por ano.
 
-Capítulo 18
+Capítulo 17
 
 Às vezes, quando se quer ter graça, dizem-se algumas mentiras. Devo confessar que não foi lá muito
 honesto falar-vos dos acendedores de candeeiros. Quem não conheça o planeta, arrisca a ficar com
@@ -1369,7 +1369,7 @@ falas por enigmas?
 
 E ambos se calaram.
 
-Capítulo 19
+Capítulo 18
 
 O principezinho atravessou o deserto e a única coisa que encontrou foi uma flor. Uma flor de três
 pétalas, uma florzita de nada...
@@ -1392,7 +1392,7 @@ muita falta.
 
 fig - Flor no deserto
 
-Capítulo 20
+Capítulo 19
 
 O principezinho subiu a uma montanha muito alta. As únicas montanhas que conhecia até então eram os
 seus três vulcões que mal lhe chegavam ao joelho. E servia-se do vulcão extinto como tamborete.
@@ -1417,7 +1417,7 @@ fig - Montanha muito alta
 homens têm cá uma falta de imaginação! Só sabem repetir o que se lhes diz... Ao menos eu, lá no meu
 planeta, tinha uma flor: e era ela sempre a primeira a falar... "
 
-Capítulo 21
+Capítulo 20
 
 Mas aconteceu que o principezinho, depois de ter caminhado durante muito tempo e de só ter
 encontrado areia, rochas e neves, acabou por descobrir uma estrada. E todas as estradas vão dar aos
@@ -1452,7 +1452,7 @@ uma rosa vulgar. Ela e os meus três vulcões que mal me chegam ao joelho - um d
 extinto para todo o sempre - não fazem de mim um grande príncipe... " E, deitado na relva, desatou
 a chorar.
 
-Capítulo 22
+Capítulo 21
 
 Foi então que apareceu a raposa.
 
@@ -1636,7 +1636,7 @@ rosa…
 
 - Sou responsável pela minha rosa... - repetiu o principezinho, para nunca mais se esquecer.
 
-Capítulo 23
+Capítulo 22
 
 - Olá, bom dia! - disse o principezinho.
 
@@ -1678,7 +1678,7 @@ alguém lha tira, desatam a chorar...
 
 - Que sorte que as crianças têm! - disse o agulheiro.
 
-Capítulo 24
+Capítulo 23
 
 - Olá, bom dia! - disse o principezinho.
 
@@ -1701,7 +1701,7 @@ a andar muito de mansinho à procura de uma fonte…”
 
 fig - A fonte
 
-Capítulo 25
+Capítulo 24
 
 Íamos no oitavo dia da minha avaria no deserto e, enquanto o principezinho me contava a história do
 vendedor, eu tinha bebido a última gota da minha provisão de água.
@@ -1789,7 +1789,7 @@ E, sempre assim a andar, acabei por descobrir o poço ao nascer do dia.
 
 fig - O poço
 
-Capítulo 26
+Capítulo 25
 
 - Os homens - disse o principezinho - bem se encafuam dentro dos comboios, mas já não sabem do que
 andam à procura. Portanto, não fazem senão andar à roda...
@@ -1907,7 +1907,7 @@ aqui por ti. Volta amanhã à tardinha.
 Mas eu não consegui ficar descansado. Lembrava-me da raposa. Quando nos deixamos prender a alguém,
 arriscamo-nos a chorar de vez em quando…
 
-Capítulo 27
+Capítulo 26
 
 Ao lado do poço, havia um velho muro em ruínas. No dia seguinte, à tardinha, ao voltar do trabalho,
 ainda vinha longe quando avistei o principezinho sentado lá em cima, com as pernas a baloiçar. E
@@ -2121,7 +2121,7 @@ mansinho, como caem as árvores. Nem sequer fez barulho, por causa da areia.
 
 fig - caiu de mansinho como caem as árvores
 
-Capítulo 28
+Capítulo 27
 
 E agora, claro, já lá vão seis anos... Nunca contei esta história a ninguém. Os meus colegas,
 quando me viram, tiveram uma grande alegria por me tornarem a ver vivo. Eu estava triste, mas
@@ -2153,7 +2153,7 @@ diferente...
 
 E nenhuma pessoa grande há-de alguma vez perceber como isso é importante!
 
-Capítulo 29
+Capítulo 28
 
 Para mim, esta é a mais bela e mais triste paisagem do mundo. É a mesma paisagem da página
 anterior, mas eu voltei a desenhá-la para vo cês a verem melhor. Foi aqui que o principezinho fez a
