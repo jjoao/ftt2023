@@ -41,4 +41,4 @@ Opções:
 
 Selecionar + Ctr+F            <span style="color:blue">(contar numero de ocorrências)</span>
 
-Selecionar + Ctr+Shift-F      <span style="color:green">(Procurar agrupar lista de linhas contendo padrão)</span>
+Selecionar + Ctr+Shift-F      <span style="color:red">(Procurar agrupar lista de linhas contendo padrão)</span>
