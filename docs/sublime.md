@@ -2,43 +2,43 @@
 
 ~~~ 
    Alt            Mostra o barra de menu
-   Ctrl+F         find
-   Ctrl+H         find-replace
-   Ctrl+Shift+F   find-grep! (selecionar ou não contexto/ER/...)
-   Alt+F3         to multi-select all occurences.
-   Ctrl+L         (Expand Selection to Line).
-   Ctrl+G         goto to line
-   Ctrl+N         new buffer/file
+   Ctrl+F         procura
+   Ctrl+H         procura-substitui
+   Ctrl+Shift+F   procurar-agrupar (selecionar ou não o contexto)
+   Alt+F3         para selecionar várias ocurrências
+   Ctrl+L         expande a seleção à linha
+   Ctrl+G         vai para a linha
+   Ctrl+N         novo ficheiro
 ~~~ 
 
-selecionar bloco = shit+botaoDir
+selecionar bloco = Shift + Botão Direito do Rato
 
 
- Preferences ▶ Settings – Distraction Free 
+Preferências ▶ Definições – Livre de Distração
 
 
-# abrir duas Tabs
+# Abrir duas Tabs
 
 ~~~
-[view]→[layout]→[columns2]   
+[Ver]→[Esquema]→[2 Colunas]   
 
 ou 
 
-(Alt+Shift+2)
+(Alt + Shift + 2)
 ~~~
 
 
-# Find...
+# Procura...
 
 Opções:
 
 ```
-- .*     selecionar expressões regulars
+- .*     selecionar expressões regulares
 - '',,   palavras completas
-- Aa     ignore case
-- =      find grep com contexto
+- Aa     Sem sensibilidade a carateres
+- =      Procurar e agrupar com contexto
 ```
 
-Selecionar + Ctr+F     (contar numero de ocorrências)
+Selecionar + Ctr+F            (contar numero de ocorrências)
 
-Selecionar + Ctr+Shift-F     (Find Grep lista de linhas contendo padrão)
+Selecionar + Ctr+Shift-F      (Procurar agrupar lista de linhas contendo padrão)
